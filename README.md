@@ -34,10 +34,11 @@ PandaTool提供了用户友好的可视化页面，旨在帮助初学者和专�
 
 PandaTool拥有活跃且稳定的社区，用户可以在社区中与其他人交流，分享经验。此外，我们也积极鼓励用户建言献策，以便让我们可以持续优化自身的服务和产品功能。未来，我们将搭建一个DAO组织，以链上治理的形式更好的运营。
 
-// <script src="https://utteranc.es/client.js"
-        repo="https://github.com/Crypto11234/Comment"
+<script src="https://utteranc.es/client.js"
+        repo="你的GitHub用户名/仓库名"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"
         async>
 </script>
+
