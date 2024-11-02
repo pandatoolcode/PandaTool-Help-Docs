@@ -37,12 +37,12 @@ description: 基于Solana的最全一键发币教程
 
 完成钱包链接之后，接下来就是填写代币参数，具体有如下几项：
 
-<figure><img src="../.gitbook/assets/参数填写.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/FireShot Capture 032 - 全网最强Solana一键发币平台 - PandaTool熊猫助手 - solana.pandatool.org.png" alt=""><figcaption><p>填写参数</p></figcaption></figure>
 
 **必填部分**
 
-* **全称：**支持英文、中文以及中英混合，最多15个字符
-* **简称：**支持英文、中文以及中英混合，最多15个字符
+* **全称：**支持英文、中文以及中英混合，最多**30个**字符
+* **简称：**支持英文、中文以及中英混合，最多**10个**字符
 * **精度：**默认填9，精度与你能填写的最大供应量有关。
 * **供应数量：**当精度为9时，供应量最大不能超过100亿。当精度为8时，不能超过1000亿，以此类推
 * **logo：**图片小于**100k**，尺寸建议256x256像素（正方形）
