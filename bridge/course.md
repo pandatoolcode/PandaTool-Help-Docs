@@ -1,24 +1,38 @@
-# 使用教程
+---
+description: 一文学会使用PandaBridge跨链桥
+---
+
+# PandaBridge使用教程
 
 ### 一、电脑使用教程
 
 兑换不同链的代币需要手动切换到 MetaMask 里不同的链，MetaMask 里默认只有ETH 链，如需关联其他链则需自行填写链的信息进行添加。
 
-#### 1、钱包连接
+#### 1、链接钱包
 
-在Metamask配置并切换链之后，进入官网[https://pandabridge.org/#/](https://pandabridge.org/#/)右上角链接钱包。如果链接成功，将能看到你的钱包地址，以及所属的链
+首先，我们进入到跨链桥的官网 [https://bridge.pandatool.org/](https://bridge.pandatool.org/)  ，页面往下拉，点击链接钱包，并选择你要连接的钱包类型
 
-<figure><img src="../.gitbook/assets/pandabridge 连接钱包.png" alt=""><figcaption><p>连接钱包前</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/链接钱包 (2).png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/选择钱包类型.png" alt=""><figcaption></figcaption></figure>
 
+例如我们选择小狐狸，此时浏览器会自动弹出小狐狸，并提示你进行连接
 
-<figure><img src="../.gitbook/assets/pandabridge 连接钱包后.png" alt=""><figcaption><p>连接钱包后</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/下一步连接钱包.png" alt=""><figcaption></figcaption></figure>
 
-#### 2、选择代币并输入数量
+连接成功后，会在右上角那里看到自己的钱包地址
 
-在`发起链`那里，选择要支出的代币，并输入数量。同时在接收链那里，选择你要到账的代币以及所属的链。例如，我要用0.01个主网BNB兑换测试网tBNB，那么在`发起链`那里选择BSCMain，并输入0.01，此时`接收链`那里会自动看到你能获得的tBNB数量
+<figure><img src="../.gitbook/assets/连接成功 (1).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/PandaBridge 电脑端.png" alt=""><figcaption></figcaption></figure>
+2、选择链与代币
+
+在`发起链`那里，选择要支出的代币，并输入数量。同时在接收链那里，选择你要到账的代币以及所属的链。
+
+<figure><img src="../.gitbook/assets/选择链.png" alt=""><figcaption></figcaption></figure>
+
+例如，我要用0.01个主网BNB兑换测试网tBNB，那么在`发起链`那里选择BSC，并输入0.01，此时`接收链`那里选择BSC测试网，就能自动看到你能获得的tBNB数量
+
+<figure><img src="../.gitbook/assets/兑换.png" alt=""><figcaption></figcaption></figure>
 
 同时，默认的`接收地址`是你发起交易的钱包地址，你还可以自定义接收地址。注意，不要填写交易所地址，或者合约地址。
 
@@ -46,33 +60,21 @@
 
 #### 1、兑换价格和比例是固定的吗？
 
-不是，价格和比例是根据跨链资金池流动性决定的，当然，我们也会定期注入流动资金，确保价格不会偏差过大。
+不是，价格和比例是根据ChainLink预言机获取的实时市场行情
 
-#### 2、各个链都代表什么意思？
-
-* BSCMain：币安智能链（主网，BNB）
-* BSCTest：币安测试链（测试网，tBNB）
-* Goerli：以太坊Goerli测试链（Geth）
-
-#### 3、兑换没到账是什么情况？
+#### 2、兑换没到账是什么情况？
 
 有时候遇到卡顿，可能会延迟，但是最多3分钟内，跨链就会完成。您可以先通过“兑换记录”查询状态，如果状态显示完成，但是依然没有收到代币，可以进入电报群联系志愿者处理
 
-* 电报客服群：[https://t.me/pandatool](https://t.me/pandatool)
+* 电报志愿者群：[https://t.me/pandatool](https://t.me/pandatool)
 
-#### 4、跨链桥需要实名认证或者登录吗？
+#### 3、跨链桥需要实名认证或者登录吗？
 
-完全不需要，PandaTool Bridge具有很高的匿名性，用户只需链接钱包就能使用，无需登录
+完全不需要，PandaBridge具有很高的匿名性，用户只需链接钱包就能使用，无需登录
 
-#### 5、接收地址可以是其他地址吗？
+#### 4、接收地址可以是其他地址吗？
 
 可以。您兑换的代币，可以选择使用另外一个钱包地址接受，这样也是为了保护用户隐私
-
-#### 6、跨链桥是开源的吗？
-
-当然，我们的智能合约是在链上完全开源的，您可以在各个链的浏览器上查询我们的合约代码，或者通过我们的Github查询
-
-* Github主页：[https://github.com/pandatoolcode/PandaBridge](https://github.com/pandatoolcode/PandaBridge)
 
 ### 四、找到我们
 
@@ -81,4 +83,3 @@
 * Telegram: [https://t.me/pandatool](https://t.me/pandatool)
 * Twitter: [https://twitter.com/PandaTool](https://twitter.com/PandaTool)
 * Email：contactpandatool@gmail.com
-

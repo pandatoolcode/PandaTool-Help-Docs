@@ -1,14 +1,18 @@
+---
+description: 业内领先的Web3.0多链工具平台
+---
+
 # PandaTool一键发币
 
 ## 基本信息
 
-PandaTool是一个基于区块链技术的在线工具箱，旨在满足快速增长的加密货币去中心化金融（DeFi）领域用户的需求。PandaTool提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。此外，PandaTool还提供一些附加功能，如跨链闪兑、批量转账、批量生成账号、市值管理等，未来还将推出代币预售、代币锁定与解锁、合约审计等多项服务。
+PandaTool是业内领先的Web3.0多链工具平台，旗下拥有小额跨链工具、代币铸造工具、批量转账工具、批量归集工具、交易工具等产品。PandaTool提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。即便不懂编程的小白用户，也能在这里体会到区块链的魅力。目前，PandaTool已经支持Ethereum、BSC、Solana、TRON、BASE、SUI、TON等十多个区块链，未来还将根据用户需求继续融合更多公链。开发更多的功能。
 
 ## **为什么选择PandaTool？**
 
 ### 1、多链支持
 
-PandaTool支持多个公链，包括以太坊、币安智能链BSC、Solana链、Core链、OK链、Arb链等，使得用户可以在不同的公链上创建数字资产，并在PancakeSwap、UniSwap、SushiSwap、QuickSwap、Shadowswap上列出，进而增加了平台的灵活性和可用性。
+PandaTool支持多个公链，包括以太坊、币安智能链BSC、Solana链、TRON波场链、SUI链、BASE链、Arb链、Polygon马蹄链等，使得用户可以在不同的公链上创建数字资产，并在PancakeSwap、UniSwap、SushiSwap、QuickSwap、Shadowswap上列出，进而增加了平台的灵活性和可用性。
 
 ### 2、多样化机制
 
@@ -28,17 +32,8 @@ PandaTool旨在激励用户持续使用我们的平台。我们的目标是为�
 
 ### 6、用户友好
 
-PandaTool提供了用户友好的可视化页面，旨在帮助初学者和专业人士轻松创建自己的数字资产，而无需进行复杂的编程或技术配置，简单易上手。
+PandaTool提供了用户友好的可视化页面，旨在帮助初学者和专业人士轻松创建自己的加密资产，而无需进行复杂的编程或技术配置，简单易上手。
 
 ### 7、强大的社区
 
 PandaTool拥有活跃且稳定的社区，用户可以在社区中与其他人交流，分享经验。此外，我们也积极鼓励用户建言献策，以便让我们可以持续优化自身的服务和产品功能。未来，我们将搭建一个DAO组织，以链上治理的形式更好的运营。
-
-<script src="https://utteranc.es/client.js"
-        repo="https://github.com/Crypto11234/Comment"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-

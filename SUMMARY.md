@@ -73,10 +73,10 @@
 
 * [创建代币预售教程](presale/mintaddsale.md)
 
-## 跨链闪兑 <a href="#bridge" id="bridge"></a>
+## 跨链工具 <a href="#bridge" id="bridge"></a>
 
-* [跨链桥介绍](bridge/information.md)
-* [使用教程](bridge/course.md)
+* [PandaBridge跨链桥介绍](bridge/information.md)
+* [PandaBridge使用教程](bridge/course.md)
 
 ## 操作工具 <a href="#tools" id="tools"></a>
 
