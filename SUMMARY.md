@@ -76,7 +76,9 @@
 ## 跨链工具 <a href="#bridge" id="bridge"></a>
 
 * [PandaBridge跨链桥介绍](bridge/information.md)
-* [PandaBridge使用教程](bridge/course.md)
+* [PandaBridge跨链闪兑详细教程](bridge/course.md)
+* [TP钱包PandaBridge跨链教程](bridge/tp.md)
+* [欧易Web3钱包PandaBridge跨链教程](bridge/okx-web3.md)
 
 ## 操作工具 <a href="#tools" id="tools"></a>
 

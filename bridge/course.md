@@ -2,11 +2,16 @@
 description: 一文学会使用PandaBridge跨链桥
 ---
 
-# PandaBridge使用教程
+# PandaBridge跨链闪兑详细教程
 
-### 一、电脑使用教程
+PandaBridge是专注于小额加密资产的跨链工具，主打一个好用、快速、稳定且安全。在跨链之前，我们需要确保电脑上已经安装了小狐狸钱包或者欧易Web3钱包插件，如果还没有安装，可以参考以下教程：
 
-兑换不同链的代币需要手动切换到 MetaMask 里不同的链，MetaMask 里默认只有ETH 链，如需关联其他链则需自行填写链的信息进行添加。
+* Metamask小狐狸安装教程：[https://help.pandatool.org/practical-information/metamask](https://help.pandatool.org/practical-information/metamask)
+* 欧易Web3钱包安装教程：[https://www.okx.com/zh-hans/help/how-do-i-manage-my-wallet-web](https://www.okx.com/zh-hans/help/how-do-i-manage-my-wallet-web)
+
+接下来，将详细演示，该如何通过电脑进行PandaBridge跨链闪兑操作
+
+### 一、电脑版跨链教程
 
 #### 1、链接钱包
 
@@ -44,35 +49,7 @@ description: 一文学会使用PandaBridge跨链桥
 
 <figure><img src="../.gitbook/assets/历史记录.png" alt=""><figcaption></figcaption></figure>
 
-### 二、TP钱包使用教程
-
-#### 1、进入官网
-
-以TP钱包为例，教大家进行跨链兑换。
-
-首先将TP钱包切换到所需的链，如BSC。然后TP钱包浏览器页面，输入网址[https://bridge.pandatool.org/](https://bridge.pandatool.org/)   跨链页面，并自动连接钱包
-
-<figure><img src="../.gitbook/assets/进入官网 (1).jpg" alt=""><figcaption></figcaption></figure>
-
-#### 2、确认交易细节
-
-输入你要兑换的BNB数量、确定目标链以及目标代币，点击兑换，即可在1分钟内完成交易
-
-<figure><img src="../.gitbook/assets/确认兑换.jpg" alt=""><figcaption></figcaption></figure>
-
-#### 3、查看交易状态
-
-钱包确认支付后，等待30\~90秒，基本上就可以看到交易状态。我们**刷新页面**后，在历史记录里可以看到这笔订单是否完成
-
-<figure><img src="../.gitbook/assets/历史记录.jpg" alt=""><figcaption></figcaption></figure>
-
-### 三、欧易Web3钱包使用教程
-
-
-
-
-
-### 四、常见问题
+### 二、常见问题
 
 **1、兑换价格和比例是固定的吗？**
 
@@ -103,10 +80,13 @@ description: 一文学会使用PandaBridge跨链桥
 
 * 答：是的，PandaBirdge专注于小额加密资产兑换，单笔兑换金额在10\~200U之间
 
-### 五、找到我们
+**8、PandaBridge会拿用户的钱包授权吗？**
 
-如果您有任何问题，可以通过以下方式找到我们：
+* 答：绝对不会，PandaBridge采用的是转账方式，不会获取任何授权
 
-* Telegram: [https://t.me/pandatool](https://t.me/pandatool)
-* Twitter: [https://twitter.com/PandaTool](https://twitter.com/PandaTool)
-* Email：contactpandatool@gmail.com
+**9、为什么我看不到以前的历史兑换记录了？**
+
+* 答：历史记录默认会显示最近的30笔兑换记录，比较久的就不显示了
+
+如何您还有其他问题，或者操作上有不清楚、不明白的地方，可以加入我们的飞机群，群里的志愿者会给你解答的： [https://t.me/pandatool](https://t.me/pandatool)
+

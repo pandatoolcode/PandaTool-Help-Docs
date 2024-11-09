@@ -26,7 +26,7 @@ description: 使用TP钱包进行一键发币
 
 第五步：进入PandaTool官网，选择左上角菜单，找到`发行代币`
 
-<figure><img src="../.gitbook/assets/进入官网.jpg" alt=""><figcaption><p>找到官网菜单</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/进入官网 (1).jpg" alt=""><figcaption><p>找到官网菜单</p></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/选择创建代币.jpg" alt=""><figcaption><p>发行代币</p></figcaption></figure>
 
