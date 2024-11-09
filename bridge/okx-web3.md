@@ -8,8 +8,8 @@ description: 通过欧易Web3钱包完成在PandaBridge的跨链
 
 当然，如果您想通过其他钱包设备操作PandaBridge，也可以参考以下教程
 
-* 电脑端跨链教程：
-* TP钱包跨链教程：
+* 电脑端跨链教程：[https://help.pandatool.org/bridge/course](https://help.pandatool.org/bridge/course)
+* TP钱包跨链教程：[https://help.pandatool.org/bridge/tp](https://help.pandatool.org/bridge/tp)
 
 ### 一、欧易Web3钱包跨链教程
 

@@ -8,6 +8,9 @@ TP钱包全称是TokenPocket，是加密用户使用比较频繁的一款钱包�
 
 如果您想使用电脑或者其他钱包操作，可以参考以下教程
 
+* 电脑PC使用教程：[https://help.pandatool.org/bridge/course](https://help.pandatool.org/bridge/course)
+* 欧易Web3钱包教程：[https://help.pandatool.org/bridge/okx-web3](https://help.pandatool.org/bridge/okx-web3)
+
 ### 一、TP钱包跨链教程
 
 **1、进入官网**

@@ -10,6 +10,12 @@ PandaBridge中文简称：熊猫跨链桥，是由PandaTool推出的小额加密
 
 与其他跨链桥相比，Panda Bridge实现了即时的交易确认，具有价格低廉、简洁明了、隐秘性强等特点，对用户极为友好，被加密初学者视为最受欢迎的跨链工具之一。
 
+**跨链桥使用教程**
+
+* **电脑PC端教程：**[https://help.pandatool.org/bridge/course](https://help.pandatool.org/bridge/course)
+* **手机TP钱包教程：**[https://help.pandatool.org/bridge/tp](https://help.pandatool.org/bridge/tp)
+* **欧易Web3钱包教程：**[https://help.pandatool.org/bridge/okx-web3](https://help.pandatool.org/bridge/okx-web3)
+
 ## 为什么选择PandaBridge？
 
 ### 1、测试币兑换

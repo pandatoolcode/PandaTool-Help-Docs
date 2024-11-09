@@ -9,7 +9,10 @@ PandaBridge是专注于小额加密资产的跨链工具，主打一个好用、
 * Metamask小狐狸安装教程：[https://help.pandatool.org/practical-information/metamask](https://help.pandatool.org/practical-information/metamask)
 * 欧易Web3钱包安装教程：[https://www.okx.com/zh-hans/help/how-do-i-manage-my-wallet-web](https://www.okx.com/zh-hans/help/how-do-i-manage-my-wallet-web)
 
-接下来，将详细演示，该如何通过电脑进行PandaBridge跨链闪兑操作
+接下来，将详细演示，该如何通过电脑进行PandaBridge跨链闪兑操作。如果您想了解如何在手机使用跨链桥，可以参考以下教程：
+
+* **手机TP钱包教程：**[https://help.pandatool.org/bridge/tp](https://help.pandatool.org/bridge/tp)
+* **欧易Web3钱包教程：**[https://help.pandatool.org/bridge/okx-web3](https://help.pandatool.org/bridge/okx-web3)
 
 ### 一、电脑版跨链教程
 
