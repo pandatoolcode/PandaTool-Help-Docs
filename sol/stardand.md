@@ -102,11 +102,11 @@ description: 基于Solana的最全一键发币教程
 
 #### 5、为什么浏览器没有显示我的推特和电报？
 
-* **答：**solana浏览器在近期做了更新升级，已经在外面显示推特和电报了，需要在metadate查询
+* **答：**solana浏览器在近期做了更新升级，已经不在外面显示推特和电报了，需要在metadate查询
 
 **6、发币之后需要丢弃权限吗？怎么丢？**
 
-* **答：**我建议大家发币之后将权限丢弃，可以在此处丢权限：[https://solana.pandatool.org/control](https://solana.pandatool.org/control)
+* **答：**建议大家发币之后将权限丢弃，可以在此处丢权限：[https://solana.pandatool.org/control](https://solana.pandatool.org/control)
 
 **7、其他问题**
 

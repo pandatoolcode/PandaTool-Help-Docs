@@ -14,7 +14,9 @@ description: PandaTool各个工具导航
 
 **Sui一键发币**：[https://sui.pandatool.org/](https://sui.pandatool.org/)
 
-**波场工具助手**：[https://tron.pandatool.org/](https://tron.pandatool.org/)
+**波场一键发币**：[https://tron.pandatool.org/](https://tron.pandatool.org/)
+
+**小额跨链工具：**[https://bridge.pandatool.org/](https://bridge.pandatool.org/)
 
 **交流群**: [https://t.me/pandato](https://t.me/pandatool)
 
@@ -107,6 +109,16 @@ description: PandaTool各个工具导航
 [波场市值管理](https://tron.pandatool.org/)：全网最强的波场市值管理工具，支持批量交易
 
 [波场批量转账](https://tron.pandatool.org/multisend)：全网最强的波场批量转账工具，支持TRX、USDT批量空投
+
+### 跨链闪兑工具
+
+[PandaBridge介绍](https://help.pandatool.org/bridge/information)：专注于小额加密资产跨链兑换
+
+[跨链桥使用教程](bridge/course.md)：电脑PC端使用PandaBridge的详细教程
+
+[TP钱包跨链教程](bridge/tp.md)：使用手机TP钱包在PandaBridge进行跨链兑换
+
+[欧易Web3教程](bridge/okx-web3.md)：使用OKX Web3钱包在PandaBridge进行跨链兑换
 
 ### 批量转账（空投）
 
