@@ -15,15 +15,15 @@ TP钱包全称是TokenPocket，是加密用户使用比较频繁的一款钱包�
 
 **1、进入官网**
 
-首先将TP钱包切换到所需的链，如BSC。然后TP钱包浏览器页面，输入网址[https://bridge.pandatool.org/](https://bridge.pandatool.org/) 进入跨链页面，并自动连接钱包
+首先将TP钱包切换到所需的链，如BSC。然后TP钱包浏览器页面，输入网址[https://bridge.pandatool.org/](https://bridge.pandatool.org/) 进入跨链页面，并且会自动连接钱包
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252F68xX9aJSxSgSgtzGdKDI%252F%25E8%25BF%259B%25E5%2585%25A5%25E5%25AE%2598%25E7%25BD%2591.jpg%3Falt%3Dmedia%26token%3Dfc2516db-3d84-4712-89f6-7ff16afff202&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=98697efb&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/进入官网 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
 
 **2、确认交易细节**
 
 输入你要兑换的BNB数量、确定目标链以及目标代币，点击兑换，即可在1分钟内完成交易
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FL1fFXt9Z8mSHDEzVPk3R%252F%25E7%25A1%25AE%25E8%25AE%25A4%25E5%2585%2591%25E6%258D%25A2.jpg%3Falt%3Dmedia%26token%3Daf480ee9-8a53-43bc-8df7-e96a74b39138&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d5719385&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/确认兑换.jpg" alt=""><figcaption></figcaption></figure>
 
 **3、查看交易状态**
 
