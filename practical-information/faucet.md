@@ -56,3 +56,14 @@ description: 测试链水龙头大全
 * **跨链兑换**：[https://bridge.pandatool.org/](https://bridge.pandatool.org/) **（推荐使用）**
 * TRON Shasta测试网：[https://www.bisell.site/buy/82](https://www.bisell.site/buy/82)&#x20;
 * TRON Nile测试网：[https://www.bisell.site/buy/81](https://www.bisell.site/buy/81)
+
+### Solana测试币SOL
+
+* **跨链兑换**：[https://bridge.pandatool.org/](https://bridge.pandatool.org/) **（推荐使用）**
+* Solana Devnet：[https://www.bisell.site/buy/87](https://www.bisell.site/buy/87)
+* Solana Testnet：[https://www.bisell.site/buy/87](https://www.bisell.site/buy/87)
+
+### 比特币测试币tBTC
+
+* BTC Tesenet3：[https://www.bisell.site/buy/85](https://www.bisell.site/buy/85)
+* BTC Testnet4：[https://www.bisell.site/buy/124](https://www.bisell.site/buy/124)
