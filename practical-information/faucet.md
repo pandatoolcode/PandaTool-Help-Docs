@@ -49,7 +49,7 @@ description: 测试链水龙头大全
 
 * **跨链兑换**：[https://bridge.pandatool.org/](https://bridge.pandatool.org/) **（推荐使用）**
 * 水龙头：[https://faucet.triangleplatform.com/arbitrum/sepolia](https://faucet.triangleplatform.com/arbitrum/sepolia)（0.001个ETH）
-* 购买：[https://www.bisell.site/buy/45](https://www.bisell.site/buy/45)（1U/个）
+* 购买：[https://www.bisell.site/buy/78](https://www.bisell.site/buy/78)（1U/个）
 
 ### TRON 测试币TRX
 
