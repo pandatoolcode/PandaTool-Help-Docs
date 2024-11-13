@@ -17,7 +17,7 @@ TP钱包全称是TokenPocket，是加密用户使用比较频繁的一款钱包�
 
 首先将TP钱包切换到所需的链，如BSC。然后TP钱包浏览器页面，输入网址[https://bridge.pandatool.org/](https://bridge.pandatool.org/) 进入跨链页面，并且会自动连接钱包
 
-<figure><img src="../.gitbook/assets/进入官网 (1) (1).jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/进入官网 (2).jpg" alt=""><figcaption></figcaption></figure>
 
 **2、确认交易细节**
 
