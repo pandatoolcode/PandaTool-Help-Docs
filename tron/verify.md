@@ -12,7 +12,9 @@ description: 一篇文章学会在波场链开源
 代币验证之前，必须先下载合约文件
 {% endhint %}
 
-{% file src="../.gitbook/assets/PandaTool合约源码.sol" %}
+{% file src="../.gitbook/assets/Token合约源码.sol" %}
+Token源码
+{% endfile %}
 
 ### 一、找到开源入口
 
@@ -45,7 +47,7 @@ description: 一篇文章学会在波场链开源
 如果你觉得懵逼，不要紧，接下来我一 一教大家该怎么填写
 
 * **合约地址：**这个很好理解，就是你的代币地址
-* **合约名称：**这个填 **PandaToken** （注意大小写也不能错）
+* **合约名称：**这个填 **Token** （注意大小写也不能错）
 * **编译器版本：**选择tron\_v0.8.18
 
 <figure><img src="../.gitbook/assets/5-编译器版本.png" alt=""><figcaption></figcaption></figure>
@@ -56,15 +58,15 @@ description: 一篇文章学会在波场链开源
 
 大家需要注意的是，除了合约地址是你们自己的以外，其他的全部都不能错。例如我填写的信息大概是这样的：
 
-<figure><img src="../.gitbook/assets/4-合约开源信息 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/合约验证参数.png" alt=""><figcaption></figcaption></figure>
 
 参数填写完成之后，就是上传合约文件。我们将刚刚下载的合约文件传到来，如果没有下载，可以点击这里下载
 
-{% file src="../.gitbook/assets/PandaTool合约源码.sol" %}
+{% file src="../.gitbook/assets/Token合约源码.sol" %}
 
 合约文件上传成功，就可以看到源码了
 
-<figure><img src="../.gitbook/assets/7-合约源码 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/看到源码.png" alt=""><figcaption></figcaption></figure>
 
 ### 三、验证并发布
 
@@ -78,7 +80,7 @@ description: 一篇文章学会在波场链开源
 
 等待几秒钟，如果开源成功，会给你跳转到一个新的页面，可以看到你的合约源码
 
-<figure><img src="../.gitbook/assets/9-开源成功.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/验证开源成功.png" alt=""><figcaption></figcaption></figure>
 
 如果开源失败，会给出下图的提示
 
