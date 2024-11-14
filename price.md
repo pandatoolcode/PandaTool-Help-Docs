@@ -33,8 +33,9 @@ description: 明码标价、公开透明
 * [x] 批量归集代币：0.0001sol/每个地址
 * [x] Raydium市值管理：0.003sol/每笔交易
 * [x] PUMP市值管理：0.002sol/每笔交易
+* [x] Solana预售：0.3sol+0.005/Mint
 
-## 创建预售
+## BSC创建预售
 
 * [x] Mint预售：0.09BNB
 

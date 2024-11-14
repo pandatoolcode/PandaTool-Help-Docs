@@ -54,6 +54,8 @@ description: PandaTool各个工具导航
 
 [Solana发币官网](https://solana.pandatool.org/)：全网最强的Solana一键发币平台，快速稳定有保障
 
+[Solana预售工具](https://solana.pandatool.org/createMint)：为您的Solana代币创建一个无前端预售工具
+
 [Solana更新代币资料](https://solana.pandatool.org/upload)：更新代币名称、logo、社交媒体链接等
 
 [创建OpenBook ID](https://solana.pandatool.org/market)：快速创建OpenBook Market ID，最低0.55sol

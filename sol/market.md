@@ -77,29 +77,23 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 ### 3.创建ID
 
-所有参数填写完成后，就可以进行ID创建了。创建ID需要钱包确认两次，第一次是创建代币账户，第二次是创建ID。大家点击第一步之后，记得不要关闭页面。
+所有参数填写完成后，就可以进行ID创建了。此时我们点击“立即创建”，会弹出钱包进行确认：
 
-此时我们点击“立即创建”，会弹出钱包进行确认：
-
-<figure><img src="../.gitbook/assets/创建第一步.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/点击确认.png" alt=""><figcaption></figcaption></figure>
 
 确认完成后，会有个提示告诉你代币账户创建成功，大概是这样的：
 
-<figure><img src="../.gitbook/assets/账户创建成功.png" alt=""><figcaption></figcaption></figure>
-
-注意，此时市场ID还并未创建。紧接着钱包会弹出第二次，让你点击确认：
-
-<figure><img src="../.gitbook/assets/创建第二步.png" alt=""><figcaption></figcaption></figure>
-
-此时确认后，等待几秒钟，ID就会创建成功，你会看到这样的提示：
-
-<figure><img src="../.gitbook/assets/创建成功.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FtbGOaey3Scr5AxZP6IcU%252F%25E5%2588%259B%25E5%25BB%25BA%25E6%2588%2590%25E5%258A%259F.png%3Falt%3Dmedia%26token%3D5a698786-98b9-4d54-8f53-86784c996b44&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=80074cbf&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 此时就说明，整个ID创建工作已经完成，将ID复制下来，就可以去Raydium加池子了。
 
 如果你没有保存ID，可以在钱包内找到自己的支付哈希，然后在浏览器里搜索哈希，在哈希详情里就能看到自己的ID
 
 <figure><img src="../.gitbook/assets/OPID.png" alt=""><figcaption></figcaption></figure>
+
+如何出现错误提示怎么办？例如**Jito未上链或者Jito未打包**？
+
+遇到这种情况，多半是Jito卡了，更换梯子节点到美国或者欧洲，然后刷新页面重试即可。
 
 ### 4.配置详情
 
