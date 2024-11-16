@@ -1,5 +1,6 @@
 ---
 description: 明码标价、公开透明
+icon: square-dollar
 ---
 
 # 服务费用

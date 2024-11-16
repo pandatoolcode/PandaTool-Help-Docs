@@ -1,5 +1,6 @@
 ---
 description: PandaTool各个工具导航
+icon: location-arrow
 ---
 
 # 工具导航
