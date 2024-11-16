@@ -22,7 +22,7 @@ PUMP市值管理机器人，简单来说就是一个支持pump.fun内盘自动�
 
 然后再按照如下流程操作
 
-<figure><img src="../.gitbook/assets/PUMP市值管理 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pump市值管理机器人.jpg" alt=""><figcaption></figcaption></figure>
 
 **1、导入钱包：**在选择的页面导入你的钱包私钥（需要几个钱包操作，就导入几个 ）
 

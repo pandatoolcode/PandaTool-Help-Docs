@@ -1,6 +1,6 @@
 ---
-description: 明码标价、公开透明
 icon: square-dollar
+description: 明码标价、公开透明
 ---
 
 # 服务费用
@@ -114,6 +114,8 @@ icon: square-dollar
 
 * [x] Raydium市值管理：0.003sol/每笔交易
 * [x] PUMP市值管理：0.002sol/每笔交易
+* [x] Raydium防夹刷量：0.004sol/每次
+* [x] PUMP防夹刷量：0.00201/每次
 
 ## 波场市值管理
 
