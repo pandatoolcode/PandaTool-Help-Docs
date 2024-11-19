@@ -55,7 +55,7 @@ V3是Raydium最新推出的一个流动性产品，具有以下特点：
 
 池子加好之后怎么撤呢？这里也和大家说一下
 
-我们打开Raydium，找到`我的投资组合`，页面链接：[https://beta.raydium.io/portfolio/](https://beta.raydium.io/portfolio/)选择标准流动池，就能看到自己的池子了
+我们打开Raydium，找到`我的投资组合`，页面链接：[https://raydium.io/portfolio/](https://raydium.io/portfolio/) 选择标准流动池，就能看到自己的池子了
 
 <figure><img src="../../.gitbook/assets/撤池子按钮 (1).png" alt=""><figcaption></figcaption></figure>
 
