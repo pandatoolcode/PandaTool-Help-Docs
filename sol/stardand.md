@@ -19,7 +19,7 @@ description: 基于Solana的最全一键发币教程
 
 <figure><img src="../.gitbook/assets/选择钱包 (5).png" alt=""><figcaption></figcaption></figure>
 
-之后会跳出钱包选择页面，点击Phantom，即可链接钱包
+之后会跳出钱包选择页面，点击Phantom，即可链接钱包（如果没有Phantom钱包，使用欧易Web3钱包也可以，同样是点击这个Phantom，平台会自动识别并连接OKX Web3）
 
 <figure><img src="../.gitbook/assets/点击钱包.png" alt=""><figcaption><p>点击幻影钱包</p></figcaption></figure>
 
@@ -27,7 +27,7 @@ description: 基于Solana的最全一键发币教程
 
 <figure><img src="../.gitbook/assets/出现钱包地址 (1).png" alt=""><figcaption></figcaption></figure>
 
-**注意：**如果没有提前安装幻影钱包，那么点击连接钱包，会出现如下提示
+**注意：**如果没有提前安装幻影钱包，那么点击连接钱包，会出现如下提示（或者没有在钱包内打开Panda，也会出现这个提示。记得，手机一定要在Phantom内置的浏览器打开）
 
 <figure><img src="../.gitbook/assets/错误提示 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -41,8 +41,8 @@ description: 基于Solana的最全一键发币教程
 
 **必填部分**
 
-* **全称：**支持英文、中文以及中英混合，最多**30个**字符
-* **简称：**支持英文、中文以及中英混合，最多**10个**字符
+* **全称：**支持英文、中文以及中英混合，最多**30个**字符（不支持USDT、USDC等不合法名称）
+* **简称：**支持英文、中文以及中英混合，最多**10个**字符（不支持USDT、USDC等不合法名称）
 * **精度：**默认填9，精度与你能填写的最大供应量有关。
 * **供应数量：**当精度为9时，供应量最大不能超过100亿。当精度为8时，不能超过1000亿，以此类推
 * **logo：**图片小于**100k**，尺寸建议256x256像素（正方形）

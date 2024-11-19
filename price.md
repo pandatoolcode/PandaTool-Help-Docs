@@ -23,6 +23,7 @@ description: 明码标价、公开透明
 * [x] 创建代币：0.2sol
 * [x] PUMP发币：0.05sol
 * [x] PUMP捆绑买入：0.05sol/每个地址
+* [x] PUMP捆绑卖出：0.01sol/每个地址
 * [x] 更新资料：0.1sol
 * [x] 创建ID：0.55sol\~3sol
 * [x] 批量转账：0.01sol/每次

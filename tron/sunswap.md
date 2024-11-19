@@ -24,7 +24,7 @@ SunSwap唯一官网：[https://sunswap.com/#](https://sunswap.com/#/home)
 
 会出现不同的钱包让你选择，我们默认选择TronLink波宝钱包。如果您还没有下载安装钱包插件，可参考 → [波宝钱包TronLink安装教程](tronlink.md)
 
-<figure><img src="../.gitbook/assets/3-选择钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3-选择钱包 (1).png" alt=""><figcaption></figcaption></figure>
 
 假设我们点击TronLInk，会弹出钱包让你选择确认。你需要勾选要连接的钱包地址，然后点击**连接**即可
 

@@ -26,6 +26,7 @@
 
 * [Solana一键发币教程](sol/stardand.md)
 * [PUMP发币与捆绑买入教程](sol/createpump.md)
+* [PUMP一键捆绑卖出教程](sol/sellpump.md)
 * [Solana预售Mint教程](sol/createmint.md)
 * [Solana市值管理机器人教程](sol/swapbot.md)
 * [OpenBook市场ID低成本创建教程](sol/market.md)

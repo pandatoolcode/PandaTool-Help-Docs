@@ -28,7 +28,7 @@ description: 通过PandaTool在波场链进行一键发币
 
 此时会跳出波宝钱包提示，按照提示点击连接就可以了
 
-<figure><img src="../.gitbook/assets/2-连接钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2-连接钱包 (1).png" alt=""><figcaption></figcaption></figure>
 
 连接成功后，右上角会出现钱包地址，说明就可以进入下一步了
 

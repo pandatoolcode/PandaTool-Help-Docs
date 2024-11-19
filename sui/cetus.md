@@ -26,7 +26,7 @@ Cetus是SUI区块链生态里最大的去中心化交易所DEX，使用类似于
 
 之后会弹出一些钱包让你选择，PandaTool推荐选择Suiet钱包，点击连接即可
 
-<figure><img src="../.gitbook/assets/2-连接钱包 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2-连接钱包 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/3-连接钱包 (2).png" alt=""><figcaption><p>点击连接</p></figcaption></figure>
 
