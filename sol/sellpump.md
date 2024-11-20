@@ -14,13 +14,19 @@ description: 多个地址内的代币一次性全部卖出
 * **第二种：**机器人卖。通过我们的机器人可以自动化卖出，省去了手动操作的麻烦，但是速度跟不上
 * **第三种：**归集后卖。将代币归集到一个地址后统一卖出。听起来比较合适，但也是麻烦，多了一步归集的操作
 
+<figure><img src="../.gitbook/assets/PUMP捆绑卖出.jpg" alt=""><figcaption></figcaption></figure>
+
 基于此，我们开发了一键捆绑卖出的功能，导入钱包私钥后，即可**一次性将所有钱包内的相关代币全部卖出。**目前一次最多支持21个地址，如果钱包比较多，可以多导入几次。
 
 ### PUMP一键捆绑卖出教程
 
 #### 1、配置卖出参数
 
-接下来，我们需要填写并操作卖出的参数
+我们打开PandaTool的一键卖出工具：[https://solana.pandatool.org/sellpump](https://solana.pandatool.org/sellpump) ，或者在官网导航栏找到捆绑卖出的按钮
+
+<figure><img src="../.gitbook/assets/1-捆绑卖出.png" alt=""><figcaption></figcaption></figure>
+
+进入到捆绑卖出页面后，我们填写相关的参数
 
 <figure><img src="../.gitbook/assets/5-卖出参数.png" alt=""><figcaption></figcaption></figure>
 

@@ -93,6 +93,7 @@
 
 ## 实用信息 <a href="#practical-information" id="practical-information"></a>
 
+* [欧易OKX Web3钱包发币教程](practical-information/okx.md)
 * [小狐狸插件安装教程](practical-information/metamask.md)
 * [主流币合约地址](practical-information/smart-contract.md)
 * [公链配置参数](practical-information/parameter.md)

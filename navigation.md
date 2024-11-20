@@ -1,13 +1,13 @@
 ---
-description: PandaTool各个工具导航
 icon: location-arrow
+description: PandaTool工具大全导航
 ---
 
 # 工具导航
 
 ### 网址导航
 
-**官网**：[https://pandatool.org/](https://pandatool.org/)
+**EVM官网**：[https://pandatool.org/](https://pandatool.org/) (支持BSC、ETH、Base等）
 
 **Solana一键发币**：[https://solana.pandatool.org/](https://solana.pandatool.org/)
 
@@ -57,6 +57,10 @@ icon: location-arrow
 
 [Solana预售工具](https://solana.pandatool.org/createMint)：为您的Solana代币创建一个无前端预售工具
 
+[PUMP发币捆绑工具](https://solana.pandatool.org/createpump)：发币上pump.fun，支持多地址捆绑买入
+
+[PUMP一键卖出工具](https://solana.pandatool.org/sellpump)：一键卖出所有地址内的全部pump代币
+
 [Solana更新代币资料](https://solana.pandatool.org/upload)：更新代币名称、logo、社交媒体链接等
 
 [创建OpenBook ID](https://solana.pandatool.org/market)：快速创建OpenBook Market ID，最低0.55sol
@@ -73,7 +77,7 @@ icon: location-arrow
 
 [Solana创建钱包](https://solana.pandatool.org/createwallet)：批量生成Solana钱包，1分钟生成几千个
 
-[Solana发教程](https://help.pandatool.org/sol/stardand)：Solana发币、做池子、销毁LP、市值管理教程
+[Solana发币教程](https://help.pandatool.org/sol/stardand)：Solana发币、做池子、销毁LP、市值管理教程
 
 ### TON链一键发币
 
