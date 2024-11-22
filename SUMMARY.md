@@ -29,7 +29,7 @@
 * [PUMP一键捆绑卖出教程](sol/sellpump.md)
 * [Solana预售Mint教程](sol/createmint.md)
 * [Solana市值管理机器人教程](sol/swapbot.md)
-* [Solana加池子教程](sol/creatpool.md)
+* [Solana加池子教程](sol/createpool.md)
 * [OpenBook市场ID低成本创建教程](sol/market.md)
 * [pump.fun市值管理机器人教程](sol/swapbotpump.md)
 * [Solana权限管理(增发、冻结、弃权）](sol/control.md)
