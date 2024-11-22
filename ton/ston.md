@@ -68,14 +68,14 @@ STON.fi 成立于 2022 年。它的目标是建立一个用户友好的加密货
 
 **1、STON上面没有代币头像怎么办？**
 
-* 答：需要在STON完成申请，且池子内有超过1万U的流动性，才能进入到STON的默认列表里，从而获得头像。申请链接：[https://docs.google.com/forms/d/e/1FAIpQLScGTZjf5DVRutqykFKF477MHoFS9-qzPhkdbOKmo\_hZn66FVA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScGTZjf5DVRutqykFKF477MHoFS9-qzPhkdbOKmo\_hZn66FVA/viewform)
+* 答：需要在STON完成申请，且池子内有超过1万U的流动性，才能进入到STON的默认列表里，从而获得头像。申请链接：[https://docs.google.com/forms/d/e/1FAIpQLScGTZjf5DVRutqykFKF477MHoFS9-qzPhkdbOKmo\_hZn66FVA/viewform](https://docs.google.com/forms/d/e/1FAIpQLScGTZjf5DVRutqykFKF477MHoFS9-qzPhkdbOKmo_hZn66FVA/viewform)
 
 **2、创建流动性的时候提示余额不够？**
 
-* **答：**在STON创建池子，连同gas，需要额外支出1.7个TON，他会要求钱包里至少2.7TON才能发起交易
+* **答：**&#x5728;STON创建池子，连同gas，需要额外支出1.7个TON，他会要求钱包里至少2.7TON才能发起交易
 
 **3、在STON上面交易需要支付费用吗？**
 
-* **答：**每笔交易需要支出0.3%的费用，其中0.2% 的费用将作为增加资金池规模而支付给流动性提供者的费用，0.1% 的费用支付给STON.fi协议
+* **答：**&#x6BCF;笔交易需要支出0.3%的费用，其中0.2% 的费用将作为增加资金池规模而支付给流动性提供者的费用，0.1% 的费用支付给STON.fi协议
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/PandaTool](https://t.me/PandaTool)

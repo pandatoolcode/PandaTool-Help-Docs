@@ -27,7 +27,7 @@ description: 基于Solana的最全一键发币教程
 
 <figure><img src="../.gitbook/assets/出现钱包地址 (1).png" alt=""><figcaption></figcaption></figure>
 
-**注意：**如果没有提前安装幻影钱包，那么点击连接钱包，会出现如下提示（或者没有在钱包内打开Panda，也会出现这个提示。记得，手机一定要在Phantom内置的浏览器打开）
+**注意：**&#x5982;果没有提前安装幻影钱包，那么点击连接钱包，会出现如下提示（或者没有在钱包内打开Panda，也会出现这个提示。记得，手机一定要在Phantom内置的浏览器打开）
 
 <figure><img src="../.gitbook/assets/错误提示 (1).png" alt=""><figcaption></figcaption></figure>
 
@@ -41,20 +41,20 @@ description: 基于Solana的最全一键发币教程
 
 **必填部分**
 
-* **全称：**支持英文、中文以及中英混合，最多**30个**字符（不支持USDT、USDC等不合法名称）
-* **简称：**支持英文、中文以及中英混合，最多**10个**字符（不支持USDT、USDC等不合法名称）
-* **精度：**默认填9，精度与你能填写的最大供应量有关。
-* **供应数量：**当精度为9时，供应量最大不能超过100亿。当精度为8时，不能超过1000亿，以此类推
-* **logo：**图片小于**100k**，尺寸建议256x256像素（正方形）
+* **全称：**&#x652F;持英文、中文以及中英混合，最多**30个**字符（不支持USDT、USDC等不合法名称）
+* **简称：**&#x652F;持英文、中文以及中英混合，最多**10个**字符（不支持USDT、USDC等不合法名称）
+* **精度：**&#x9ED8;认填9，精度与你能填写的最大供应量有关。
+* **供应数量：**&#x5F53;精度为9时，供应量最大不能超过100亿。当精度为8时，不能超过1000亿，以此类推
+* **logo：**&#x56FE;片小于**100k**，尺寸建议256x256像素（正方形）
 
 **选填部分**
 
-* **官网链接：**会出现在Solana浏览器上，如：[https://pandatool.org/](https://pandatool.org/)
-* **Telegram群组：**会出现在Solana浏览器上，如：[https://t.me/pandatool](https://t.me/pandatool)
-* **Twitter链接：**会出现在Solana浏览器上，如：[https://twitter.com/PandaTool](https://twitter.com/PandaTool)
-* **Discord链接：**会出现在Solana浏览器上，如：[https://discord.orca.so/](https://discord.orca.so/)
-* **简介：**不能超过200个汉字（或200个英文字母）
-* **标签：**最多支持5个。默认会给你写5个，觉得哪个不合适，直接删掉自己创建一个就可以
+* **官网链接：**&#x4F1A;出现在Solana浏览器上，如：[https://pandatool.org/](https://pandatool.org/)
+* **Telegram群组：**&#x4F1A;出现在Solana浏览器上，如：[https://t.me/pandatool](https://t.me/pandatool)
+* **Twitter链接：**&#x4F1A;出现在Solana浏览器上，如：[https://twitter.com/PandaTool](https://twitter.com/PandaTool)
+* **Discord链接：**&#x4F1A;出现在Solana浏览器上，如：[https://discord.orca.so/](https://discord.orca.so/)
+* **简介：**&#x4E0D;能超过200个汉字（或200个英文字母）
+* **标签：**&#x6700;多支持5个。默认会给你写5个，觉得哪个不合适，直接删掉自己创建一个就可以
 
 例如我填写的信息如下
 
@@ -86,27 +86,27 @@ description: 基于Solana的最全一键发币教程
 
 #### 1、Sol发币需要开源吗？
 
-* **答：**不需要，Sol没有开源的说法，发行完成就可以了
+* **答：**&#x4E0D;需要，Sol没有开源的说法，发行完成就可以了
 
 #### 2、Sol发币需要多少钱？
 
-* **答：**发币费用是0.2sol，如果再加上一些gas费，估计0.21sol左右
+* **答：**&#x53D1;币费用是0.2sol，如果再加上一些gas费，估计0.21sol左右
 
 #### 3、为什么发币之后钱包显示未知代币？
 
-* **答：**Phantom钱包有时候抓取信息过慢，或者钱包本身有缓存，需要一段时间才能显示logo和代币名称等信息
+* **答：**&#x50;hantom钱包有时候抓取信息过慢，或者钱包本身有缓存，需要一段时间才能显示logo和代币名称等信息
 
 #### 4、手机应该怎么发币？
 
-* **答：**手机可以使用欧易web3钱包或者Phantom钱包app进行操作，不支持TP钱包哦
+* **答：**&#x624B;机可以使用欧易web3钱包或者Phantom钱包app进行操作，不支持TP钱包哦
 
 #### 5、为什么浏览器没有显示我的推特和电报？
 
-* **答：**solana浏览器在近期做了更新升级，已经不在外面显示推特和电报了，需要在metadate查询
+* **答：**&#x73;olana浏览器在近期做了更新升级，已经不在外面显示推特和电报了，需要在metadate查询
 
 **6、发币之后需要丢弃权限吗？怎么丢？**
 
-* **答：**建议大家发币之后将权限丢弃，可以在此处丢权限：[https://solana.pandatool.org/control](https://solana.pandatool.org/control)
+* **答：**&#x5EFA;议大家发币之后将权限丢弃，可以在此处丢权限：[https://solana.pandatool.org/control](https://solana.pandatool.org/control)
 
 **7、其他问题**
 

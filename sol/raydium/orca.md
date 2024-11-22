@@ -14,11 +14,11 @@ Orca做池子有几个注意事项
 
 <figure><img src="../../.gitbook/assets/下载 (2).jpg" alt=""><figcaption></figcaption></figure>
 
-* **Token A：**就是你发行的代币，输入合约地址找到你的币
-* **Token B：**底池代币，例如USDT、SOL、USDC等
-* **Fee tier：**就是费率/滑点，我的建议是填2%，填对的太小不利于交易
-* **Initial price：**初始价格，假设你是做代币+sol的池子，那么这个价格就是一个币值多少sol的意思
-* **Liquidity range：**流动性范围，指的是你代币价格的范围，目前有FULL和CUSTOM两个选择。如果你不懂什么意思，直接选择FULL这个就行，即：全范围，和薄饼V2是一样的。如果选择CUSTOM，就是V3的概念了，这里不建议使用。
+* **Token A：**&#x5C31;是你发行的代币，输入合约地址找到你的币
+* **Token B：**&#x5E95;池代币，例如USDT、SOL、USDC等
+* **Fee tier：**&#x5C31;是费率/滑点，我的建议是填2%，填对的太小不利于交易
+* **Initial price：**&#x521D;始价格，假设你是做代币+sol的池子，那么这个价格就是一个币值多少sol的意思
+* **Liquidity range：**&#x6D41;动性范围，指的是你代币价格的范围，目前有FULL和CUSTOM两个选择。如果你不懂什么意思，直接选择FULL这个就行，即：全范围，和薄饼V2是一样的。如果选择CUSTOM，就是V3的概念了，这里不建议使用。
 
 所有的信息填写完成之后，下一步就是输入相应的代币数量。最终填写完成的如下：
 
@@ -42,7 +42,7 @@ Orca做池子有几个注意事项
 
 <figure><img src="../../.gitbook/assets/提取流动性.png" alt=""><figcaption></figcaption></figure>
 
-之后，按照页面需要，选择撤出的流动性比例，再点击**Withdraw，**钱包确认并支付gas即可
+之后，按照页面需要，选择撤出的流动性比例，再点击**Withdraw，**&#x94B1;包确认并支付gas即可
 
 <figure><img src="../../.gitbook/assets/orca撤出流动性.png" alt=""><figcaption></figcaption></figure>
 

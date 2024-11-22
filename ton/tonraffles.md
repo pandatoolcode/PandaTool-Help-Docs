@@ -12,16 +12,16 @@ TON链上面的锁仓与锁池，与BSC链上差别不大，都是将代币或LP
 
 答：锁池是锁LP，锁仓是锁代币
 
-* **锁池：**将池子的流动性锁住，使其不能撤池子（主要是锁LP）
-* **锁仓：**将代币锁住，使其不能转账
+* **锁池：**&#x5C06;池子的流动性锁住，使其不能撤池子（主要是锁LP）
+* **锁仓：**&#x5C06;代币锁住，使其不能转账
 
 ### 2、锁池和锁仓有几种方式？ <a href="#id-1-quan-xian-diu-le-hai-neng-che-chi-zi-ma" id="id-1-quan-xian-diu-le-hai-neng-che-chi-zi-ma"></a>
 
 答：主要是两种：永久锁和带时间锁
 
-* **永久锁：**将代币或者LP代币转入黑洞，永久无法取出，即可完成
+* **永久锁：**&#x5C06;代币或者LP代币转入黑洞，永久无法取出，即可完成
 * TON黑洞地址：UQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJKZ
-* **带时间锁：**将代币或者LP代币锁在某个智能合约里，到时间可以取出
+* **带时间锁：**&#x5C06;代币或者LP代币锁在某个智能合约里，到时间可以取出
 
 ### 3、TON上面的锁仓平台有几个？ <a href="#id-1-quan-xian-diu-le-hai-neng-che-chi-zi-ma" id="id-1-quan-xian-diu-le-hai-neng-che-chi-zi-ma"></a>
 
@@ -62,22 +62,22 @@ TON链上面的锁仓与锁池，与BSC链上差别不大，都是将代币或LP
 
 ### **3、填写锁池/锁仓信息**
 
-**Token or LP Token Address：**就是你要锁仓/锁池的相关合约地址
+**Token or LP Token Address：**&#x5C31;是你要锁仓/锁池的相关合约地址
 
 * 锁仓：就输入代币合约地址
 * 锁池：就输入LP合约地址
 
 <figure><img src="../.gitbook/assets/代币列表 (1).png" alt=""><figcaption><p>锁池/锁仓代币列表</p></figcaption></figure>
 
-**Lock Fee：**10个RAFF。这个是锁池的费用，RAFF是他们的平台币，需要支付10个
+**Lock Fee：**&#x31;0个RAFF。这个是锁池的费用，RAFF是他们的平台币，需要支付10个
 
-**Use another owner：**是否使另一个权限地址？如果是，输入的新地址将在解锁后收到代币
+**Use another owner：**&#x662F;否使另一个权限地址？如果是，输入的新地址将在解锁后收到代币
 
-**Title：**一个标签，随便写就行，无关紧要，不写也无所谓
+**Title：**&#x4E00;个标签，随便写就行，无关紧要，不写也无所谓
 
-**Amount：**如果是锁仓，就填写要锁仓的代币数量；如果要锁池，就填写LP数量
+**Amount：**&#x5982;果是锁仓，就填写要锁仓的代币数量；如果要锁池，就填写LP数量
 
-**Local Time：**解锁时间。这个时间会默认转换为你的当地时间，不需要做过多改动
+**Local Time：**&#x89E3;锁时间。这个时间会默认转换为你的当地时间，不需要做过多改动
 
 <figure><img src="../.gitbook/assets/锁池时间 (1).png" alt=""><figcaption><p>锁池时间</p></figcaption></figure>
 
@@ -93,21 +93,21 @@ TON链上面的锁仓与锁池，与BSC链上差别不大，都是将代币或LP
 
 ### **4、如何让别人知道自己锁了？**
 
-当你锁池之后，可以在Tonraffle这个页面输入你的代币合约地址，就能看到锁池/锁仓信息。此外，也可以通过电报机器人 [https://t.me/TonkAnalyser\_bot](https://t.me/TonkAnalyser\_bot)  进行查询
+当你锁池之后，可以在Tonraffle这个页面输入你的代币合约地址，就能看到锁池/锁仓信息。此外，也可以通过电报机器人 [https://t.me/TonkAnalyser\_bot](https://t.me/TonkAnalyser_bot)  进行查询
 
 ## 三、疑问解答
 
 **1、锁池/锁仓要花钱吗？**
 
-* **答：**Tonraffles每锁一次，要支付10个[RAFF代币](https://coinmarketcap.com/currencies/ton-raffles/)。TonInu锁池不需要付费，只需要gas就可以。但为什么依然推荐Tonraffles呢？因为Tonraffles平台较大，稳定性好。
+* **答：**&#x54;onraffles每锁一次，要支付10个[RAFF代币](https://coinmarketcap.com/currencies/ton-raffles/)。TonInu锁池不需要付费，只需要gas就可以。但为什么依然推荐Tonraffles呢？因为Tonraffles平台较大，稳定性好。
 
 2、**锁池/锁仓是必须的吗？**
 
-* **答：**这不是一个必须要做的事情。但是从项目运营角度来看，锁仓有利于降低代币的流动率，锁池有利于遏制项目方跑路
+* **答：**&#x8FD9;不是一个必须要做的事情。但是从项目运营角度来看，锁仓有利于降低代币的流动率，锁池有利于遏制项目方跑路
 
 3、**LP地址怎么获取？**
 
-* **答：**当你在STON等swap做了池子后，钱包会收到一个LP代币，这个地址就是LP地址。如果觉得比较麻烦，也可以通过[DEXTOOL](https://www.dextools.io/app/cn)等平台，输入代币合约地址查询，就能看到一个**对子地址**，这个`对子`，就是LP地址
+* **答：**&#x5F53;你在STON等swap做了池子后，钱包会收到一个LP代币，这个地址就是LP地址。如果觉得比较麻烦，也可以通过[DEXTOOL](https://www.dextools.io/app/cn)等平台，输入代币合约地址查询，就能看到一个**对子地址**，这个`对子`，就是LP地址
 
 <figure><img src="../.gitbook/assets/对子地址 (1).png" alt=""><figcaption></figcaption></figure>
 

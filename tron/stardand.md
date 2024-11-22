@@ -40,10 +40,10 @@ description: 通过PandaTool在波场链进行一键发币
 
 <figure><img src="../.gitbook/assets/4-参数填写.png" alt=""><figcaption></figcaption></figure>
 
-* **全称：**不超过32个字符，建议纯英文（注意：**中文代币、符号代币、仿主流币**可能会被屏蔽）
-* **简称：**不超过16个字符，建议纯英文（注意：**中文代币、符号代币、仿主流币**可能会被屏蔽）
-* **精度：**最大为18，最小为1
-* **供应量：**只要数字不是特别离谱，是没有上限的
+* **全称：**&#x4E0D;超过32个字符，建议纯英文（注意：**中文代币、符号代币、仿主流币**可能会被屏蔽）
+* **简称：**&#x4E0D;超过16个字符，建议纯英文（注意：**中文代币、符号代币、仿主流币**可能会被屏蔽）
+* **精度：**&#x6700;大为18，最小为1
+* **供应量：**&#x53EA;要数字不是特别离谱，是没有上限的
 
 例如，我要发行一个名为PandaTool的，简称叫：PT，那么就填写成下面这样
 
@@ -72,26 +72,26 @@ description: 通过PandaTool在波场链进行一键发币
 
 **1、发行的代币有功能吗？有权限吗？**
 
-* **答：**目前发行的是标准币，是没有权限、没有任何功能的普通代币
+* **答：**&#x76EE;前发行的是标准币，是没有权限、没有任何功能的普通代币
 
 **2、波场发币收费收多少？**
 
-* **答：**发行一个代币的收费价格是600TRX
+* **答：**&#x53D1;行一个代币的收费价格是600TRX
 
 **3、发行的币可以开源吗？**
 
-* **答：**无法自动开源，只能手动开源，参考教程：[https://help.pandatool.org/tron/verify](https://help.pandatool.org/tron/verify)
+* **答：**&#x65E0;法自动开源，只能手动开源，参考教程：[https://help.pandatool.org/tron/verify](https://help.pandatool.org/tron/verify)
 
 **4、怎么添加代币logo？**
 
-* **答：**需要在波场浏览器录入代币资料，参考教程：[https://help.pandatool.org/tron/record](https://help.pandatool.org/tron/record)
+* **答：**&#x9700;要在波场浏览器录入代币资料，参考教程：[https://help.pandatool.org/tron/record](https://help.pandatool.org/tron/record)
 
 **5、代币名称可以是中文或者带emoji吗？**
 
-* **答：**中文代币以及emoji符号都会被波场浏览器屏蔽，强烈建议使用纯英文
+* **答：**&#x4E2D;文代币以及emoji符号都会被波场浏览器屏蔽，强烈建议使用纯英文
 
 **6、可以发行仿主流币吗？**
 
-* **答：**不支持，如果您发行的Token名称与主流币雷同，就会被屏蔽
+* **答：**&#x4E0D;支持，如果您发行的Token名称与主流币雷同，就会被屏蔽
 
 任何问题，都可以进入Telegram电报群找志愿者解答： [https://t.me/pandatool](https://t.me/pandatool)

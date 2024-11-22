@@ -28,7 +28,7 @@ Token B就是底池代币，如Sol、USDC等等
 
 ### 4、提供流动性
 
-选择代币后，您可以开始输入每个代币的初始金额，以确定代币价格。需要注意的是，流动性必须**大于500美元（**500USDC或等值Sol**）**，才有可能在Jupiter上出现。注意，是有可能。具体是否可以在JUP上交易，可以详细查看这个JUP的上币要求文档：[https://station.jup.ag/docs/get-your-token-onto-jup](https://station.jup.ag/docs/get-your-token-onto-jup)
+选择代币后，您可以开始输入每个代币的初始金额，以确定代币价格。需要注意的是，流动性必须**大于500美元（**&#x35;00USDC或等值So&#x6C;**）**，才有可能在Jupiter上出现。注意，是有可能。具体是否可以在JUP上交易，可以详细查看这个JUP的上币要求文档：[https://station.jup.ag/docs/get-your-token-onto-jup](https://station.jup.ag/docs/get-your-token-onto-jup)
 
 <figure><img src="../../.gitbook/assets/提供流动性.jpg" alt=""><figcaption></figcaption></figure>
 

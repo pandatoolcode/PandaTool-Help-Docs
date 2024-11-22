@@ -116,7 +116,7 @@ Cetus是SUI区块链生态里最大的去中心化交易所DEX，使用类似于
 
 池子创建成功后，接下来我们看怎么增加流动性与撤出流动性，即所谓的：加池子与撤池子。
 
-首先我们要做的是找到自己的流动性，在Cetus的流动性管理页面，点击**我的仓位，**找到自己的流动性：[**https://app.cetus.zone/pool/position**](https://app.cetus.zone/pool/position)
+首先我们要做的是找到自己的流动性，在Cetus的流动性管理页面，点击**我的仓位，**&#x627E;到自己的流动性：[**https://app.cetus.zone/pool/position**](https://app.cetus.zone/pool/position)
 
 <figure><img src="../.gitbook/assets/24-我的流动性.png" alt=""><figcaption></figcaption></figure>
 

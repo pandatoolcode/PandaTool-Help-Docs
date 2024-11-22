@@ -30,7 +30,7 @@ LP流动性修复视频操作教程：
 
 <figure><img src="../.gitbook/assets/池子地址查询.png" alt=""><figcaption></figcaption></figure>
 
-**3、点击“查询池子”，**可以看到池子中的代币数量
+**3、点击“查询池子”，**&#x53EF;以看到池子中的代币数量
 
 <figure><img src="../.gitbook/assets/流动性查询.png" alt=""><figcaption></figcaption></figure>
 
@@ -42,7 +42,7 @@ LP流动性修复视频操作教程：
 
 <figure><img src="../.gitbook/assets/LP修复-目标价格确定 (1).png" alt=""><figcaption></figcaption></figure>
 
-注意，不管是1000个代币还是1U，都不是你要最终加池的数量，它只是用来确定你的代币价格比例，仅此而已。具体应该往池子里放多少币？需要点击_**核算加池数量**_，然后会给你一个数据，如：
+注意，不管是1000个代币还是1U，都不是你要最终加池的数量，它只是用来确定你的代币价格比例，仅此而已。具体应该往池子里放多少币？需要点&#x51FB;_**核算加池数量**_，然后会给你一个数据，如：
 
 <figure><img src="../.gitbook/assets/核算加池数量.png" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@ LP流动性修复视频操作教程：
 
 **5、授权并修复**
 
-分别对你自己发行的代币和USDT进行授权（如果是BNB的池子，就需要授权wBNB），当两个代币分别授权完成之后，点击**“确认修复”**，即可完成修复。之后再去薄饼加池子，就可以正常加入了。
+分别对你自己发行的代币和USDT进行授权（如果是BNB的池子，就需要授权wBNB），当两个代币分别授权完成之后，点&#x51FB;**“确认修复”**，即可完成修复。之后再去薄饼加池子，就可以正常加入了。
 
 <figure><img src="../.gitbook/assets/确认修复.png" alt=""><figcaption></figcaption></figure>
 

@@ -84,6 +84,6 @@ DeDust 通过以下几个独特功能对 TON 区块链上的 DeFi 进行了创�
 
 **2、DeDust创建流动性需要收费吗？**
 
-* **答：**在DeDust创建池子，授权的时候需要支付0.1TON，创池子(Creat Pair)的时候需要支出0.5TON左右，所以累积差不多要支出0.6TON左右
+* **答：**&#x5728;DeDust创建池子，授权的时候需要支付0.1TON，创池子(Creat Pair)的时候需要支出0.5TON左右，所以累积差不多要支出0.6TON左右
 
 如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/PandaTool](https://t.me/PandaTool)
