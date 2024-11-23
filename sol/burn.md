@@ -1,8 +1,9 @@
 ---
 description: 将Solana链的池子燃烧掉
+icon: fire
 ---
 
-# SOL烧池子/锁池教程
+# Solana烧池子/锁池教程
 
 * **烧池子：**&#x5C06;LP代币销毁
 * **燃烧代币：**&#x5C06;任何代币销毁

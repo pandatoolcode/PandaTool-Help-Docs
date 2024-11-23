@@ -43,7 +43,7 @@ description: 为Solana代币创建流动性资金池
 {% hint style="info" %}
 **概念区别：**&#x56;2用的是传统AMM池，V3用的是CPMM池
 
-**费用区别：**&#x56;2创建池子的费用0.5sol左右，V3创建池子的费用0.3sol左右
+**费用区别：**&#x56;2创建池子的费用0.6sol左右，V3创建池子的费用0.36sol左右
 
 **要求区别：**&#x56;2要求有OpenBook市场ID，V3不需要
 
@@ -95,6 +95,6 @@ description: 为Solana代币创建流动性资金池
 
 **2、创建流动性需要收费吗？怎么收的？**
 
-* 答：创建流动性，平台收取0.09sol。此外，Raydium收费标准是：V2收取0.4sol，V3收取0.2sol。
+* 答：创建流动性，平台收取0.09sol。此外，Raydium收费标准是：V2收取0.46sol，V3收取0.2sol。
 
 如何您还有其他问题，都可以进入Telegram电报群找志愿者解答： [https://t.me/pandatool](https://t.me/pandatool)

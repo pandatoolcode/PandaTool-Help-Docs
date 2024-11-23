@@ -1,5 +1,6 @@
 ---
 description: 使用TP钱包进行一键发币
+icon: mobile-notch
 ---
 
 # 手机TP钱包发币教程

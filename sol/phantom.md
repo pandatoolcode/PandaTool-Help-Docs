@@ -1,5 +1,6 @@
 ---
 description: Solana生态最常见的钱包
+icon: ghost
 ---
 
 # 幻影钱包Phantom安装教程

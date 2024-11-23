@@ -2,7 +2,7 @@
 description: 通过PandaTool在波场链进行一键发币
 ---
 
-# 波场Tron一键发币教程
+# 🔥 波场Tron一键发币教程
 
 ## 一、波场发币前提条件
 
