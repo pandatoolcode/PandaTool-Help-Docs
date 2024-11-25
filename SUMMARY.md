@@ -110,6 +110,7 @@
 * [V2和V3的池子差异？](question/swap.md)
 * [Uniswap V2创建流动性教程(加池教程)](question/uniswapv2.md)
 * [Uniswap V3怎么加池子？](question/uniswap.md)
+* [钱包怎么添加代币？](question/addtoken.md)
 
 ## 相关声明 <a href="#declaration" id="declaration"></a>
 
