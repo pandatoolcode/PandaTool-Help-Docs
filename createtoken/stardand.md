@@ -49,29 +49,57 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿
 
 代币创建完成之后，只能转账，还不能交易。要想使代币可以交易，需要前往PancakeSwap创建一个流动性资金池才可以。
 
-我们打开测试链薄饼：[https://pancakeswap.finance/](https://pancakeswap.finance/?chain=bscTestnet)，找到“交易-流动性”：
+首先，我们打开薄饼的官网：[https://pancakeswap.finance/?chain=bsc](https://pancakeswap.finance/?chain=bsc) ,点击右上角连接钱包
 
-<figure><img src="../.gitbook/assets/流动性.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FU83ogc8KndoziTUSyDIG%252F%25E9%2593%25BE%25E6%258E%25A5%25E9%2592%25B1%25E5%258C%2585.png%3Falt%3Dmedia%26token%3Db960910a-52d6-474c-b268-eb47c5308029&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c77ce06&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-打开之后，选择V2版本，然后点击增加流动性：
+此时会跳出提示，让你选择钱包类似，电脑默认都是选择Metamask，之后小狐狸会提示让你确认
 
-<figure><img src="../.gitbook/assets/添加流动性 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FLHeO8bTUQjIQVtWDYwaV%252Fmetamask%25E9%2593%25BE%25E6%258E%25A5.png%3Falt%3Dmedia%26token%3D10584b0c-7090-4dbc-ac7c-1eecb0270cb7&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2a0e31ec&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-在左右两边分别输入两个代币，创建交易对。两种代币，一种是我们创建的Panda，另一种是USDT。并根据自己的需求，填写初始放入资金池的代币数量：
+连接成功之后，右上角会出现你的钱包地址
 
-<figure><img src="../.gitbook/assets/添加流动性2 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252Fn2u8qz8GoHeurkeN1XjW%252F%25E9%2593%25BE%25E6%258E%25A5%25E6%2588%2590%25E5%258A%259F.png%3Falt%3Dmedia%26token%3D8ab9f46e-7edf-472d-9111-4718bee17ef6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=2e15fee1&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-两种代币的数量比例，决定了代币上市的初始价格。例如上面，我们放入了100000个USDT和100000个Panda，就说明Panda的上市价格是1USDT。
+钱包链接成功之后，在上方菜单栏找到“赚取”，然后选择“农场/流动性”
 
-之后，我们依次点击`批准代币`，再点击`添加`，创建币对和供应，即可流动性创建成功。
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FAT4fMITXZi90oZ0E4qRG%252F%25E5%258D%259A%25E9%25A5%25BC1.png%3Falt%3Dmedia%26token%3D9113c468-3457-45d0-9c63-34d703edbddf&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7a895c44&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/添加流动性3.png" alt=""><figcaption></figcaption></figure>
+在打开的新页面里，选择“我的持仓”（或者直接进入链接：[https://pancakeswap.finance/liquidity/positions](https://pancakeswap.finance/liquidity/positions)）
 
-现在，我们回到交易页面，就能交易了：
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FmQoumcRANrPYjjAAuy76%252F%25E5%258D%259A%25E9%25A5%25BC2.png%3Falt%3Dmedia%26token%3Dae8a4f80-6dcc-4854-ac15-718ec06215c9&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e61b7b3f&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/兑换交易.png" alt=""><figcaption><p>交易代币</p></figcaption></figure>
+之后在右边可以看到添加流动性的按钮
 
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FnPQayB26XX1inNvO0Gkf%252F%25E5%258D%259A%25E9%25A5%25BC3.png%3Falt%3Dmedia%26token%3D566c38bd-38b5-45d8-bb04-6b1c59691003&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4c025e44&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
+然后会看到两个代币对提示框，在两个选择您想要添加流动性的交易对中的两个代币
+
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252Fz2NvxvJBR9ut3hYqRWnc%252F%25E9%2580%2589%25E6%258B%25A9%25E4%25BB%25A3%25E5%25B8%2581.png%3Falt%3Dmedia%26token%3Dee2f1136-d933-496c-859d-9185dcceb0f6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a0594298&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+一般来说，左边选择BNB或者USDT，右边搜索选择你自己的代币
+
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252Fq0Fjd2veYJgqs7qoHzy4%252F%25E5%2590%2588%25E7%25BA%25A6%25E5%259C%25B0%25E5%259D%2580.png%3Falt%3Dmedia%26token%3D5ea4f867-726f-4d51-89c7-e9532b3eed90&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=f6f7743b&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+例如我选择的交易对：USDT-Panda。选择好交易对之后，记得选&#x62E9;**“添加V2流动性”**，这一步非常重要请谨记。V3流动性只适合标准币，除此之外，必须都加V2的流动性
+
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FWL77qCvowfc5G0jZcFHg%252FV2%25E6%25B5%2581%25E5%258A%25A8%25E6%2580%25A7.png%3Falt%3Dmedia%26token%3Dccc64b5e-90e1-4ee7-8856-8be67165cdef&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d5c00560&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+之后，我们根据自己的需求，填写注入流动性资金池的代币数量。两个代币数量的比例，决定了代币的初始价格。例如，我添加1000USDT和1000个Panda，说明代币的上线价格是1U
+
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FV8GsgDx4U6UE8VxM9fTr%252F%25E6%25B7%25BB%25E5%258A%25A0%25E4%25BB%25A3%25E5%25B8%2581%25E6%2595%25B0%25E9%2587%258F.png%3Falt%3Dmedia%26token%3D04699c7d-6428-41dc-9ee4-d50094602a08&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=bd6ec72d&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+然后依次授权USDT和你自己发行的代币
+
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252F01Oz6jKTfHkq7BOxWlIV%252F%25E7%25A1%25AE%25E8%25AE%25A4%25E6%258E%2588%25E6%259D%2583.png%3Falt%3Dmedia%26token%3D90b360ce-c3fb-478d-8c66-abe1d1c383ff&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=54a9d562&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+授权成功后点击“添加”，metamask钱包进行确认即可
+
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FnWD0gT5JIQQIzDKSxYNJ%252F%25E6%25B7%25BB%25E5%258A%25A0.png%3Falt%3Dmedia%26token%3Da6d287df-de4a-483e-8b35-1fb082343db7&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=1c315c69&#x26;sv=1" alt=""><figcaption></figcaption></figure>
+
+添加完成后，我们回到上一页，就能看到自己的池子信息了
+
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FccA68CX5iVZH4KAJLhjJ%252F%25E6%25B5%2581%25E5%258A%25A8%25E6%2580%25A7%25E6%2598%25BE%25E7%25A4%25BA.png%3Falt%3Dmedia%26token%3De760965f-7e7e-4f52-ab57-621f5a6a165a&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d79852ca&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
 ## 注意事项
 

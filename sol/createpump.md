@@ -1,6 +1,6 @@
 ---
-description: 全网最强PUMP一键发币与开盘捆绑买入工具
 icon: capsules
+description: 全网最强PUMP一键发币与开盘捆绑买入工具
 ---
 
 # PUMP发币与捆绑买入教程
@@ -102,7 +102,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 之后我们就能看到自己的钱包内sol，然后填入要购买的sol数量。
 
 {% hint style="info" %}
-<mark style="color:blue;">注意：捆绑买入数量最小为</mark><mark style="color:blue;">**0.01sol**</mark><mark style="color:blue;">，如果低于这个数字，可能会导致发币失败</mark>
+<mark style="color:blue;">注意：捆绑买入数量最小为</mark><mark style="color:blue;">**0.02sol**</mark><mark style="color:blue;">，如果低于这个数字，可能会导致发币失败</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/10-导入钱包.png" alt=""><figcaption></figcaption></figure>
