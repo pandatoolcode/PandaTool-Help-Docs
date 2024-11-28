@@ -105,7 +105,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 <mark style="color:blue;">注意：捆绑买入数量最小为</mark><mark style="color:blue;">**0.02sol**</mark><mark style="color:blue;">，如果低于这个数字，可能会导致发币失败</mark>
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/10-导入钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7-卖出配置 (2).png" alt=""><figcaption></figcaption></figure>
 
 在所有信息确认无误后，点击立即创建按钮，等待**差不多10s**，会弹出钱包让你确认。
 
@@ -149,6 +149,6 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 **9、PUMP代币开盘初始价格是多少?**
 
-* **答：**&#x50;UMP开盘初始价格默认是0.00000003sol
+* **答：**&#x50;UMP开盘初始价格默认是0.000000028sol
 
 如果您还有其他任何问题，都可以进入Telegram电报群找志愿者解答： [https://t.me/pandatool](https://t.me/pandatool)

@@ -63,7 +63,7 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿
 
 钱包链接成功之后，在上方菜单栏找到“赚取”，然后选择“农场/流动性”
 
-<figure><img src="../.gitbook/assets/流动性.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/博饼1 (1).png" alt=""><figcaption></figcaption></figure>
 
 在打开的新页面里，选择“我的持仓”（或者直接进入链接：[https://pancakeswap.finance/liquidity/positions](https://pancakeswap.finance/liquidity/positions)）
 

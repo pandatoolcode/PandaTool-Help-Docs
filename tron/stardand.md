@@ -38,7 +38,7 @@ description: 通过PandaTool在波场链进行一键发币
 
 今天我们教学的只有标准币，所有参数非常简单，就是4个：全称、简称、精度和供应量
 
-<figure><img src="../.gitbook/assets/4-参数填写.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4-参数填写 (1).png" alt=""><figcaption></figcaption></figure>
 
 * **全称：**&#x4E0D;超过32个字符，建议纯英文（注意：**中文代币、符号代币、仿主流币**可能会被屏蔽）
 * **简称：**&#x4E0D;超过16个字符，建议纯英文（注意：**中文代币、符号代币、仿主流币**可能会被屏蔽）
