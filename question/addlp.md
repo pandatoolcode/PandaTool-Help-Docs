@@ -33,11 +33,11 @@ PancakeSwap中文名“薄饼”，是币安智能链BSC上领先的去中心化
 
 在打开的新页面里，选择“我的持仓”（或者直接进入链接：[https://pancakeswap.finance/liquidity/positions](https://pancakeswap.finance/liquidity/positions)）
 
-<figure><img src="../.gitbook/assets/博饼2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/博饼2 (1).png" alt=""><figcaption></figcaption></figure>
 
 之后在右边可以看到添加流动性的按钮
 
-<figure><img src="../.gitbook/assets/博饼3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/博饼3 (1).png" alt=""><figcaption></figcaption></figure>
 
 然后会看到两个代币对提示框，在两个选择您想要添加流动性的交易对中的两个代币
 
@@ -49,25 +49,25 @@ PancakeSwap中文名“薄饼”，是币安智能链BSC上领先的去中心化
 
 例如我选择的交易对：USDT-Panda。选择好交易对之后，记得选&#x62E9;**“添加V2流动性”**，这一步非常重要请谨记。V3流动性只适合标准币，除此之外，必须都加V2的流动性
 
-<figure><img src="../.gitbook/assets/V2流动性.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/V2流动性 (1).png" alt=""><figcaption></figcaption></figure>
 
 之后，我们根据自己的需求，填写注入流动性资金池的代币数量。两个代币数量的比例，决定了代币的初始价格。例如，我添加1000USDT和1000个Panda，说明代币的上线价格是1U
 
-<figure><img src="../.gitbook/assets/添加代币数量.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/添加代币数量 (1).png" alt=""><figcaption></figcaption></figure>
 
 然后依次授权USDT和你自己发行的代币
 
 <figure><img src="../.gitbook/assets/确认授权.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/确认授权2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/确认授权2 (1).png" alt=""><figcaption></figcaption></figure>
 
 授权成功后点击“添加”，metamask钱包进行确认即可
 
-<figure><img src="../.gitbook/assets/添加.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/添加 (1).png" alt=""><figcaption></figcaption></figure>
 
 添加完成后，我们回到上一页，就能看到自己的池子信息了
 
-<figure><img src="../.gitbook/assets/流动性显示.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/流动性显示 (1).png" alt=""><figcaption></figcaption></figure>
 
 ### 3、撤出流动性（撤池子）
 
