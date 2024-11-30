@@ -8,7 +8,7 @@
 ## 代币创建 <a href="#createtoken" id="createtoken"></a>
 
 * [🔥 标准代币](createtoken/stardand.md)
-* [分红本币](createtoken/holdreflection.md)
+* [分红本币合约创建教程](createtoken/holdreflection.md)
 * [314协议发币教程](createtoken/314.md)
 * [🔥 LP分红代币](createtoken/lpreflection.md)
 * [LP分红+推荐奖励](createtoken/lpwithinviter.md)
@@ -26,10 +26,10 @@
 
 * [🔥 Solana一键发币教程](sol/stardand.md)
 * [PUMP发币与捆绑买入教程](sol/createpump.md)
-* [🆕 PUMP一键捆绑卖出教程](sol/sellpump.md)
-* [🆕 Solana预售Mint教程](sol/createmint.md)
+* [PUMP一键捆绑卖出教程](sol/sellpump.md)
+* [Solana创建预售、私募教程](sol/createmint.md)
 * [Solana市值管理机器人教程](sol/swapbot.md)
-* [Solana加池子教程](sol/createpool.md)
+* [Solana创建流动性教程](sol/createpool.md)
 * [OpenBook市场ID低成本创建教程](sol/market.md)
 * [pump.fun市值管理机器人教程](sol/swapbotpump.md)
 * [Solana权限管理(增发、冻结、弃权）](sol/control.md)
@@ -46,7 +46,7 @@
 
 ## TON链发币 <a href="#ton" id="ton"></a>
 
-* [🔥 TON一键发币教程](ton/stardand.md)
+* [🔥 TON链一键发币教程](ton/stardand.md)
 * [STON.fi加池子(创建流动性)教程](ton/ston.md)
 * [DeDust加池子(创建流动性)教程](ton/dedust.md)
 * [Tonkeeper钱包安装教程](ton/tonkeeper.md)

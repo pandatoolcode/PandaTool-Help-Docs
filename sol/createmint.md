@@ -2,7 +2,7 @@
 description: 在PandaTool平台开启Solana预售
 ---
 
-# 🆕 Solana预售Mint教程
+# Solana创建预售、私募教程
 
 **怎么理解Solana预售Mint功能？**
 

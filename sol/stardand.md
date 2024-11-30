@@ -8,8 +8,10 @@ description: 基于Solana的最全一键发币教程
 
 * 发币之前，务必使用安装好幻影钱包插件，安装教程➔ [https://help.pandatool.org/sol/phantom](https://help.pandatool.org/sol/phantom)
 * 钱包内最少准备0.3个Sol
-* 请打开翻墙软件（VPN/加速器），以防止网络错误
+* 请打开VPN/加速器，以防止网络错误
 * 手机发币也使用Phantom钱包或欧易web3钱包，不要用TP钱包，TP不能传logo
+
+{% embed url="https://www.youtube.com/watch?v=XXDG1K2G2Zg" %}
 
 ## Sol发币教程
 

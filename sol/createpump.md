@@ -15,7 +15,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 * 发币之前，务必使用安装好幻影钱包插件，安装教程➔ [https://help.pandatool.org/sol/phantom](https://help.pandatool.org/sol/phantom)
 * 捆绑买入每个地址建议最少准备0.1个sol，不然就太少了容易失败
-* 请打开翻墙软件（VPN/加速器），以防止网络错误
+* 请打开VPN或加速器，以防止网络错误
 * 手机发币也使用Phantom钱包或欧易web3钱包，不要用TP钱包，TP不能传logo
 
 ## PUMP发币教程
@@ -135,9 +135,9 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 * **答：**&#x50;UMP发币费用是0.05sol，捆绑买入每个地址收费是0.05sol
 
-**6、为什么我发的币，合约后缀不是pump？**
+**6、我发行的代币，合约地址尾号是pump吗？**
 
-* **答：**&#x50;UMP发的币数量日渐增多，导致后缀为pump的合约地址计算愈加困难。如果电脑算力不够，发出来的代币合约地址的后缀可能就不是pump了，而是ump或者pum，这就是算力不够导致的
+* **答：**&#x662F;的，在PandaTool平台创建的Pump代币，其合约地址尾号均为pump
 
 **7、PUMP发币不需要加池子吗？**
 
