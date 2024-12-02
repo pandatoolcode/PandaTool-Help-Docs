@@ -2,7 +2,7 @@
 description: 为Solana代币创建流动性资金池
 ---
 
-# Solana加池子教程
+# Solana创建流动池教程
 
 ## 什么是Solana加池？
 
@@ -43,18 +43,22 @@ description: 为Solana代币创建流动性资金池
 {% hint style="info" %}
 **概念区别：**&#x56;2用的是传统AMM池，V3用的是CPMM池
 
-**费用区别：**&#x56;2创建池子的费用0.6sol左右，V3创建池子的费用0.36sol左右
+**费用区别：**&#x56;2创建池子的费用0.6sol左右，V3创建池子的费用0.3sol左右
 
 **要求区别：**&#x56;2要求有OpenBook市场ID，V3不需要
 
 **稳定性区别：**&#x56;2资金池久经考验，更为稳定。V3是新东西，不太稳定
 
 **支持度区别：**&#x56;2得到所有的交易bot、钱包的支持，但是支持V3的可能不多
+
+**Token 2022：**&#x56;2不支持Token 2022代币，V3支持Token 2022
 {% endhint %}
 
 ### 2、创建Raydium V2流动性教程
 
-首先，我们直接打开Raydium V2加池页面，可以看到如下所示的参数
+所谓的Raydium V2，在合约概念里也叫AMM V4，是Raydium久经考验的流动性协议。除了贵以外，几乎没有缺点。接下来，详细给大家说明一下该如何V2创建流动性.
+
+首先，我们直接打开Raydium V2[加池页面](https://solana.pandatool.org/createpool)，可以看到如下所示的参数
 
 <figure><img src="../.gitbook/assets/5-Raydium V2加池.png" alt=""><figcaption></figcaption></figure>
 
@@ -83,7 +87,40 @@ description: 为Solana代币创建流动性资金池
 如果提示你加池失败了，也不要慌。先看下钱包是不是扣款了，如果扣款了，说明加池已经成功了，是提示错误。如果没有扣款，那就需要刷新页面后重试一下
 {% endhint %}
 
-至此，整个Raydium V2流动性资金池就创建完成了，接下来可以去[Raydium](https://raydium.io/swap/)进行交易了
+至此，整个Raydium V2流动性资金池就创建完成了，接下来可以去[Raydium](https://raydium.io/swap/)进行交易了。
+
+### 3、创建Raydium V3流动性教程
+
+正如前面的教程所述，采用CPMM的V3资金池，更为便利，也更加便宜。接下来，给大家详细阐述一下V3资金池的创建流程
+
+首先，我们打开[流动性创建](https://solana.pandatool.org/createpool)工具，选择Raydium V3 CPMM
+
+<figure><img src="../.gitbook/assets/2-选择代币.png" alt=""><figcaption></figcaption></figure>
+
+选择代币后，点击查询余额，如下图所示
+
+<figure><img src="../.gitbook/assets/2查询余额.png" alt=""><figcaption></figcaption></figure>
+
+之后需要您填写加入池子内的代币数量，以及其他一些参数
+
+<figure><img src="../.gitbook/assets/3-参数填写.png" alt=""><figcaption></figcaption></figure>
+
+* **基础代币：**&#x5C31;是你发行的代币，即土狗币，已自动选择
+* **报价代币：**&#x5C31;是价值代币，如Sol、USDT、USDC等，已自动选择
+* **添加基础代币数量：**&#x4F60;打算往池子里放多少土狗币（数量没有要求）
+* **添加报价代币数量：**&#x4F60;打算往池子里放多少价值币（数量没有要求）
+* **预估初始价格：**&#x5047;如放100土狗币+100USDT，那么代币**初始开盘价**就是1U。假如放100土狗币+1SOL，那么初始开盘价就是0.01sol。按照Sol价格260U算，初始开盘价就是2.6U
+* **开盘时间：**&#x7ACB;即开盘就是加池即刻开始交易；**自定义时间**就是自己确定一个开盘时间（该时间根据您个人的当地时区来确定。如果您在新加坡，那就是新加坡时区【UTC+8】。如果您在迪拜，那就是迪拜时区【UTC+4】）
+
+确认好信息无误之后，我们点击**立即创建**按钮，此时会跳出钱包进行确认
+
+<figure><img src="../.gitbook/assets/4-钱包确认.png" alt=""><figcaption></figcaption></figure>
+
+钱包确认后，即可完成加池操作。
+
+{% hint style="info" %}
+如果点击**立即创建**后不弹出钱包，
+{% endhint %}
 
 ## Solana加池疑问
 
