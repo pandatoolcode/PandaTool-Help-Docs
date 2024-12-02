@@ -11,6 +11,8 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 * **开盘买入：**&#x53D1;币的同时即可买入，避免机器人套利
 * **多地址：**&#x6700;多支持16个地址(连同发币地址一共17个)同时买入，可以分散持仓
 
+{% embed url="https://www.youtube.com/watch?v=4zhw0-o8VBo" %}
+
 ## 前提条件
 
 * 发币之前，务必使用安装好幻影钱包插件，安装教程➔ [https://help.pandatool.org/sol/phantom](https://help.pandatool.org/sol/phantom)
