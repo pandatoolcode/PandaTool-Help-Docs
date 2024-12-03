@@ -100,7 +100,7 @@
 * [主流币合约地址](practical-information/smart-contract.md)
 * [公链配置参数](practical-information/parameter.md)
 * [测试币水龙头大全](practical-information/faucet.md)
-* [交易所路由Router](practical-information/jiao-yi-suo-lu-you-router.md)
+* [交易所路由Router合约](practical-information/jiao-yi-suo-lu-you-router.md)
 
 ## 常见问题 <a href="#question" id="question"></a>
 

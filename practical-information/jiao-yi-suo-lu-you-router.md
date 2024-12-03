@@ -2,22 +2,36 @@
 description: 各大交易所路由地址
 ---
 
-# 交易所路由Router
+# 交易所路由Router合约
 
-### **Uniswap V2路由地址**
+### **Uniswap V2路由合约地址**
 
 * **ETH主网**：0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D
-* **Goerli测试网**：0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D
+* **Sepolia测试网：**&#x30;xeE567Fe1712Faf6149d80dA1E6934E354124CfE3
+* **Arbitrum**：0x4752ba5dbc23f44d87826276bf6fd6b1c372ad24
+* **Avalanche：**&#x30;x4752ba5dbc23f44d87826276bf6fd6b1c372ad24
+* **BNB Chain：**&#x30;x4752ba5dbc23f44d87826276bf6fd6b1c372ad24
+* **Base：**&#x30;x4752ba5dbc23f44d87826276bf6fd6b1c372ad24
+* **Optimism：**&#x30;x4A7b5Da61326A6379179b40d00F57E5bbDC962c2
+* **Polygon：**&#x30;xedf6066a2b290C185783862C7F4776A2C8077AD1
+* **Blast：**&#x30;xBB66Eb1c5e875933D44DAe661dbD80e5D9B03035
+* **WorldChain：**&#x30;x541aB7c31A119441eF3575F6973277DE0eF460bd
 
-### PancakeSwap V2 路由地址
+### &#x20;PancakeSwap V2 路由合约地址
 
 * **BSC主网：**&#x30;x10ED43C718714eb63d5aA57B78B54704E256024E
 * **BSC测试网：**&#x30;xB6BA90af76D139AB3170c7df0139636dB6120F7e
+* **ETH主网：**&#x30;xEfF92A263d31888d860bD50809A8D171709b7b1c
+* **zkEVM：**&#x30;x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb
+* **zkSync：**&#x30;x5aEaF2883FBf30f3D62471154eDa3C0c1b05942d
+* **Arbitrum：**&#x30;x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb
+* **Linea：**&#x30;x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb
+* **Base：**&#x30;x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb
+* **opBNB：**&#x30;x8cFe327CEc66d1C090Dd72bd0FF11d690C33a2Eb
 
-### SushiSwap V2 路由地址
+### SushiSwap V2 路由合约地址
 
 * **Arbitrum One：**&#x30;x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
 * **ETH主网：**&#x30;xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F
-* **Goerli 测试网：**&#x30;x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
 * **BSC主网：**&#x30;x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506
 

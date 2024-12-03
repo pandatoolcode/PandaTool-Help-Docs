@@ -15,7 +15,7 @@ description: 为Solana代币创建流动性资金池
 接下来，将详细给大家演示，如果进行Solana加池操作
 
 * **加池前：**&#x5982;果是添加Raydium V2的池子，请确保已经获得市场ID
-* **加池前：**&#x8BF7;确保钱包内有不少于0.6个sol
+* **加池前：**&#x53BB;掉入池的Sol之前，请确保钱包内额外有不少于0.6个sol
 * **加池前：**&#x8BF7;确保已经安装了Phantom或OKX Web3钱包插件/软件
 
 ## Solana加池教程
@@ -75,7 +75,7 @@ description: 为Solana代币创建流动性资金池
 
 <figure><img src="../.gitbook/assets/5-Raydium V2加池 (1).png" alt=""><figcaption></figcaption></figure>
 
-确认好信息无误之后，我们点击**立即创建**按钮，此时会跳出钱包进行确认
+确认好信息无误之后，我们点击**立即创建**按钮，此时会跳出钱包进行确认（如果提示您金额太大，可能是因为Sol余额不够导致的）
 
 <figure><img src="../.gitbook/assets/6-钱包确认 (2).png" alt=""><figcaption></figcaption></figure>
 
