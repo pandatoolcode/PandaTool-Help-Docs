@@ -85,18 +85,24 @@ OpenBook 市场ID的价格，取决于多种参数，包括事件队列长度、
 
 <figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FtbGOaey3Scr5AxZP6IcU%252F%25E5%2588%259B%25E5%25BB%25BA%25E6%2588%2590%25E5%258A%259F.png%3Falt%3Dmedia%26token%3D5a698786-98b9-4d54-8f53-86784c996b44&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=80074cbf&#x26;sv=1" alt=""><figcaption></figcaption></figure>
 
-此时就说明，整个ID创建工作已经完成，将ID复制下来，就可以去Raydium加池子了。
+此时就说明，整个ID创建工作已经完成，将ID复制下来，就可以[加池子](https://solana.pandatool.org/createpool)了。
 
-如果你没有保存ID，可以在钱包内找到自己的支付哈希，然后在浏览器里搜索哈希，在哈希详情里就能看到自己的ID
+> Solana加池教程：[https://help.pandatool.org/sol/createpool](https://help.pandatool.org/sol/createpool)
 
-<figure><img src="../.gitbook/assets/OPID.png" alt=""><figcaption></figcaption></figure>
+### 4.查询ID
 
-如何出现错误提示怎么办？例如**Jito未上链或者Jito未打包**？
+如果你没有保存ID，可以在我们的查询页面点击查询：[https://solana.pandatool.org/findmarket](https://solana.pandatool.org/findmarket)
 
-遇到这种情况，多半是Jito卡了，更换梯子节点到美国或者欧洲，然后刷新页面重试即可。
+<figure><img src="../.gitbook/assets/查询市场ID.png" alt=""><figcaption></figcaption></figure>
 
-### 4.配置详情
+输入基础代币，也就是您发行的代币合约地址，然后选择报价代币，确认之后点击查询，就能看到ID了
+
+<figure><img src="../.gitbook/assets/复制市场ID.png" alt=""><figcaption></figcaption></figure>
+
+将查到的市场ID复制下来，就可以使用了
+
+### 5.配置详情
 
 仅适合老手配置，新手不建议操作，详情说明即将更新
 
-有任何创建ID的问题，可以在电报群联系志愿者：https://t.me/pandatool
+有任何创建ID的问题，可以在电报群联系志愿者：[https://t.me/pandatool](https://t.me/pandatool)
