@@ -2,12 +2,12 @@
 description: 管理Solana流动性资金池
 ---
 
-# Solana移除流动性教程
+# Solana添加/移除流动性教程
 
 如果您已经创建了一个流动性资金池，接下来可以有两个操作：增加池子和撤出池子。
 
-* **增加池子**：继续增加流动性，让池子越来越大
-* **撤出池子：移除**流动性，使交易无法继续进行
+* **增加池子**：继续添加流动性，让池子越来越大
+* **撤出池子：**&#x79FB;除流动性，使交易无法继续进行
 
 本质上来说，添加和撤出都是在已经有了流动性的基础上对其进行管理，所以我们也可以统一称之为：管理流动性。
 
@@ -49,15 +49,7 @@ description: 管理Solana流动性资金池
 
 <figure><img src="../.gitbook/assets/6-添加流动性.png" alt=""><figcaption></figcaption></figure>
 
-之后会跳转到一个页面，让您选择两种代币，这两种代币就是您要增加流动性的币，和创建流动性的时候基本上一样
-
-<figure><img src="../.gitbook/assets/7-选择代币 (1).png" alt=""><figcaption></figcaption></figure>
-
-选择完成后点击查池子
-
-<figure><img src="../.gitbook/assets/8-查池子.png" alt=""><figcaption></figcaption></figure>
-
-等待几秒钟后，会出现一个参数填写页面，您需要填入要增加的代币数量，会自动计算出Lp的数量和所需要的Sol数量
+之后会跳转到一个页面，等待几秒钟后，会出现一个参数填写页面，您需要填入要增加的代币数量，会自动计算出Lp的数量和所需要的Sol数量
 
 <figure><img src="../.gitbook/assets/9添加流动性.png" alt=""><figcaption></figcaption></figure>
 

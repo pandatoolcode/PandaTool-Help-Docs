@@ -18,7 +18,9 @@ description: 通过PandaTool在波场链进行一键发币
 * 3、钱包确认并支付费用
 * 4、发币成功
 
-接下来就每一步，给大家做详细的介绍
+接下来就每一步，给大家做详细的介绍，着急的可以先看视频
+
+{% embed url="https://youtu.be/ZAxbfWfqNjk" %}
 
 ### 1、连接钱包
 

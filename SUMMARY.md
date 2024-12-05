@@ -30,7 +30,7 @@
 * [Solana创建预售、私募教程](sol/createmint.md)
 * [Solana市值管理机器人教程](sol/swapbot.md)
 * [Solana创建流动池教程](sol/createpool.md)
-* [Solana移除流动性教程](sol/managegepool.md)
+* [Solana添加/移除流动性教程](sol/managegepool.md)
 * [OpenBook市场ID低成本创建教程](sol/market.md)
 * [pump.fun市值管理机器人教程](sol/swapbotpump.md)
 * [Solana权限管理(增发、冻结、弃权）](sol/control.md)
