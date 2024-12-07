@@ -76,7 +76,9 @@
 
 ## 创建预售 <a href="#presale" id="presale"></a>
 
-* [创建代币预售教程](presale/mintaddsale.md)
+* [创建标准代币Mint预售教程](presale/simplemint.md)
+* [创建代币Mint加池预售教程](presale/mintaddsale.md)
+* [创建代币Mint捐赠预售教程](presale/chuang-jian-dai-bi-mint-juan-zeng-yu-shou-jiao-cheng.md)
 
 ## 跨链工具 <a href="#bridge" id="bridge"></a>
 

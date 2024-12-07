@@ -4,9 +4,9 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿
 
 # 🔥 标准代币
 
-标准代币开发视频教程：
+BSC链代币发行视频教程
 
-{% embed url="https://www.youtube.com/watch?v=zUAvX5MfMO8" %}
+{% embed url="https://www.youtube.com/watch?v=ma3moINidRg" %}
 
 ## 1、功能解释
 
