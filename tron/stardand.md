@@ -26,7 +26,7 @@ description: 通过PandaTool在波场链进行一键发币
 
 所有发币的教程第一步，就是连接钱包。我们首先打开波场一键发币的网址：[https://tron.pandatool.org/](https://tron.pandatool.org/) ，点击右上角链接钱包
 
-<figure><img src="../.gitbook/assets/1-连接钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-连接钱包 (1).png" alt=""><figcaption></figcaption></figure>
 
 此时会跳出波宝钱包提示，按照提示点击连接就可以了
 

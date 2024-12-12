@@ -6,6 +6,8 @@ description: 全网最详细的Sui链发币教程
 
 Sui堪称是近2个月来的当红炸子鸡，TVL节节攀升、MEME层出不穷。不过Sui作为Move系公链，估计很多人对其代码结构不是很了解，想要参与却不知道如何进行。基于这个因素，PandaTool开发了Sui链一键发币工具，实现无代码开发Sui链MEME币，让任何人都能尽快参与到Sui的生态中。
 
+{% embed url="https://youtu.be/LpcOpeC6-48" %}
+
 ## Sui发币前提条件 <a href="#qian-ti-tiao-jian" id="qian-ti-tiao-jian"></a>
 
 * 发币之前，务必使用安装好Suiet钱包或者SuiWallet插件：[Suiet钱包安装](suiet.md)、[Suiwallet钱包钱包](suiwallet.md)

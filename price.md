@@ -34,7 +34,7 @@ description: 明码标价、公开透明
 * [x] 代币增发：0.08sol/每次
 * [x] Solana创建流动性：0.09sol
 * [x] Solana添加流动性：0.03sol/次
-* [x] Solana移除流动性：0.09sol/次
+* [x] Solana移除流动性：0.03\~0.06sol/次
 * [x] 批量生成钱包：免费
 * [x] 批量归集代币：0.0001sol/每个地址
 * [x] Raydium市值管理：0.003sol/每笔交易

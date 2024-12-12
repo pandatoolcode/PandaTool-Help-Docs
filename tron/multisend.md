@@ -18,7 +18,7 @@ description: 通过PandaTool的工具完成波场批量转账
 
 我们打开波场批量转账工具的链接：[https://tron.pandatool.org/multisend](https://tron.pandatool.org/multisend) ，点击右上角连接钱包。（请先确保自己的浏览器已经安装了波宝钱包，如果没有，请查阅 → [TronLink波宝钱包安装教程](tronlink.md)）
 
-<figure><img src="../.gitbook/assets/1-连接钱包 (1).png" alt=""><figcaption><p>链接钱包</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-连接钱包 (1) (1).png" alt=""><figcaption><p>链接钱包</p></figcaption></figure>
 
 之后TronLink会跳出来让你确认，点击**连接**就可以了
 
