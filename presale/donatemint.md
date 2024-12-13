@@ -1,5 +1,5 @@
 ---
-description: 公平做慈善、捐赠V神来炒作、打造新叙事
+description: 预售即加池、自动分发LP、人人都是做市商
 ---
 
 # 创建代币Mint捐赠预售教程
@@ -24,27 +24,135 @@ description: 公平做慈善、捐赠V神来炒作、打造新叙事
 * 标准代币合约**不建议**开启预售，因为预售期间可能会有人加池
 * 其他代币合约请不要开始交易（如有手动开盘功能的话）
 
-### **三、捐赠预售创建教程** <a href="#san-mint-yu-shou-chuang-jian-jiao-cheng" id="san-mint-yu-shou-chuang-jian-jiao-cheng"></a>
+## **三、捐赠预售创建教程** <a href="#san-mint-yu-shou-chuang-jian-jiao-cheng" id="san-mint-yu-shou-chuang-jian-jiao-cheng"></a>
 
-**1、连接钱包（老手请忽略）**
+### **1、连接钱包（老手请忽略）** <a href="#id-1-lian-jie-qian-bao-lao-shou-qing-hu-le" id="id-1-lian-jie-qian-bao-lao-shou-qing-hu-le"></a>
 
-首先，在小狐狸钱包里选择好币安链（BNB Smart Chain）
+首先，我们打开捐赠预售创建官网：[https://www.pandatool.org/#/presale/mintDonate](https://www.pandatool.org/#/presale/mintDonate) ，右上角点击连接钱包
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FTPzIpsffzfaVswHf3TPQ%252F%25E5%25B8%2581%25E5%25AE%2589%25E4%25B8%25BB%25E7%25BD%2591.png%3Falt%3Dmedia%26token%3Dcf69fcf0-7085-43da-a2e9-414d3afdd8fd&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=d54bf4f&#x26;sv=2" alt=""><figcaption><p>小狐狸切换到币安链</p></figcaption></figure>
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FjaYwyhZIo7caum3ByfMp%252F1-%25E8%25BF%259E%25E6%258E%25A5%25E9%2592%25B1%25E5%258C%2585.png%3Falt%3Dmedia%26token%3D646f459f-27d6-4b10-84db-cc67eecb11d4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=118be3e1&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-然后打开预售创建官网：[https://www.pandatool.org/#/presale/mintDonate](https://www.pandatool.org/#/presale/mintDonate)，点击右上角选择BSC链
+之后会弹出小狐狸让你确定要连接的钱包地址，选择一个就行了。然后下一步就是选择公链，如果您要在币安创建预售，就选择BSC。如果要在Base链创建预售，就选择Base
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FXdGBxmzpnLvg1Gwd7rX9%252F%25E9%2580%2589%25E6%258B%25A9BSC.png%3Falt%3Dmedia%26token%3Dd43ec86c-ca1e-408b-b94f-9617a82cb8bc&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=93aa8c2b&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252Fto2I45fnkhnHMnT4mrz6%252F2-%25E9%2580%2589%25E6%258B%25A9%25E5%2585%25AC%25E9%2593%25BE.png%3Falt%3Dmedia%26token%3D5c12898f-492e-4007-94ba-afa9f2fbe4e4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=188fa091&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-然后选择右上角的连接钱包，会弹出小狐狸让你确定要连接的钱包地址，选择一个就行了
+之后就能在右上角看到你的钱包地址和链状态，说明已经链接成功了
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FOfQAGYfGyFD3H0Bxlh1Q%252F%25E9%2580%2589%25E6%258B%25A9%25E9%2592%25B1%25E5%258C%2585.png%3Falt%3Dmedia%26token%3D400d920c-7405-419f-9f3a-41e3e3fbfe04&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=3b1382d9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+### 2、填写预售参数
 
-钱包连接完成后，能在右上角看到你的钱包地址和链状态，说明已经链接成功了
+钱包连接成功后，我们通过PandaTool可视化页面创建预售，还是那个页面：[https://www.pandatool.org/#/presale/mintDonate](https://www.pandatool.org/#/presale/mintDonate)  打开，填写相应的预售参数：
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252Fg3I4f6b2ZVOKuPRXnpx5%252F%25E9%2592%25B1%25E5%258C%2585%25E8%25BF%259E%25E6%258E%25A5%25E6%2588%2590%25E5%258A%259F.png%3Falt%3Dmedia%26token%3Df50147dc-25ea-4df0-8ae9-bd49ca0f85c8&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=c2c2a133&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-捐赠预售.png" alt=""><figcaption></figcaption></figure>
 
-**2、填写预售参数**
+* [x] **预售名称** : 给你的预售起个名字，仅支持英文
+* [x] **预售代币地址** : 你要预售的代币合约地址（前提是有代币）
+* [x] **每份价格 :** 每份预售的价格，最小的单位是0.001
+* [x] **每份数量** : 每份有多少个代币
+* [x] **总份数:：**&#x4E00;共可以预售多少份（每份数量x总份数≤代币发行总量）
+* [x] **单次预售最大份数：**&#x4E00;次最多可以预售几份
+* [x] **单钱包预售最大份数：**&#x4E00;个钱包最多可以预售几&#x4EFD;_（单钱包最大份数必须小于单次预售最大份数）_
+* [x] **捐赠BNB/ETH比例：**&#x5C06;预售的BNB/ETH按照多大的比例（0\~100）捐赠给某个地址
+* [x] **接收BNB/ETH的地址：**&#x5C06;BNB/ETH捐赠给哪个地址（一般是名人钱包）
+* [x] **捐赠代币的比例：**&#x5C06;预售的代币按照多大的比例（0\~100）捐赠给某个地址
+* [x] **接收BNB/ETH的地址：**&#x5C06;代币捐赠给哪个地址（一般是名人钱包）
 
-钱包连接成功后，我们通过PandaTool可视化页面创建预售，还是那个页面[https://www.pandatool.org/#/presale/mintDonate](https://www.pandatool.org/#/presale/mintDonate) 打开，填写相应的预售参数：
+{% hint style="info" %}
+V神钱包地址：0xd8da6bf26964af9d7eed9e03e53415d37aa96045
+{% endhint %}
 
+例如我下面填写的内容参数
+
+<figure><img src="../.gitbook/assets/2-捐赠参数填写.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="info" %}
+根据上面填写的参数，以0.001BNB的价格可以Mint一份，一份的数量是100个代币，其中捐赠比例都是20%。
+
+什么意思呢，就是说：用户每Mint一次，将会有0.0002的BNB和20个代币给到V神钱包。用户自己只能获得80个代币，项目方只能获得0.0008BNB的预售费用。
+{% endhint %}
+
+参数填写完成后，点击创建合约，此时会弹出钱包进行确认，等待几秒，就会提示你预售创建完成
+
+<figure><img src="../.gitbook/assets/创建合约.png" alt=""><figcaption></figcaption></figure>
+
+* [x] **为什么点击创建没有反应？**
+  * 有可能是钱包没连上，核查一下钱包连接情况
+  * 有可能是代币合约填错了，核查一下合约地址
+
+### 3、预售控制台操作
+
+创建成功后，我们进入到控制台：[https://www.pandatool.org/#/presale/console](https://www.pandatool.org/#/presale/console)，看下该如何操作这个预售
+
+<figure><img src="../.gitbook/assets/3-控制台 (2).png" alt=""><figcaption></figcaption></figure>
+
+* [x] **权限控制**
+  * **转让所有权** : 将合约权限转让给其他人（转移权限之前，记得复制`控制台链接`。新的权限地址必须通过控制台链接，才能进入控制台操作）
+  * **开启交易：**&#x70B9;击按钮后，钱包确认后，即可开始预售
+  * **提取合约内代币：**&#x53EF;以将预售合约里面的BNB/ETH和代币提取走
+* [x] **参数控制**
+  * **修改每份价格 :** 重新修改预售价格，最低0.001
+  * **修改每份数量：**&#x91CD;新修改每份数量
+  * **修改总份数：**&#x6839;据实际情况重新修改总的预售份数
+  * **修改单次Mint最大份数：**&#x6839;据需求修改单次预售上限
+  * **修改单钱包最大份数：**&#x6839;据需求修改单个钱包预售上限
+* [x] **捐赠控制**
+  * **修改接收BNB/ETH的钱包：**&#x91CD;新设置接受捐赠的钱包地址
+  * **修改捐赠BNB/ETH的比例：**&#x91CD;新设置捐赠的比例
+  * **修改接受代币的钱包：**&#x91CD;新设置接受捐赠的钱包地址
+  * **修改捐赠代币的比例：**&#x91CD;新设置捐赠的比例
+
+### 4、预售怎么开始与结束？
+
+**1）加白名单：**&#x9884;售创建成功后，将预售合约加入到你本身代币合约的税率白名单中，例如
+
+<figure><img src="../.gitbook/assets/加白名单.png" alt=""><figcaption></figcaption></figure>
+
+**2）开启预售：**&#x5728;`预售控制台`点击**开始交易**，会进行两次确认。第一次是授权确认，第二次会让你**转入**足够的代币进入预售合约里
+
+<figure><img src="../.gitbook/assets/钱包授权确认.png" alt=""><figcaption></figcaption></figure>
+
+第一次授权成功后，紧接着会弹出钱包进行第二次确认
+
+<figure><img src="../.gitbook/assets/钱包二次确认.png" alt=""><figcaption></figcaption></figure>
+
+第二次确认成功后，会提示你预售开启成功，同时也能看到代币已经转入到合约里面
+
+<figure><img src="../.gitbook/assets/预售成功.png" alt=""><figcaption></figcaption></figure>
+
+**3）结束预售：**&#x5982;果你想提前结束预售，只需要通过“提取合约内代币”的功能，将合约里面的代币全部提出来，就无法预售了，如下图所示
+
+<figure><img src="../.gitbook/assets/提取合约内代币.png" alt=""><figcaption></figcaption></figure>
+
+### **四、相关问答**
+
+* [x] **捐赠的比例范围是多少？**
+  * 最少捐赠0%，最大捐赠100%
+* [x] **捐赠BNB和捐赠代币有什么区别？**
+  * **捐赠BNB/ETH：**&#x9879;目方获得的BNB/ETH变少
+  * **捐赠代币：**&#x7528;户获得的代币变少
+* [x] **为什么开启预售失败？**
+
+<figure><img src="../.gitbook/assets/预售开启失败 (1).png" alt=""><figcaption></figcaption></figure>
+
+* **钱包里没有足够的代币：**&#x5047;设你设置的预售【每份数量x总份数=10000枚代币】，但是你的钱包里只有9000枚代币，那么就会提示预售失败
+* **预售合约没有加白名单：**&#x5982;果没有把预售合约地址加入到代币白名单里面，就有可能出现预售开启失败的情况
+* **代币合约有持币限制：**&#x5047;如之前的代币合约有最大持仓限制，而你预售的数量超过这个限制，导致代币无法转入到预售地址里，就会造成预售开启失败的情况
+
+- [x] **预售开启成功后，为什么用户转账预售失败？**
+  * **价格问题：**&#x7528;户转账的BNB数量低于每份价格，就会失败，BNB原路返还
+  * **Gas问题：**&#x5982;果gas费设置的太低，就有可能会导致预售失败
+  * **合约总量问题：**&#x5982;果合约地址内已经没有足够的代币用于预售，那用户自然无法参与
+  * **份数填写错误：**&#x5355;钱包最大份数必须大于或等于单次预售最大份数
+  * **代币提前交易导致：**&#x8FD9;种情况一般出现在加池模式下，如果你的代币本身已经有池子在交易了，且具有了价格。如果这个价格与预售价格不符，就会出现预售失败的情况
+  * **预售已完成：**&#x5047;设你设置的预售总份数是10份，如果已经达到10份，那就代表着预售已经完成，此时将无法继续预售。如果权限还在，可以通过修改预售份数的方式继续预售。如果权限不在了，那就没办法了
+- [x] **为什么标准代币不适合做预售？**
+  * 因为选择标准代币，用户预售的同时自动加池子就开始交易了，会导致后续预售无法正常进行。
+- [x] **可以用wBNB或者USDT预售吗**？
+  * 不支持，目前只支持公链的原生代币进行预售，如BSC链的BNB、Base链的ETH
+- [x] **批量预售与实际发放份数问题**
+  * **整倍数预售：**&#x5047;设1份100个币，每份价格0.03BNB。用户转账0.06BNB，发放200个；用户转账0.09BNB，发放300个币，以此类推
+  * **非整倍数预售：**&#x540C;样是1份100个币，价格0.03BNB。假设用户转账0.04个BNB，则会发放100个币，并退回多余的0.01BNB。如果用户转账0.05BNB，则会发放100个币+退回0.02BNB。假设用户转账0.07BNB，则会发放200个币+退回0.01BNB。合约会自动按照最大倍数发放，多余退还
+- [x] **预售有没有最大/最小限制？**
+  * **最小限制：**&#x5355;个地址单次预售，这个最小限制就是你设定的最小价格，低于这个价格无法预售。
+  * **最大限制：**&#x5355;次和单个钱包都分别有最大限制
+
+如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/PandaTool](https://t.me/PandaTool)

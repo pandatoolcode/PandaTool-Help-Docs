@@ -44,10 +44,10 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 事实上，PUMP的发币与Sol发币的流程没有区别，就是按照要求填写一些参数，只是少了代币数量（固定10亿）、精度（固定9）等
 
-<figure><img src="../.gitbook/assets/5-必填内容.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pump发币.png" alt=""><figcaption></figcaption></figure>
 
-* **全称：**&#x4EE3;币全称，最多15个字符，支持中文、英文和中英混合
-* **简称：**&#x4EE3;币简称，最多8个字符，支持中文、英文和中英混合（纯汉字不能超过3个）
+* **全称：**&#x4EE3;币全称，最多30个字符，支持中文、英文和中英混合
+* **简称：**&#x4EE3;币简称，最多10个字符，支持中文、英文和中英混合（纯汉字不能超过3个）
 * **简介：**&#x4EE3;币基本信息介绍，最多200字
 * **Logo：**&#x4EE3;币图标，支持jpg、png格式，最大100k
 * **购买数量：**&#x53D1;币地址（dev）需要花多少sol购买代币，与发币同步执行，默认为0

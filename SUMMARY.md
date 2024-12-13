@@ -78,7 +78,6 @@
 
 * [创建标准代币Mint预售教程](presale/simplemint.md)
 * [创建代币Mint加池预售教程](presale/mintaddsale.md)
-* [创建代币Mint捐赠预售教程](presale/mintaddsale-1.md)
 * [创建代币Mint捐赠预售教程](presale/donatemint.md)
 
 ## 跨链工具 <a href="#bridge" id="bridge"></a>
