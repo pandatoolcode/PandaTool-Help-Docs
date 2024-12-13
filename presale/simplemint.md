@@ -36,6 +36,8 @@ description: 100%去中心化的预售合约创建教程
 
 之后就能在右上角看到你的钱包地址和链状态，说明已经链接成功了
 
+<figure><img src="../.gitbook/assets/3-链名称与地址.png" alt=""><figcaption></figcaption></figure>
+
 ### **2、填写预售参数**
 
 钱包连接成功后，我们通过PandaTool可视化页面创建预售，还是那个页面[https://www.pandatool.org/#/presale/simpleMint](https://www.pandatool.org/#/presale/simpleMint) 打开，填写相应的预售参数：
@@ -96,23 +98,43 @@ description: 100%去中心化的预售合约创建教程
 
 首先，点击开启预售按钮后，钱包会弹出让你进行授权
 
+<figure><img src="../.gitbook/assets/8-钱包授权.png" alt=""><figcaption><p>确认授权</p></figcaption></figure>
 
+第一次授权成功后，紧接着会弹出钱包进行第二次确认，并将预售的代币转入预售合约地址
 
-
-
-第一次授权成功后，紧接着会弹出钱包进行第二次确认
-
-![](https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FCmqw3QIWiJjSMyDHXjdx%252F%25E9%2592%25B1%25E5%258C%2585%25E4%25BA%258C%25E6%25AC%25A1%25E7%25A1%25AE%25E8%25AE%25A4.png%3Falt%3Dmedia%26token%3D486d003f-343d-48aa-98a7-1f2c4e9c5cfd\&width=768\&dpr=4\&quality=100\&sign=13618f45\&sv=2)
+<figure><img src="../.gitbook/assets/9-转入代币.png" alt=""><figcaption><p>转入代币</p></figcaption></figure>
 
 第二次确认成功后，会提示你预售开启成功，同时也能看到代币已经转入到合约里面
 
-![](https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FxqL5BpGfpoQM1Sl4JGGO%252F%25E9%25A2%2584%25E5%2594%25AE%25E6%2588%2590%25E5%258A%259F.png%3Falt%3Dmedia%26token%3De6cc22d2-723c-43d2-9a95-7657b64ff1e0\&width=768\&dpr=4\&quality=100\&sign=d0385b1d\&sv=2)
+<figure><img src="../.gitbook/assets/10-预售开启成功.png" alt=""><figcaption></figcaption></figure>
 
 **3）结束预售：**&#x5982;果你想提前结束预售，只需要通过“提取合约内代币”的功能，将合约里面的代币全部提出来，就无法预售了，如下图所示
 
-![](https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FwbEMLbAjkokMLSRTmCNL%252F%25E6%258F%2590%25E5%258F%2596%25E5%2590%2588%25E7%25BA%25A6%25E5%2586%2585%25E4%25BB%25A3%25E5%25B8%2581.png%3Falt%3Dmedia%26token%3D1452cfbf-f477-49b7-b2ba-b4278b949433\&width=768\&dpr=4\&quality=100\&sign=f8c6745a\&sv=2)
+<figure><img src="../.gitbook/assets/提取合约内代币.png" alt=""><figcaption></figcaption></figure>
 
+## **四、相关问答** <a href="#si-xiang-guan-wen-da" id="si-xiang-guan-wen-da"></a>
 
+* [x] **为什么开启预售失败？**
+*
+[ ]   * **钱包里没有足够的代币：**&#x5047;设你设置的预售【每份数量x总份数=10000枚代币】，但是你的钱包里只有9000枚代币，那么就会提示预售失败
+  * **预售合约没有加白名单：**&#x5982;果没有把预售合约地址加入到代币白名单里面，就有可能出现预售开启失败的情况
+  * **代币合约有持币限制：**&#x5047;如之前的代币合约有最大持仓限制，而你预售的数量超过这个限制，导致代币无法转入到预售地址里，就会造成预售开启失败的情况
 
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252F3wgQCJgqnGH5O5VeQozP%252F%25E9%25A2%2584%25E5%2594%25AE%25E5%25BC%2580%25E5%2590%25AF%25E5%25A4%25B1%25E8%25B4%25A5.png%3Falt%3Dmedia%26token%3Db60e1267-6bf1-433e-9efa-66b898c995c0&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a8a6170a&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
+* [ ] **预售开启成功后，为什么用户转账预售失败？**
+  * **价格问题：**&#x7528;户转账的BNB数量低于每份价格，就会失败，BNB原路返还
+  * **Gas问题：**&#x5982;果gas费设置的太低，就有可能会导致预售失败
+  * **合约总量问题：**&#x5982;果合约地址内已经没有足够的代币用于预售，那用户自然无法参与
+  * **达到了预售限制：**&#x5982;果达到了单次预售限制或者单钱包预售限制，则无法再购买
+  * **预售已完成：**&#x5047;设你设置的预售总份数是10份，如果已经达到10份，那就代表着预售已经完成，此时将无法继续预售。如果权限还在，可以通过修改预售份数的方式继续预售。如果权限不在了，那就没办法了
+* [x] **可以用wBNB或者USDT预售吗**？
+  * 不支持，目前只支持使用BNB预售
+* [x] **批量预售与实际发放份数问题**
+  * **整倍数预售：**&#x5047;设1份100个币，每份价格0.03BNB。用户转账0.06BNB，发放200个；用户转账0.09BNB，发放300个币，以此类推
+  * **非整倍数预售：**&#x540C;样是1份100个币，价格0.03BNB。假设用户转账0.04个BNB，则会发放100个币，并退回多余的0.01BNB。如果用户转账0.05BNB，则会发放100个币+退回0.02BNB。假设用户转账0.07BNB，则会发放200个币+退回0.01BNB。合约会自动按照最大倍数发放，多余退还
+* [x] **预售有没有最大/最小限制？**
+  * **最小限制：**&#x5355;个地址单次预售，这个最小限制就是你设定的最小价格，低于这个价格无法预售。
+  * **最大限制：**&#x5355;次和单个钱包都分别有最大限制
 
+如有不明白或者不清楚的地方，请加入官方电报群：[https://t.me/PandaTool](https://t.me/PandaTool)
