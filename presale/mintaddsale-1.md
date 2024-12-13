@@ -2,36 +2,33 @@
 description: 预售即加池、自动分发LP、人人都是做市商
 ---
 
-# 创建代币Mint加池预售教程
+# 创建代币Mint捐赠预售教程
 
-**什么是Mint加池预售？**
+**什么是Mint捐赠预售？**
 
-简单来说，就是通过Mint的方式预售，并将收到的BNB加入底池。项目方将一定数量的代币打入预售合约地址，开启预售后，用户将BNB转入预售合约地址，预售合约会自动按照设定好的比例，将代币与BNB一起加到Pancake组建流动性资金池，并将LP给到用户
+简单来说，就是通过Mint的方式预售，并将收到的BNB捐赠给名人钱包。j具体来说，项目方将一定数量的代币打入预售合约地址，开启预售后，用户将BNB转入预售合约地址，预售合约会自动按照设定好的比例，将一部分的代币或者BNB给到名人钱包，如V神钱包地址，方便后续的炒作。
 
-和标准预售的区别是，加池预售**只会将LP给到用户**，以奠定项目的后续发展。
+和标准预售、加池预售不同，捐赠预售借助了名人营销的方式，主动的将V神等钱包地址加入到项目中来，给项目打造了新的叙事，便于后续的传播。
 
-## 一、Mint加池预售功能说明 <a href="#id-1-gong-neng-jie-shi" id="id-1-gong-neng-jie-shi"></a>
+### 一、Mint捐赠预售功能说明 <a href="#id-1-gong-neng-jie-shi" id="id-1-gong-neng-jie-shi"></a>
 
-* **加池预售：**&#x9884;售的同时**自动添加流动性**，用户只能获得`LP`，不能获得代币
+* **捐赠预售：**&#x9884;售的同时将BNB或者代币给到名人钱包
 * **无前端：**&#x4E0D;需要任何网页，纯合约支持，100%**去中心化**
-* **转账即预售：**&#x7528;户将BNB转到`预售合约`，就能**自动**获得LP
+* **转账即预售：**&#x7528;户将BNB转到`预售合约`，就能**自动**获得代币
 * **自定义功能：**&#x9879;目方可以在预售开始后通过控制台**修改**预售价格和每份数量
 * **无软顶/硬顶：**&#x6CA1;有软顶或者硬顶的概念，只有一个预售总数量（份数x每份数量）
 
-## 二、注意事项提前说明
+### 二、注意事项提前说明 <a href="#er-zhu-yi-shi-xiang-ti-qian-shuo-ming" id="er-zhu-yi-shi-xiang-ti-qian-shuo-ming"></a>
 
-* 预售开启前请确保代币**还没有**加池子
-* 标准代币合约**不建议**使用
+* V神后期有砸盘的风险，注意防范
+* 标准代币合约**不建议**开启预售，因为预售期间可能会有人加池
 * 其他代币合约请不要开始交易（如有手动开盘功能的话）
-* 预售创建成功后，请将预售地址加入到代币地址的**白名单**中
-* 如果你的代币合约有手动开盘功能，但是没有白名单功能，那不要使用
-* 预售期间**不要撤池子**。一旦撤池子，可能会导致后续预售失败
 
-## **三、Mint预售创建教程**
+## **三、捐赠预售创建教程** <a href="#san-mint-yu-shou-chuang-jian-jiao-cheng" id="san-mint-yu-shou-chuang-jian-jiao-cheng"></a>
 
 ### **1、连接钱包（老手请忽略）** <a href="#id-1-lian-jie-qian-bao-lao-shou-qing-hu-le" id="id-1-lian-jie-qian-bao-lao-shou-qing-hu-le"></a>
 
-首先，我们打开预售创建官网：[https://www.pandatool.org/#/presale/mintAddSale](https://www.pandatool.org/#/presale/mintAddSale)，右上角点击连接钱包
+首先，我们打开捐赠预售创建官网：[https://www.pandatool.org/#/presale/mintDonate](https://www.pandatool.org/#/presale/mintDonate) ，右上角点击连接钱包
 
 <figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FjaYwyhZIo7caum3ByfMp%252F1-%25E8%25BF%259E%25E6%258E%25A5%25E9%2592%25B1%25E5%258C%2585.png%3Falt%3Dmedia%26token%3D646f459f-27d6-4b10-84db-cc67eecb11d4&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=118be3e1&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
@@ -43,9 +40,9 @@ description: 预售即加池、自动分发LP、人人都是做市商
 
 ### 2、填写预售参数
 
-钱包连接成功后，我们通过PandaTool可视化页面创建预售，还是那个页面：[https://www.pandatool.org/#/presale/mintAddSale](https://www.pandatool.org/#/presale/mintAddSale)  打开，填写相应的预售参数：
+钱包连接成功后，我们通过PandaTool可视化页面创建预售，还是那个页面：[https://www.pandatool.org/#/presale/mintDonate](https://www.pandatool.org/#/presale/mintDonate)  打开，填写相应的预售参数：
 
-<figure><img src="../.gitbook/assets/1-加池int.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1-捐赠预售.png" alt=""><figcaption></figcaption></figure>
 
 * [x] **预售名称** : 给你的预售起个名字，仅支持英文
 * [x] **预售代币地址** : 你要预售的代币合约地址（前提是有代币）
@@ -54,8 +51,16 @@ description: 预售即加池、自动分发LP、人人都是做市商
 * [x] **总份数:：**&#x4E00;共可以预售多少份（每份数量x总份数≤代币发行总量）
 * [x] **单次预售最大份数：**&#x4E00;次最多可以预售几份
 * [x] **单钱包预售最大份数：**&#x4E00;个钱包最多可以预售几份
-* [x] **选择交易所：**&#x42;SC的选择Pancake，Base链的选择Uniswap
-* [x] **加池比例：**&#x6309;照设定的比例（最小50%，最大100%）添加流动性，多余的BNB或者ETH给到营销钱包（默认是发币钱包）
+* [x] **捐赠BNB/ETH比例：**&#x5C06;预售的BNB/ETH按照多大的比例捐赠给某个地址
+* [x] **接收BNB/ETH的地址：**&#x5C06;BNB/ETH捐赠给哪个地址（一般是名人钱包）
+* [x] **捐赠代币的比例：**&#x5C06;预售的代币按照多大的比例捐赠给某个地址
+* [x] **收BNB/ETH的地址：**&#x5C06;代币捐赠给哪个地址（一般是名人钱包）捐赠区别
+
+{% hint style="info" %}
+
+{% endhint %}
+
+
 
 例如我下面填写的内容参数
 

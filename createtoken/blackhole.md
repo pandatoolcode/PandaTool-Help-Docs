@@ -72,7 +72,7 @@ description: 转入黑洞获得分红
 
 当我们成功发行代币后，可进入控制台，对代币的各项功能进行管理。我们打开[https://pandatool.org/#/coinrelease/console](https://pandatool.org/#/coinrelease/console)修改下列功能：
 
-<figure><img src="../.gitbook/assets/3-控制台.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3-控制台 (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **权限控制**
   * **转让所有权** : 将合约权限转让给其他人（转移权限之前，记得复制控制台链接。新的权限地址必须通过控制台链接，才能进入控制台操作）
