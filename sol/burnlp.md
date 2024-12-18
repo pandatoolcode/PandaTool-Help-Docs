@@ -14,6 +14,8 @@ description: 烧毁Raydium的流动性资金池
 
 从宣传意义上来说，如果不烧池子，Ave、GMGN、Dexscreener等平台，都会进行标注和风险提醒，非常不利于项目发展。
 
+<figure><img src="../.gitbook/assets/gmgn烧池.png" alt=""><figcaption></figcaption></figure>
+
 ### 烧池子有哪些影响？
 
 烧池子唯一的影响就是项目方不能撤池子了，除此之外没有负面影响。池子烧了之后，代币依然可以正常交易。池子里面的代币和sol依然存在，并不会有任何影响。

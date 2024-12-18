@@ -45,17 +45,27 @@ description: PandaTool工具大全导航
 
 ### 创建预售
 
-[创建预售工具](https://www.pandatool.org/#/presale/mintAddSale)：该预售无需前端，转账即预售、链上可查、100%去中心化
+[标准预售工具](https://www.pandatool.org/#/presale/simpleMint)：转账即预售、链上可查、100%去中心化
+
+[加池预售工具](https://www.pandatool.org/#/presale/mintAddSale)：预售即加池、自动分发LP、人人都是做市商
+
+[捐赠预售工具](https://www.pandatool.org/#/presale/mintDonate)：公平做慈善、捐赠V神来炒作,打造新叙事预售名称
 
 [预售控制台](https://www.pandatool.org/#/presale/console)：修改预售价格、预售份额、实时查看预售数据
 
-[创建预售教程](https://help.pandatool.org/presale/mintaddsale)：最完全的预售创建教程，看了就能学会
+[创建预售教程](https://help.pandatool.org/presale/simplemint)：最完全的预售创建教程，看了就能学会
 
 ### Solana一键发币
 
-[Solana发币官网](https://solana.pandatool.org/)：全网最强的Solana一键发币平台，快速稳定有保障
+[Solana发币官网](https://solana.pandatool.org/create)：全网最强的Solana一键发币平台，快速稳定有保障
+
+[Solana兑换工具](https://solana.pandatool.org/)：Solana聚合Swap，支持Raydium、Orca等多个流动性
 
 [Solana预售工具](https://solana.pandatool.org/createMint)：为您的Solana代币创建一个无前端预售工具
+
+[Solana加池工具](https://solana.pandatool.org/)：帮助您在Raydium上创建流动性资金池
+
+[Solana流动性管理](https://solana.pandatool.org/managepool)：支持添加流动性、撤出流动性和烧毁流动性等
 
 [PUMP发币捆绑工具](https://solana.pandatool.org/createpump)：发币上pump.fun，支持多地址捆绑买入
 
@@ -70,6 +80,8 @@ description: PandaTool工具大全导航
 [Solana烧池子](https://solana.pandatool.org/burn)：Solana烧池子工具，可以销毁LP以及销毁代币
 
 [Solana批量转账](https://solana.pandatool.org/multisend)：Solana批量转账/空投代币、以及Sol本币
+
+[Solana批量归集](https://solana.pandatool.org/gather)：支持多个钱包内的代币批量归集
 
 [Solana市值管理](https://solana.pandatool.org/swapbot)：Solana代币批量交易、市值管理机器人
 
@@ -166,5 +178,5 @@ Solana市值管理机器人请参考Solana板块
 ### 社交媒体
 
 **Twitter**：[https://twitter.com/PandaTool](https://twitter.com/PandaTool)\
-**Youtobe**：[https://www.youtube.com/@Panda\_Tool/videos](https://www.youtube.com/@Panda\_Tool/videos)\
+**Youtobe**：[https://www.youtube.com/@Panda\_Tool/videos](https://www.youtube.com/@Panda_Tool/videos)\
 **Telegram**：[https://t.me/pandatool](https://t.me/pandatool)
