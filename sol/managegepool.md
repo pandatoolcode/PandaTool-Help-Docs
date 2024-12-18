@@ -25,7 +25,7 @@ description: 管理Solana流动性资金池
 
 成功链接钱包后，就会自动查询到当前钱包的流动性情况，如下图
 
-<figure><img src="../.gitbook/assets/3-管理流动性.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/流动性页面.png" alt=""><figcaption></figcaption></figure>
 
 这个时候你就可以选择添加流动性，或移除全部流动性。
 
@@ -33,7 +33,7 @@ description: 管理Solana流动性资金池
 
 所谓移除流动性，也就是撤池子。我们只需要点击按钮，即可将全部的流动性一键移除，非常方便
 
-<figure><img src="../.gitbook/assets/4-移除全部流动性.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/移除流动性.png" alt=""><figcaption></figcaption></figure>
 
 之后会弹出钱包让您确认，可以通过钱包的代币数量变化来了解撤池信息
 
@@ -47,7 +47,7 @@ description: 管理Solana流动性资金池
 
 如果您在创建流动性资金池后觉得池子比较小，还想继续增大池子，就可以通过添加流动性来完成。我们在相应的流动性那里，点击“添加流动性”
 
-<figure><img src="../.gitbook/assets/6-添加流动性.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/添加流动性.png" alt=""><figcaption></figcaption></figure>
 
 之后会跳转到一个页面，等待几秒钟后，会出现一个参数填写页面，您需要填入要增加的代币数量，会自动计算出Lp的数量和所需要的Sol数量
 

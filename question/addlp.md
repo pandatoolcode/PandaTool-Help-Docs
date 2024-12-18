@@ -77,7 +77,7 @@ PancakeSwap中文名“薄饼”，是币安智能链BSC上领先的去中心化
 
 之后会跳转到一个新的页面，在该页面点击“移除”
 
-<figure><img src="../.gitbook/assets/移除流动性.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/移除流动性 (1).png" alt=""><figcaption></figcaption></figure>
 
 然后就可以自己选择要撤出的流动性比例，选择50%就是撤出一半的流动性。选择最大，就是撤出你自己的100%全部流动性（注意：是你自己的流动性）
 
