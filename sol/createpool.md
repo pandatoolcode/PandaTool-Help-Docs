@@ -14,7 +14,7 @@ description: 为Solana代币创建流动性资金池
 
 接下来，将详细给大家演示，如果进行Solana加池操作
 
-* **加池前：**&#x5982;果是添加Raydium V2的池子，请确保已经获得市场ID
+* **加池前：**&#x5982;果是添加Raydium AMM的池子，请确保已经获得市场ID
 * **加池前：**&#x53BB;掉入池的Sol之后，请确保钱包内额外有不少于0.6个sol
 * **加池前：**&#x8BF7;确保已经安装了Phantom或OKX Web3钱包插件/软件
 
@@ -38,27 +38,25 @@ description: 为Solana代币创建流动性资金池
 
 <figure><img src="../.gitbook/assets/4-显示钱包.png" alt=""><figcaption></figcaption></figure>
 
-之后，我们可以选择创建Raydium V2的池子或者Raydium V3的池子，两者的区别如下
+之后，我们可以选择创建Raydium AMM的池子或者Raydium CPMM的池子，两者的区别如下
 
 {% hint style="info" %}
-**概念区别：**&#x56;2用的是传统AMM池，V3用的是CPMM池
+**费用区别：**&#x4F20;统AMM创建池子的费用0.6sol左右，CPMM创建池子的费用0.3sol左右
 
-**费用区别：**&#x56;2创建池子的费用0.6sol左右，V3创建池子的费用0.3sol左右
+**要求区别：**&#x41;MM要求有OpenBook市场ID，CPMM不需要
 
-**要求区别：**&#x56;2要求有OpenBook市场ID，V3不需要
+**稳定性区别：**&#x41;MM资金池久经考验，更为稳定。CPMM是新东西，不太稳定
 
-**稳定性区别：**&#x56;2资金池久经考验，更为稳定。V3是新东西，不太稳定
+**支持度区别：**&#x41;MM得到所有的交易bot、钱包的支持，但是支持CPMM的可能不多
 
-**支持度区别：**&#x56;2得到所有的交易bot、钱包的支持，但是支持V3的可能不多
-
-**Token 2022：**&#x56;2不支持Token 2022代币，V3支持Token 2022
+**Token 2022：**&#x41;MM不支持Token 2022代币，CPMM支持Token 2022
 {% endhint %}
 
-### 2、创建Raydium V2流动性教程
+### 2、创建Raydium AMM流动性教程
 
-所谓的Raydium V2，在合约概念里也叫AMM V4，是Raydium久经考验的流动性协议。除了贵以外，几乎没有缺点。接下来，详细给大家说明一下该如何V2创建流动性.
+所谓的Raydium AMM，在合约概念里也叫AMM V4，是Raydium久经考验的流动性协议。除了贵以外，几乎没有缺点。接下来，详细给大家说明一下该如何AMM创建流动性.
 
-首先，我们直接打开Raydium V2[加池页面](https://solana.pandatool.org/createpool)，可以看到如下所示的参数
+首先，我们直接打开Raydium AMM[加池页面](https://solana.pandatool.org/createpool)，可以看到如下所示的参数
 
 <figure><img src="../.gitbook/assets/5-Raydium V2加池.png" alt=""><figcaption></figcaption></figure>
 
@@ -87,13 +85,13 @@ description: 为Solana代币创建流动性资金池
 如果提示你加池失败了，也不要慌。先看下钱包是不是扣款了，如果扣款了，说明加池已经成功了，是提示错误。如果没有扣款，那就需要刷新页面后重试一下
 {% endhint %}
 
-至此，整个Raydium V2流动性资金池就创建完成了，接下来可以去[Raydium](https://raydium.io/swap/)进行交易了。
+至此，整个Raydium AMM流动性资金池就创建完成了，接下来可以去[Raydium](https://raydium.io/swap/)进行交易了。
 
-### 3、创建Raydium V3流动性教程
+### 3、创建Raydium CPMM流动性教程
 
-正如前面的教程所述，采用CPMM的V3资金池，更为便利，也更加便宜。接下来，给大家详细阐述一下V3资金池的创建流程
+正如前面的教程所述，采用CPMM的资金池，更为便利，也更加便宜。接下来，给大家详细阐述一下CPMM资金池的创建流程
 
-首先，我们打开[流动性创建](https://solana.pandatool.org/createpool)工具，选择Raydium V3 CPMM
+首先，我们打开[流动性创建](https://solana.pandatool.org/createpool)工具，选择Raydium CPMM
 
 <figure><img src="../.gitbook/assets/2-选择代币.png" alt=""><figcaption></figcaption></figure>
 
@@ -132,6 +130,6 @@ description: 为Solana代币创建流动性资金池
 
 **2、创建流动性需要收费吗？怎么收的？**
 
-* 答：创建流动性，平台收取0.09sol。此外，Raydium收费标准是：V2收取0.46sol，V3收取0.2sol。
+* 答：创建流动性，平台收取0.09sol。此外，Raydium收费标准是：AMM收取0.46sol，CPMM收取0.2sol。
 
 如何您还有其他问题，都可以进入Telegram电报群找志愿者解答： [https://t.me/pandatool](https://t.me/pandatool)

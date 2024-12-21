@@ -1,6 +1,6 @@
 ---
-description: 全网最强Solana市值交易机器人
 icon: robot
+description: 全网最强Solana市值交易机器人
 ---
 
 # Solana市值管理机器人教程
@@ -13,7 +13,7 @@ Solana市值管理机器人，简单来说就是一个支持自动交易、批�
 
 1、 机器人为`单路由`模式：即，SOL的池子，只能用sol交易。USDC的池子，只能用USDC交易&#x20;
 
-2、 机器人目前只支持Raydium V2 AMM池和V3的CPMM池子，不支持CLMM池子 ，也不支持Orca池子
+2、 机器人目前只支持Raydium AMM池和CPMM池子，不支持CLMM池子 ，也不支持Orca池子
 
 3、 刚开盘项目价格不稳定，往往需要`提高滑点`才能交易成功&#x20;
 
@@ -43,8 +43,8 @@ Solana市值管理机器人，简单来说就是一个支持自动交易、批�
 
 **④ 池子类型**
 
-* Raydium V2：老版本的Raydium，需要创建市场ID。PUMP发射后就是到这里，合约名称是V4
-* Raydium V3：新版本的Ryaidum，即CPMM，不需要市场ID的池子
+* Raydium AMM：老版本的Raydium，需要创建市场ID。PUMP发射后就是到这里，合约名称是V4
+* Raydium CPMM：新版本的Ryaidum，即CPMM，不需要市场ID的池子
 
 **⑤ 操作模式**
 

@@ -42,7 +42,7 @@
 * [Solana销毁代币、烧池教程](sol/burn.md)
 * [Solana批量生成钱包地址](sol/createwallet.md)
 * [幻影钱包Phantom安装教程](sol/phantom.md)
-* [Raydium V3加池子教程](sol/raydium/README.md)
+* [Raydium CPMM加池子教程](sol/raydium/README.md)
   * [Raydium V2加池子教程](sol/raydium/raydium-v2.md)
   * [Orca加池子/撤池子教程](sol/raydium/orca.md)
   * [Meteora加池子/撤池子教程](sol/raydium/meteora.md)

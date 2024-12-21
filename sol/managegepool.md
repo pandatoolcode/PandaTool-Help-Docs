@@ -39,10 +39,6 @@ description: 管理Solana流动性资金池
 
 <figure><img src="../.gitbook/assets/5-移除流动性.png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
-需要注意的是，PandaTool现在仅支持您一键全部撤出流动性，后续会支持按比例分批撤出的工具
-{% endhint %}
-
 ### 3、添加流动性
 
 如果您在创建流动性资金池后觉得池子比较小，还想继续增大池子，就可以通过添加流动性来完成。我们在相应的流动性那里，点击“添加流动性”
