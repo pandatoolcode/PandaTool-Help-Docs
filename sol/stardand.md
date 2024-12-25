@@ -7,7 +7,7 @@ description: 基于Solana的最全一键发币教程
 ## 前提条件
 
 * 发币之前，务必使用安装好幻影钱包插件，安装教程➔ [https://help.pandatool.org/sol/phantom](https://help.pandatool.org/sol/phantom)
-* 钱包内最少准备0.3个Sol
+* 钱包内最少准备0.22个Sol
 * 请打开VPN/加速器，以防止网络错误
 * 手机发币也使用Phantom钱包或欧易web3钱包，不要用TP钱包，TP不能传logo
 
@@ -39,7 +39,7 @@ description: 基于Solana的最全一键发币教程
 
 完成钱包链接之后，接下来就是填写代币参数，具体有如下几项：
 
-<figure><img src="../.gitbook/assets/FireShot Capture 032 - 全网最强Solana一键发币平台 - PandaTool熊猫助手 - solana.pandatool.org.png" alt=""><figcaption><p>填写参数</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/slana发币.png" alt=""><figcaption></figcaption></figure>
 
 **必填部分**
 
@@ -47,7 +47,9 @@ description: 基于Solana的最全一键发币教程
 * **简称：**&#x652F;持英文、中文以及中英混合，最多**10个**字符（不支持USDT、USDC等不合法名称）
 * **精度：**&#x9ED8;认填9，精度与你能填写的最大供应量有关。
 * **供应数量：**&#x5F53;精度为9时，供应量最大不能超过100亿。当精度为8时，不能超过1000亿，以此类推
-* **logo：**&#x56FE;片小于**100k**，尺寸建议256x256像素（正方形）
+* **logo：**&#x56FE;片小于1000k，尺寸建议256x256像素（正方形）
+
+<figure><img src="../.gitbook/assets/solana发币选填.png" alt=""><figcaption></figcaption></figure>
 
 **选填部分**
 
