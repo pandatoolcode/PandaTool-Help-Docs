@@ -36,7 +36,7 @@ description: 为Solana代币创建流动性资金池
 
 钱包连接成功后，会看到自己的钱包地址
 
-<figure><img src="../.gitbook/assets/4-显示钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/地址显示.png" alt=""><figcaption></figcaption></figure>
 
 之后，我们可以选择创建Raydium AMM的池子或者Raydium CPMM的池子，两者的区别如下
 
@@ -58,7 +58,7 @@ description: 为Solana代币创建流动性资金池
 
 首先，我们直接打开Raydium AMM[加池页面](https://solana.pandatool.org/createpool)，可以看到如下所示的参数
 
-<figure><img src="../.gitbook/assets/5-Raydium V2加池.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/参数.png" alt=""><figcaption></figcaption></figure>
 
 * **市场ID：**&#x5982;果您已经创建了市场ID，可以将ID直接填进去，然后点击**查询**。如果还没有创建市场ID，可以在此处创建→[https://solana.pandatool.org/market](https://solana.pandatool.org/market)
 * **基础代币：**&#x5C31;是你发行的代币，即土狗币。无需选择，ID自动查询
@@ -93,15 +93,15 @@ description: 为Solana代币创建流动性资金池
 
 首先，我们打开[流动性创建](https://solana.pandatool.org/createpool)工具，选择Raydium CPMM
 
-<figure><img src="../.gitbook/assets/2-选择代币.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CPMM做池子.png" alt=""><figcaption></figcaption></figure>
 
 选择代币后，点击查询余额，如下图所示
 
-<figure><img src="../.gitbook/assets/2查询余额.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/查询余额.png" alt=""><figcaption><p>查询余额</p></figcaption></figure>
 
 之后需要您填写加入池子内的代币数量，以及其他一些参数
 
-<figure><img src="../.gitbook/assets/3-参数填写.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/CPMM参数.png" alt=""><figcaption></figcaption></figure>
 
 * **基础代币：**&#x5C31;是你发行的代币，即土狗币，已自动选择
 * **报价代币：**&#x5C31;是价值代币，如Sol、USDT、USDC等，已自动选择
