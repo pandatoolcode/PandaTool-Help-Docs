@@ -25,11 +25,11 @@ Solana市值管理机器人，简单来说就是一个支持自动交易、批�
 
 打开市值管理机器人页面：[https://solana.pandatool.org/swapbot](https://solana.pandatool.org/swapbot)，选择你需要使用的版本：**Raydium**
 
-<figure><img src="../.gitbook/assets/raydium市值管理.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/raydium市值管理 (2).png" alt=""><figcaption></figcaption></figure>
 
 之后我们按照如下流程进行操作
 
-<figure><img src="../.gitbook/assets/raydium市值管理.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/raydium市值管理 (1).png" alt=""><figcaption></figcaption></figure>
 
 **① 导入钱包：**&#x5728;选择的页面导入你的钱包私钥（需要几个钱包操作，就导入几个 ）
 
@@ -58,30 +58,36 @@ Solana市值管理机器人，简单来说就是一个支持自动交易、批�
 * 砸盘：代币要砸到某个目标价位
 * 防夹刷量：无需设置价格，改为设置刷量次数（买一笔+卖一笔为一次）
 
-<figure><img src="../.gitbook/assets/防夹刷量次数.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/刷量次数.png" alt=""><figcaption></figcaption></figure>
 
-**⑦ 操作金额：**&#x5728;**拉盘**模式下，这里的金额就是你所花费的sol数量。在**砸盘**模式下，这里的金额就是你要出售的代币数量。在**防夹刷量**模式下，金额为你要买入的金额
+**⑦** **操作金额：**&#x5728;**拉盘**模式下，这里的金额就是你所花费的sol数量。在**砸盘**模式下，这里的金额就是你要出售的代币数量。在**防夹刷量**模式下，金额为你要买入的金额
 
 * 全部：一次性卖出所有代币，无视价格与滑点
 * 随机：根据设置的金额范围，随机买入/卖出代币
 * 固定：按照固定数额的sol买入，或者按照固定数量的代币进行卖出
 
-**⑧ 时间间隔：**&#x6BCF;次买入或者卖出之间的执行间隔时间，以秒为单位
+**⑧ 捆绑数量：**&#x4E00;个区块内捆绑多个地址完成交易
 
-**⑨ 滑点：**&#x6BCF;笔交易所能接受的最大磨损成本。刚上线的代币，滑点要高一点
+* 不捆绑：一次交易1个地址
+* 捆绑2个地址：一次交易2个地址
+* 捆绑3个地：一次交易3个地址
 
-**⑩ Jito小费：给Jito验证者的小费，可以帮助你快速打包交易，提高成功率**
+**⑨时间间隔：**&#x6BCF;次买入或者卖出之间的执行间隔时间，以秒为单位
+
+**⑩  滑点：**&#x6BCF;笔交易所能接受的最大磨损成本。刚上线的代币，滑点要高一点
+
+**⑪ Jito小费：给Jito验证者的小费，可以帮助你快速打包交易，提高成功率**
 
 * 默认：0.000001sol
 * 快速：0.00005sol
 * **超快速：**&#x30;.0001sol（如果是防夹刷量，推荐用这个）
 * 其他：可以自己自定义Jito费
 
-**⑪ 查池子：**&#x67E5;询池子地址和代币价格
+**⑫  查池子：**&#x67E5;询池子地址和代币价格
 
-**⑫ 开始：**&#x70B9;击开始运行
+**⑬ 开始：**&#x70B9;击开始运行
 
-**⑬** **停止：**&#x70B9;击停止运行
+**⑭** **停止：**&#x70B9;击停止运行
 
 ### 疑问解答
 
