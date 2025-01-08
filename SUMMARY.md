@@ -31,7 +31,7 @@
 * [Solana市值管理机器人教程](sol/swapbot.md)
 * [Solana创建流动资金池教程](sol/createpool.md)
 * [Solana创建Raydium CLMM稳定池教程](sol/clmm.md)
-* [Solana添加/移除流动性教程](sol/managegepool.md)
+* [Solana添加/移除流动性教程](sol/managepool.md)
 * [Solana烧池子教程](sol/burnlp.md)
 * [OpenBook市场ID低成本创建教程](sol/market.md)
 * [OpenBook Market ID查询教程](sol/findmarket.md)
