@@ -5,7 +5,7 @@ description: PandaTool工具大全导航
 
 # 工具导航
 
-### 网址导航
+## PandaTool网址导航
 
 **EVM官网**：[https://pandatool.org/](https://pandatool.org/) (支持BSC、ETH、Base等）
 
@@ -19,7 +19,7 @@ description: PandaTool工具大全导航
 
 **小额跨链工具：**[https://bridge.pandatool.org/](https://bridge.pandatool.org/)
 
-**交流群**: [https://t.me/pandato](https://t.me/pandatool)
+**交流群**: [https://t.me/pandatool](https://t.me/pandatool)
 
 ### 代币模板/机制
 

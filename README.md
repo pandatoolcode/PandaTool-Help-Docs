@@ -1,6 +1,6 @@
 ---
-description: 业内领先的Web3.0多链工具平台
 icon: house-circle-check
+description: 业内领先的Web3.0多链工具平台
 ---
 
 # PandaTool一键发币
@@ -8,6 +8,13 @@ icon: house-circle-check
 ## 基本信息
 
 PandaTool是业内领先的Web3.0多链工具平台，旗下拥有小额跨链工具、代币铸造工具、批量转账工具、批量归集工具、交易工具等产品。PandaTool提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。即便不懂编程的小白用户，也能在这里体会到区块链的魅力。目前，PandaTool已经支持Ethereum、BSC、Solana、TRON、BASE、SUI、TON等十多个区块链，未来还将根据用户需求继续融合更多公链。开发更多的功能。
+
+* **EVM工具**：[https://pandatool.org/](https://pandatool.org/) (支持BSC、ETH、Base等）
+* **Solana工具**：[https://solana.pandatool.org/](https://solana.pandatool.org/)
+* **TON工具**：[https://ton.pandatool.org/](https://ton.pandatool.org/)
+* **Sui工具**：[https://sui.pandatool.org/](https://sui.pandatool.org/)
+* **波场工具**：[https://tron.pandatool.org/](https://tron.pandatool.org/)
+* **跨链工具：**[https://bridge.pandatool.org/](https://bridge.pandatool.org/)
 
 ## **为什么选择PandaTool？**
 

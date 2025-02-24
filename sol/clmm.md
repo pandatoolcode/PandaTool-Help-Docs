@@ -77,11 +77,9 @@ description: 创建CLMM稳定池子，让代币价格稳定
 
 当我们创建好CLMM流动性资金池后，这个池子里只有一种代币，即基础代币。这种情况下，代币是无法卖出的，只能买入。如果你希望代币可以卖出，需要往池子里加入报价代币USDC/USDT才行。
 
-具体怎么加进去呢？我们通过PandaTool的Solana Swap兑换一笔就行
+具体怎么加进去呢？我们通过Raydium兑换一笔就行
 
-打开Solana Swap的网页：[https://solana.pandatool.org/zh](https://solana.pandatool.org/zh) ，在上方输入USDT/USDC的数量，下面会自动按照你设置的交易价格匹配出代币数量
-
-<figure><img src="../.gitbook/assets/7 sap.png" alt=""><figcaption></figcaption></figure>
+打开Raydium的网页：[https://raydium.io/liquidity](https://raydium.io/liquidity) ，在上方输入USDT/USDC的数量，下面会自动按照你设置的交易价格匹配出代币数量
 
 此时点击兑换，并通过钱包确认完成交易后，即可将USDT/USDC加入到池子里。
 

@@ -105,6 +105,8 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 {% hint style="info" %}
 <mark style="color:blue;">注意：捆绑买入数量最小为</mark><mark style="color:blue;">**0.02sol**</mark><mark style="color:blue;">，如果低于这个数字，可能会导致发币失败</mark>
+
+<mark style="color:blue;">注意：在输入买入金额后，必须确保钱包内仍然有不少于0.06sol的余额</mark>
 {% endhint %}
 
 <figure><img src="../.gitbook/assets/7-卖出配置 (2).png" alt=""><figcaption></figcaption></figure>
@@ -147,7 +149,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 **8、PUMP发币满足什么条件才能上Raydium？**
 
-* **答：**&#x5F53;PUMP联合曲线资金池达到85个sol时，PUMP将帮助代币在Raydium V2上创建一个流动性，并将LP销毁
+* **答：**&#x5F53;PUMP联合曲线资金池达到85个sol时，PUMP将帮助代币在Raydium AMM上创建一个流动性，并将LP销毁
 
 **9、PUMP代币开盘初始价格是多少?**
 
