@@ -36,6 +36,7 @@
 * [OpenBook市场ID低成本创建教程](sol/market.md)
 * [OpenBook Market ID查询教程](sol/findmarket.md)
 * [pump.fun市值管理机器人教程](sol/swapbotpump.md)
+* [Solana新地址买入工具教程](sol/newbuy.md)
 * [Solana权限管理(增发、冻结、弃权）](sol/control.md)
 * [Solana更新代币资料](sol/upload.md)
 * [Solana批量空投教程](sol/batch-transfer.md)
