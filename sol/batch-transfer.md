@@ -28,15 +28,15 @@ description: Solana最强批量空投/转账工具
 
 ### 二、批量空投Sol
 
-在页面左边空投sol的输入框内，填入要空投的地址以及数量，用英文逗号隔开（最多不能超过20个地址）
+在页面左边空投sol的输入框内，填入要空投的地址以及数量，用英文逗号隔开（最大可以输入200个地址）
 
-<figure><img src="../.gitbook/assets/批量空投sol.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/地址.png" alt=""><figcaption></figcaption></figure>
 
 输入好之后，点击下一步，即可查询到要空投的地址数、sol余额等信息，如下图所示：
 
 <figure><img src="../.gitbook/assets/空投数据展示.png" alt=""><figcaption></figcaption></figure>
 
-此时我们确认一下空投的数据信息是否准确，确认无误后，点击“发送交易”，此时会弹出钱包，点击确认即可。
+此时我们确认一下空投的数据信息是否准确，确认无误后，点击“发送交易”，**此时会弹出钱包**，点击确认即可。
 
 ### 三、批量空投代币
 
@@ -58,7 +58,7 @@ description: Solana最强批量空投/转账工具
 
 <figure><img src="../.gitbook/assets/批量转账-数量.png" alt=""><figcaption></figcaption></figure>
 
-每一行为一组，不要串行了。单次支持最大11个地址，建议大家不要多填。地址和数量填写完成之后，点击**下一步**，就能看到你此次要转账的具体金额了
+每一行为一组，不要串行了。单次支持200地址，建议大家不要多填。地址和数量填写完成之后，点击**下一步**，就能看到你此次要转账的具体金额了
 
 <figure><img src="../.gitbook/assets/批量转账-确认信息.png" alt=""><figcaption></figcaption></figure>
 
@@ -70,9 +70,9 @@ description: Solana最强批量空投/转账工具
 
 <figure><img src="../.gitbook/assets/批量转账-钱包确认.png" alt=""><figcaption></figcaption></figure>
 
-如果出现提示为“交易太大请减少地址数”，说明整个交易的信息超过了Solana的哈希最大值，这个时候需要减少地址数量。11个地址并不是最佳地址，正常8\~9个地址就可以
-
-<figure><img src="../.gitbook/assets/批量转账-错误提示.png" alt=""><figcaption></figcaption></figure>
+{% hint style="info" %}
+请注意，该空投一次授权最多支持200个地址。但是钱包弹出的时间较慢，请等待钱包弹出。
+{% endhint %}
 
 ### 四、私钥空投
 
@@ -116,7 +116,7 @@ description: Solana最强批量空投/转账工具
 
 **1、批量转账怎么收费？**
 
-* _**答：**_&#x5355;次空投收取0.01sol的费用。正常空投代币单次不要超过11个，私钥空投单次8个地址左右
+* _**答：**_&#x5355;次空投8\~11个地址收取0.01sol的费用。
 
 **2、“您没持有该代币或代币不存在!”是什么意思？**
 
