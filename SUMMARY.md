@@ -34,6 +34,7 @@
 * [Solana添加/移除流动性教程](sol/managepool.md)
 * [Solana烧池子教程](sol/burnlp.md)
 * [OpenBook市场ID低成本创建教程](sol/market.md)
+* [Solana租金回收教程](sol/rent.md)
 * [OpenBook Market ID查询教程](sol/findmarket.md)
 * [pump.fun市值管理机器人教程](sol/swapbotpump.md)
 * [Solana新地址买入工具教程](sol/newbuy.md)
