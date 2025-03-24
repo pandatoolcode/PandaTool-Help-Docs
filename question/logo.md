@@ -4,7 +4,7 @@ description: 解决代币没有logo的问题
 
 # 代币怎么上头像logo？
 
-代币的本质是一个合约，不存在logo。目前我们看到的所有的代币logo，都是由各个平台自己加上去的，其目的是为了方便展示、提高代币的可信度等等。
+BSC、ETH链的代币的本质是一个合约，不存在logo。目前我们看到的所有的代币logo，都是由各个平台自己加上去的，其目的是为了方便展示、提高代币的可信度等等。
 
 因此，要想使你的代币有logo头像显示，必须去各个平台申请才行。以下是一些申请渠道和方法：
 
@@ -24,11 +24,11 @@ Ave的代币logo和币种信息、社交媒体链接是一起申请的，目前�
 
 ### 2、TP钱包的代币头像申请方法
 
-TP钱包的代币logo，需要通过他们官方的Github页面，按照他们的操作流程申请，并不是花钱就能搞定的。具体申请方法，可参照这篇文档：[https://help.tokenpocket.pro/cn/developer/submit-logo](https://help.tokenpocket.pro/cn/developer/submit-logo)
+TP钱包的代币logo，需要通过他们官方的Github页面，按照他们的操作流程申请，并不是花钱就能搞定的。具体申请方法，可参照这篇文档：[https://www.tokenpocket.pro/zh/submit/token](https://www.tokenpocket.pro/zh/submit/token)
 
 <figure><img src="../.gitbook/assets/TP钱包logo.jpg" alt=""><figcaption><p>TP钱包logo</p></figcaption></figure>
 
-* **费用：**&#x35;w个TPT
+* **费用：10**w个TPT
 * **难度：**&#x8F83;高
 * **要求：**&#x6B63;规的官网、代币信息，合约没有黑名单/暂停交易等功能
 * **时间：**&#x33;\~5个工作日
