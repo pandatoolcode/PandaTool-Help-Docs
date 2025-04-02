@@ -1,6 +1,6 @@
 ---
-icon: square-dollar
 description: 明码标价、公开透明
+icon: square-dollar
 ---
 
 # 服务费用
@@ -32,6 +32,7 @@ description: 明码标价、公开透明
 * [x] 代币弃权：免费
 * [x] 代币冻结：0.08sol/每次
 * [x] 代币增发：0.08sol/每次
+* [x] 租金回收：4.88%（回收金额）
 * [x] Solana创建流动性：0.09sol
 * [x] Solana添加流动性：0.03sol/次
 * [x] Solana移除流动性：0.03\~0.06sol/次
