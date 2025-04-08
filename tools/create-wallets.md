@@ -2,7 +2,7 @@
 description: 支持批量生成ETH钱包和波场钱包地址
 ---
 
-# 批量生成钱包
+# 批量生成BSC钱包
 
 批量生成钱包视频操作教程
 
@@ -10,7 +10,7 @@ description: 支持批量生成ETH钱包和波场钱包地址
 
 ## 支持公链
 
-PandaTool批量生成钱包工具支持所有EVM兼容链和波场链，EVM兼容链包括：ETH、BSC、OKChain、Heco、Polygon、Avalanche、Fantom、Arbitrum、Optimism等
+PandaTool批量生成钱包工具支持所有EVM兼容链和波场链，EVM兼容链包括：ETH、BSC、OKChain、Polygon、Avalanche、Fantom、Arbitrum、Optimism等
 
 ## 操作流程
 
@@ -18,11 +18,17 @@ PandaTool批量生成钱包工具支持所有EVM兼容链和波场链，EVM兼�
 
 * 为保证私钥安全性，请先断开网络，在本地状态下操作
 
-**2、输入数量**
+**2、打开PandaTool**
+
+* 打开PandaTool批量生成钱包工具：[https://www.pandatool.org/#/accountCreate/eth?lang=zh-CN](https://www.pandatool.org/#/accountCreate/eth?lang=zh-CN)
+
+<figure><img src="../.gitbook/assets/1中文钱包教程.png" alt=""><figcaption></figcaption></figure>
+
+**3、输入数量**
 
 * 输入要生成的地址数量
 
-**3、点击生成**
+**4、点击生成**
 
 * 等待几秒钟后，会将生成的钱包地址、私钥和助记词给出来，请妥善保存
 

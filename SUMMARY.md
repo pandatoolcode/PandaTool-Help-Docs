@@ -95,7 +95,7 @@
 
 * [批量转账教程](tools/batch-transfer.md)
 * [LP流动性修复](tools/lpfixtool.md)
-* [批量生成钱包](tools/create-wallets.md)
+* [批量生成BSC钱包](tools/create-wallets.md)
 * [批量归集工具](tools/gather.md)
 * [市值管理机器人](tools/operate.md)
 * [合约安全检测](tools/contract-check.md)
