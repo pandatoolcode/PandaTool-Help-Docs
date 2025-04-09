@@ -1,5 +1,6 @@
 ---
 description: 各大公链主流币地址
+icon: badge-check
 ---
 
 # Ave检测怎么才能全绿？

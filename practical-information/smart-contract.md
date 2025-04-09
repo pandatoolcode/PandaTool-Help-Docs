@@ -1,5 +1,6 @@
 ---
 description: 各大公链主流币地址
+icon: circle-caret-down
 ---
 
 # 主流币合约地址

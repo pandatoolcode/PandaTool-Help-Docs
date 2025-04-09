@@ -1,5 +1,6 @@
 ---
 description: Sol链上最大DEX
+icon: money-bill-trend-up
 ---
 
 # Raydium CPMM加池子教程

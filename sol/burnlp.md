@@ -1,5 +1,6 @@
 ---
 description: 烧毁Raydium的流动性资金池
+icon: fire-flame-curved
 ---
 
 # Solana烧池子教程

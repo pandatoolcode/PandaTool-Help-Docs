@@ -1,5 +1,6 @@
 ---
 description: 加池挖矿、恒定产出、无前端无后端、完全去中心化运行
+icon: pickaxe
 ---
 
 # LP挖矿+推荐奖励

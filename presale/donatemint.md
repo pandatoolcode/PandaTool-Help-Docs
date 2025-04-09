@@ -1,5 +1,6 @@
 ---
 description: 预售即加池、自动分发LP、人人都是做市商
+icon: hands-holding-dollar
 ---
 
 # 创建代币Mint捐赠预售教程

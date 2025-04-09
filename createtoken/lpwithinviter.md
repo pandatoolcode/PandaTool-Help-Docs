@@ -1,5 +1,6 @@
 ---
 description: 下级交易、上级奖励、持续裂变、壮大规模
+icon: square-5
 ---
 
 # LP分红+推荐奖励

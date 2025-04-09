@@ -1,5 +1,6 @@
 ---
 description: 在Cetus创建CLMM集中流动性资金池
+icon: narwhal
 ---
 
 # Cetus创建集中流动性资金池教程

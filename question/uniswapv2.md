@@ -1,5 +1,6 @@
 ---
 description: 在Uniswap V2创建添加流动性资金池
+icon: pegasus
 ---
 
 # Uniswap V2创建流动性教程(加池教程)

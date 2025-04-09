@@ -1,5 +1,6 @@
 ---
 description: 多个地址内的代币一次性全部卖出
+icon: pills
 ---
 
 # PUMP一键捆绑卖出教程

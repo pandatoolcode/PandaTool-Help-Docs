@@ -1,5 +1,6 @@
 ---
 description: EVM最强的代币市值管理机器人
+icon: robot
 ---
 
 # 市值管理机器人

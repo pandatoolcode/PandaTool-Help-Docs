@@ -1,5 +1,6 @@
 ---
 description: 批量生成钱包，方便操作
+icon: wallet
 ---
 
 # Solana批量生成钱包地址

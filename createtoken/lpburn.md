@@ -1,5 +1,6 @@
 ---
 description: 底池定时燃烧、价格被动上涨、凝聚社区共识
+icon: square-8
 ---
 
 # Mint+底池燃烧

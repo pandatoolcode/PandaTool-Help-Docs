@@ -1,5 +1,6 @@
 ---
 description: 在各类钱包里添加代币的教程
+icon: wallet
 ---
 
 # 钱包怎么添加代币？

@@ -1,5 +1,6 @@
 ---
 description: 全网最详细的Sui链发币教程
+icon: axe-battle
 ---
 
 # Sui链一键发币教程

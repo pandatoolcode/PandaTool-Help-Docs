@@ -1,5 +1,6 @@
 ---
 description: 管理Solana流动性资金池
+icon: repeat
 ---
 
 # Solana添加/移除流动性教程

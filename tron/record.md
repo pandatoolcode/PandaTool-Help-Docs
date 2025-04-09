@@ -1,5 +1,6 @@
 ---
 description: 在波场浏览器上传logo与资料
+icon: coin-front
 ---
 
 # 波场代币信息录入教程

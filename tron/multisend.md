@@ -1,5 +1,6 @@
 ---
 description: 通过PandaTool的工具完成波场批量转账
+icon: right-from-bracket
 ---
 
 # 波场Tron批量转账工具教程

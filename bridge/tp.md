@@ -1,5 +1,6 @@
 ---
 description: 使用手机TP钱包使用PandaBrdige进行跨链闪兑
+icon: bridge
 ---
 
 # TP钱包PandaBridge跨链教程

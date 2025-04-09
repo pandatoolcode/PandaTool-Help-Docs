@@ -1,5 +1,6 @@
 ---
 description: 一篇文章学会在SunSwap创建流动性资金池
+icon: face-sunglasses
 ---
 
 # SunSwap做流动性资金池子教程

@@ -1,5 +1,6 @@
 ---
 description: Solana最强批量空投/转账工具
+icon: inbox-out
 ---
 
 # Solana批量空投教程

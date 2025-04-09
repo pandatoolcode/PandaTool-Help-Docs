@@ -1,8 +1,9 @@
 ---
 description: 基于Solana的最全一键发币教程
+icon: axe-battle
 ---
 
-# 🔥 Solana一键发币教程
+# Solana一键发币教程
 
 ## 前提条件
 

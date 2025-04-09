@@ -1,5 +1,6 @@
 ---
 description: 解决代币没有logo的问题
+icon: btc
 ---
 
 # 代币怎么上头像logo？

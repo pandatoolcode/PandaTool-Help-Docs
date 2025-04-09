@@ -1,8 +1,9 @@
 ---
 description: 全网最详细TON发币教程
+icon: axe-battle
 ---
 
-# 🔥 TON一键发币教程
+# TON链一键发币教程
 
 ## 注意事项 <a href="#zhu-yi-shi-xiang" id="zhu-yi-shi-xiang"></a>
 

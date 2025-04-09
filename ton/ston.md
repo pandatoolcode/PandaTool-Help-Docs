@@ -1,5 +1,6 @@
 ---
 description: 在STON上创建AMM资金池
+icon: arrows-cross
 ---
 
 # STON.fi加池子(创建流动性)教程

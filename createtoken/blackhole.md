@@ -1,5 +1,6 @@
 ---
 description: 转入黑洞获得分红
+icon: square-6
 ---
 
 # 黑洞分红教程

@@ -1,5 +1,6 @@
 ---
 description: TonRaffles是TON上使用最广泛的锁池平台
+icon: lock
 ---
 
 # TON锁池平台TonRaffles使用教程

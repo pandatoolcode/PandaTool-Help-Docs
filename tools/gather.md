@@ -1,5 +1,6 @@
 ---
 description: 一键批量归集EVM链的代币
+icon: arrow-right-to-bracket
 ---
 
 # 批量归集工具

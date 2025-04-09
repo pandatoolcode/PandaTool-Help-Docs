@@ -1,5 +1,6 @@
 ---
 description: Solana最强批量归集工具
+icon: inbox-in
 ---
 
 # Solana批量归集教程

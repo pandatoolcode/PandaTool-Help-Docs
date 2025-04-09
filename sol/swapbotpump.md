@@ -1,5 +1,6 @@
 ---
 description: 全网最强PUMP市值交易机器人
+icon: robot-astromech
 ---
 
 # pump.fun市值管理机器人教程

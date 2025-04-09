@@ -1,5 +1,6 @@
 ---
 description: 在PancakeSwap创建流动性资金池教程
+icon: box-open-full
 ---
 
 # PancakeSwap薄饼加池/撤池教程

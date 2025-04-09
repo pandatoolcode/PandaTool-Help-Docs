@@ -1,5 +1,6 @@
 ---
 description: 100%去中心化的预售合约创建教程
+icon: hammer
 ---
 
 # 创建标准代币Mint预售教程

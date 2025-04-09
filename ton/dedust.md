@@ -1,5 +1,6 @@
 ---
 description: 在DeDust上创建AMM资金池
+icon: cube
 ---
 
 # DeDust加池子(创建流动性)教程

@@ -1,5 +1,6 @@
 ---
 description: 全网最强新地址买入工具使用教程
+icon: people-group
 ---
 
 # Solana新地址买入工具教程

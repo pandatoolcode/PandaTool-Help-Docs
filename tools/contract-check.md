@@ -1,5 +1,6 @@
 ---
 description: 开放的、无需许可的代币安全检测平台
+icon: shield-check
 ---
 
 # 合约安全检测

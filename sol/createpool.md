@@ -1,8 +1,9 @@
 ---
 description: 为Solana代币创建流动性资金池
+icon: person-swimming
 ---
 
-# Solana创建流动池教程
+# Solana创建流动资金池教程
 
 ## 什么是Solana加池？
 

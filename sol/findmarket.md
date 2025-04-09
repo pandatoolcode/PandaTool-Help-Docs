@@ -1,5 +1,6 @@
 ---
 description: 一键查询代币的OpenBook市场ID
+icon: magnifying-glass
 ---
 
 # OpenBook Market ID查询教程

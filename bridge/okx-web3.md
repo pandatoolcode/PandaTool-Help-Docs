@@ -1,5 +1,6 @@
 ---
 description: 通过欧易Web3钱包完成在PandaBridge的跨链
+icon: bridge-water
 ---
 
 # 欧易Web3钱包PandaBridge跨链教程

@@ -1,5 +1,6 @@
 ---
 description: 一篇文章学会使用波场市值管理机器人
+icon: robot
 ---
 
 # 波场Tron市值管理机器人使用教程

@@ -1,5 +1,6 @@
 ---
 description: 使用OKX Web3钱包发行代币
+icon: axe
 ---
 
 # 欧易OKX Web3钱包发币教程

@@ -1,5 +1,6 @@
 ---
 description: 基于TON链最好的钱包工具
+icon: wallet
 ---
 
 # Tonkeeper钱包安装教程
@@ -14,7 +15,7 @@ Tonkeeper 是 TON链上的最佳加密钱包之一。这种非托管加密货币
 
 ### 1、安装谷歌插件
 
-我们打开谷歌浏览器，点击Tonkeeper钱包插件安装页面：[https://chromewebstore.google.com/detail/tonkeeper-%E2%80%94-wallet-for-to/omaabbefbmiijedngplfjmnooppbclkk?utm\_source=tonkeeper\_index](https://chromewebstore.google.com/detail/tonkeeper-%E2%80%94-wallet-for-to/omaabbefbmiijedngplfjmnooppbclkk?utm\_source=tonkeeper\_index) ，点击添加至Chrome
+我们打开谷歌浏览器，点击Tonkeeper钱包插件安装页面：[https://chromewebstore.google.com/detail/tonkeeper-%E2%80%94-wallet-for-to/omaabbefbmiijedngplfjmnooppbclkk?utm\_source=tonkeeper\_index](https://chromewebstore.google.com/detail/tonkeeper-%E2%80%94-wallet-for-to/omaabbefbmiijedngplfjmnooppbclkk?utm_source=tonkeeper_index) ，点击添加至Chrome
 
 <figure><img src="../.gitbook/assets/添加至Chrome.png" alt=""><figcaption></figcaption></figure>
 

@@ -1,5 +1,6 @@
 ---
 description: 测试链水龙头大全
+icon: faucet-drip
 ---
 
 # 测试币水龙头大全
@@ -30,7 +31,7 @@ description: 测试链水龙头大全
 * **跨链兑换**：[https://bridge.pandatool.org/](https://bridge.pandatool.org/) **（推荐使用）**
 * Alchemy水龙头：[https://www.alchemy.com/faucets/base-sepolia](https://www.alchemy.com/faucets/base-sepolia)（0.1ETH）
 * L2水龙头：[https://www.l2faucet.com/base](https://www.l2faucet.com/base)（0.01ETH）
-* LearnWeb3水龙头：[https://learnweb3.io/faucets/base\_sepolia/](https://learnweb3.io/faucets/base\_sepolia/)（0.01ETH）
+* LearnWeb3水龙头：[https://learnweb3.io/faucets/base\_sepolia/](https://learnweb3.io/faucets/base_sepolia/)（0.01ETH）
 * 币售购买：[https://bisell.site/buy/63](https://bisell.site/buy/63)（1U/个）
 
 ### Holesky ETH测试币

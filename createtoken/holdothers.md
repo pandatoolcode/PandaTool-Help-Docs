@@ -1,5 +1,6 @@
 ---
 description: MINT公平预售,全民持币分红,社区共创共赢!
+icon: square-9
 ---
 
 # Mint+持币暴力分红

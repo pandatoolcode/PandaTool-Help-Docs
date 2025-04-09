@@ -1,5 +1,6 @@
 ---
 description: 方便好用的Sui生态钱包Suiet
+icon: house-flood-water
 ---
 
 # Suiet钱包安装教程

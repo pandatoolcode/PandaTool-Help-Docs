@@ -1,5 +1,6 @@
 ---
 description: 在BlueMove创建AMM流动性资金池
+icon: water
 ---
 
 # BlueMove创建AMM流动性资金池教程

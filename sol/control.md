@@ -1,5 +1,6 @@
 ---
 description: Solana链代币权限管理
+icon: lamp
 ---
 
 # Solana权限管理(增发、冻结、弃权）

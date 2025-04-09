@@ -1,5 +1,6 @@
 ---
 description: 在PandaTool平台开启Solana预售
+icon: landmark-magnifying-glass
 ---
 
 # Solana创建预售、私募教程

@@ -1,5 +1,6 @@
 ---
 description: 管理Sui链代币权限，含增发、更新等
+icon: pickaxe
 ---
 
 # Sui代币增发与更新资料教程

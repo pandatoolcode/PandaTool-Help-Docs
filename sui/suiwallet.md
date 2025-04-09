@@ -1,5 +1,6 @@
 ---
 description: 一篇文章教你学会安装Sui Wallet
+icon: wallet
 ---
 
 # Sui Wallet 钱包安装教程
@@ -121,19 +122,7 @@ Auto-lock呢，是钱包自动上锁的时间。意思就是说，多久之后�
 
 我们点击Add，然后按照上面创建私钥钱包的流程，重新走一遍，就能创建一个带私钥的钱包了
 
-<div>
-
-<figure><img src="../.gitbook/assets/18.png" alt=""><figcaption><p>点击Add</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/19.png" alt=""><figcaption><p>选择创建</p></figcaption></figure>
-
- 
-
-<figure><img src="../.gitbook/assets/20.png" alt=""><figcaption><p>输入钱包密码</p></figcaption></figure>
-
-</div>
+<div><figure><img src="../.gitbook/assets/18.png" alt=""><figcaption><p>点击Add</p></figcaption></figure> <figure><img src="../.gitbook/assets/19.png" alt=""><figcaption><p>选择创建</p></figcaption></figure> <figure><img src="../.gitbook/assets/20.png" alt=""><figcaption><p>输入钱包密码</p></figcaption></figure></div>
 
 这个流程前面已经详细介绍了，就不给大家展示了，创建出来的新钱包之后，大概就是下面这个样子
 

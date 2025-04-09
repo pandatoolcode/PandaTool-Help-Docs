@@ -1,5 +1,6 @@
 ---
 description: 波场生态最大的去中心化钱包TronLink
+icon: wallet
 ---
 
 # 波宝钱包TronLink安装教程

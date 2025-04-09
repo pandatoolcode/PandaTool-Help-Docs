@@ -1,3 +1,7 @@
+---
+icon: hands-holding-heart
+---
+
 # LP流动性修复
 
 LP流动性修复视频操作教程：

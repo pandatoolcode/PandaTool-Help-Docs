@@ -1,5 +1,6 @@
 ---
 description: 可根据需求更新代币链接
+icon: binary-circle-check
 ---
 
 # Solana更新代币资料

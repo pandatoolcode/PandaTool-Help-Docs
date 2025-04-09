@@ -1,8 +1,9 @@
 ---
 description: 专注于小额加密资产跨链兑换
+icon: bridge-suspension
 ---
 
-# 🔥 PandaBridge跨链桥介绍
+# PandaBridge跨链桥介绍
 
 ## 什么是PandaBridge？
 

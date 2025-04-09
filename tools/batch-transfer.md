@@ -1,5 +1,6 @@
 ---
 description: BSC和BASE最好用的批量转账工具
+icon: arrow-right-from-bracket
 ---
 
 # 批量转账教程

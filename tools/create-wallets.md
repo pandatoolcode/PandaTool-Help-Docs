@@ -1,5 +1,6 @@
 ---
 description: 支持批量生成ETH钱包和波场钱包地址
+icon: wallet
 ---
 
 # 批量生成BSC钱包

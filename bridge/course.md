@@ -1,5 +1,6 @@
 ---
 description: 一文学会使用PandaBridge跨链桥
+icon: swords
 ---
 
 # PandaBridge跨链闪兑详细教程

@@ -1,5 +1,6 @@
 ---
 description: 在Turbos上创建CLMM资金池
+icon: turkish-lira-sign
 ---
 
 # Turbos创建CLMM流动性资金池教程

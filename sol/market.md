@@ -1,5 +1,6 @@
 ---
 description: 以更少的费用创建市场ID
+icon: book-open
 ---
 
 # OpenBook市场ID低成本创建教程

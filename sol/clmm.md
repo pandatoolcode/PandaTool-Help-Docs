@@ -1,5 +1,6 @@
 ---
 description: 创建CLMM稳定池子，让代币价格稳定
+icon: scale-balanced
 ---
 
 # Solana创建Raydium CLMM稳定池教程

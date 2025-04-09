@@ -1,5 +1,6 @@
 ---
 description: 快速回收钱包内的代币租金
+icon: recycle
 ---
 
 # Solana租金回收教程
