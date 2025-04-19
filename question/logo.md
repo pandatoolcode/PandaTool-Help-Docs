@@ -62,7 +62,13 @@ Bitget钱包（原名：BK钱包）的代币头像，一般来说是通过他们
 * **成功率：**&#x34;0%
 * **欧易提交：**[https://docs.google.com/forms/d/e/1FAIpQLSclmaci1m0y6JB5A-o7xu4akvhXNlzgyBqP5\_9fpf\_6TTNSMQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSclmaci1m0y6JB5A-o7xu4akvhXNlzgyBqP5_9fpf_6TTNSMQ/viewform)
 
-### 5、浏览器申请代币头像
+### 5、imToken钱包申请代币头像
+
+imToken 做为去中心化钱包，只要符合以太坊 ERC20 标准，并在区块链上有一笔成功的转账记录，imToken 就自动搜索合约地址进行显示，不存在上币的问题。
+
+目前 imToken 支持由项目方自主提交或修改 Token 信息，无论是初次提交项目资料，还是修改代币 Symbol、Logo 等信息，都可以通过 Github 自主提交。具体教程可以查看：[https://github.com/consenlabs/token-profile/blob/master/README.zh-CN.md](https://github.com/consenlabs/token-profile/blob/master/README.zh-CN.md)
+
+### 6、浏览器申请代币头像
 
 浏览器的图标，指的是各代币在所属链的浏览器里申请图标。例如你已经在币安链上发行了代币，那么就可以在币安链上申请图标、官网等资料。
 
@@ -75,7 +81,7 @@ Bitget钱包（原名：BK钱包）的代币头像，一般来说是通过他们
 * **联系：**&#x53EF;以自己去浏览器提交资料，或者联系币售申请→[https://bisell.site/buy/9](https://bisell.site/buy/9)
 * **成功率：**&#x33;0%
 
-### 6、CoinMarketCap/CoinGecko申请收录
+### 7、CoinMarketCap/CoinGecko申请收录
 
 CoinMarketCap（简称：CMC）和CoinGecko（简称：CG）是全球加密圈最知名的数据聚合平台，一般来说，如果您的代币可以被这CMC和CG收录，则表明该项目具有巨大的认可度，相当于有背书、有国际机构认可，对于项目的营销宣传将起到巨大的作用。
 
@@ -88,6 +94,6 @@ CoinMarketCap（简称：CMC）和CoinGecko（简称：CG）是全球加密圈�
 * **联系：**&#x53EF;以自己去官网提交资料，或者联系币售申请→[https://bisell.site/buy/11](https://bisell.site/buy/11)
 * **成功率：**&#x33;0%
 
-### 7、PancakeSwap/Uniswap代币图标申请
+### 8、PancakeSwap/Uniswap代币图标申请
 
 当我们在PancakeSwap或者Unsiwap搜索代币合约进行交易时，有些知名代币会有logo，如USDT、USDC等，大部分则没有logo。这个图标，是没有官方申请渠道的。通常来说，如果您的代币logo在CMC/CG/浏览器已经被收录，那么PancakeSwap等去中心化交易所就有可能会抓取你的logo
