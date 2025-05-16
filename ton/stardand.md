@@ -135,7 +135,7 @@ TON链发出来的币，默认是带有权限的，这些权限包括：修改�
 
 之后你会在看到钱包地址里所有的代币，如果你要它显示出来，就打勾。不想让他显示，就去除选项，就可以了
 
-<figure><img src="../.gitbook/assets/显示代币.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/tonkeeper.png" alt=""><figcaption></figcaption></figure>
 
 ## 疑问解答 <a href="#zhu-yi-shi-xiang" id="zhu-yi-shi-xiang"></a>
 
@@ -151,15 +151,11 @@ TON链发出来的币，默认是带有权限的，这些权限包括：修改�
 
 * **答：**&#x9700;要在Github提交代币信息，由官方团队审核后完成验证，提交地址：[https://github.com/tonkeeper/ton-assets](https://github.com/tonkeeper/ton-assets)
 
-**3、有哪些图床工具可以使用吗？**
+**3、为什么我在Tonkeeper钱包里没有看到代币选项？**
 
-* **答：**&#x6211;这边可以给大家推荐几个，但是稳定性不太好说
-* 路过图床：[https://imgse.com/](https://imgse.com/)
-* 聚合图床：[https://www.superbed.cn/](https://www.superbed.cn/)
-* 无铭图床：[https://wmimg.com/](https://wmimg.com/)
-* IMG图床：[https://imgimg.cc/](https://imgimg.cc/)
-* 简单图床：[https://png.cm/](https://png.cm/)
-* 盘古图床：[https://www.panguidc.com/](https://www.panguidc.com/)
+* **答：**&#x8BF7;先确认自己的地址是否正确。TON地址与比特币类似，有个多个，需要切换到正确的活动地址
+
+<figure><img src="../.gitbook/assets/tonkeeper活动地址_副本.jpg" alt=""><figcaption></figcaption></figure>
 
 **4、我可以使用其他钱包发币吗？例如Myton、Openmask？**
 

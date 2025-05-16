@@ -37,7 +37,7 @@ OKX Web3钱包添加代币的流程与TP差不多，直接在钱包页面点击�
 
 如果您使用的是小狐狸插件，可以点击导入后，输入合约地址来添加
 
-<figure><img src="../.gitbook/assets/小狐狸钱包.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/小狐狸添加代币.jpg" alt=""><figcaption></figcaption></figure>
 
 如果您使用的是手机小狐狸App，可以通过**自定义代币**添加，如下图所示
 
