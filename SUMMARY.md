@@ -25,8 +25,8 @@
 ## Sol链发币 <a href="#sol" id="sol"></a>
 
 * [Solana一键发币教程](sol/stardand.md)
-* [PUMP发币与捆绑买入教程](sol/createpump.md)
-* [PUMP一键捆绑卖出教程](sol/sellpump.md)
+* [PumpFun发币与捆绑买入教程](sol/createpump.md)
+* [PumpFun一键捆绑卖出教程](sol/sellpump.md)
 * [Solana创建预售、私募教程](sol/createmint.md)
 * [Solana市值管理机器人教程](sol/swapbot.md)
 * [Solana创建流动资金池教程](sol/createpool.md)
