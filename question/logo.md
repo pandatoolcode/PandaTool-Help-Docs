@@ -54,7 +54,7 @@ Bitget钱包（原名：BK钱包）的代币头像，一般来说是通过他们
 
 欧易Web3钱包的代币头像，主要是通过他们的OKLink浏览器申请的。在浏览器申请到头像之后，Web3钱包就会显示
 
-* **费用：**&#x34;00U
+* **费用：**&#x35;00U
 * **难度：**&#x96BE;
 * **要求：**&#x6B63;规的官网、代币信息，合约没有黑名单/暂停交易等功能
 * **时间：**&#x31;\~2周
@@ -68,7 +68,20 @@ imToken 做为去中心化钱包，只要符合以太坊 ERC20 标准，并在�
 
 目前 imToken 支持由项目方自主提交或修改 Token 信息，无论是初次提交项目资料，还是修改代币 Symbol、Logo 等信息，都可以通过 Github 自主提交。具体教程可以查看：[https://github.com/consenlabs/token-profile/blob/master/README.zh-CN.md](https://github.com/consenlabs/token-profile/blob/master/README.zh-CN.md)
 
-### 6、浏览器申请代币头像
+### 6、Trust钱包
+
+Trust Wallet Token Repository 是一个由社区维护的加密货币代币信息库，包含数千个代币的元数据（如Logo、符号、小数位数等）。这些信息用于 Trust Wallet 应用及第三方项目展示代币详情。添加资产需要通过 GitHub 的 Pull Request（PR）流程提交，并支付一定费用。
+
+<figure><img src="../.gitbook/assets/image.avif" alt=""><figcaption></figcaption></figure>
+
+* **费用：**&#x35;00TWT或者5BNB
+* **难度：**&#x5F88;高
+* **要求：**&#x6B63;规的官网、代币信息，社交媒体链接、官网邮箱、创建者钱包
+* **时间：**&#x37;个工作日
+* **联系：**&#x53EF;以自己去[官网](https://assets.trustwallet.com/)提交资料，或者联系币售申请→[https://bisell.site/buy/9](https://bisell.site/buy/9)
+* **成功率：**&#x33;0%
+
+### 7、浏览器申请代币头像
 
 浏览器的图标，指的是各代币在所属链的浏览器里申请图标。例如你已经在币安链上发行了代币，那么就可以在币安链上申请图标、官网等资料。
 
@@ -81,7 +94,7 @@ imToken 做为去中心化钱包，只要符合以太坊 ERC20 标准，并在�
 * **联系：**&#x53EF;以自己去浏览器提交资料，或者联系币售申请→[https://bisell.site/buy/9](https://bisell.site/buy/9)
 * **成功率：**&#x33;0%
 
-### 7、CoinMarketCap/CoinGecko申请收录
+### 8、CoinMarketCap/CoinGecko申请收录
 
 CoinMarketCap（简称：CMC）和CoinGecko（简称：CG）是全球加密圈最知名的数据聚合平台，一般来说，如果您的代币可以被这CMC和CG收录，则表明该项目具有巨大的认可度，相当于有背书、有国际机构认可，对于项目的营销宣传将起到巨大的作用。
 
@@ -94,6 +107,6 @@ CoinMarketCap（简称：CMC）和CoinGecko（简称：CG）是全球加密圈�
 * **联系：**&#x53EF;以自己去官网提交资料，或者联系币售申请→[https://bisell.site/buy/11](https://bisell.site/buy/11)
 * **成功率：**&#x33;0%
 
-### 8、PancakeSwap/Uniswap代币图标申请
+### 9、PancakeSwap/Uniswap代币图标申请
 
 当我们在PancakeSwap或者Unsiwap搜索代币合约进行交易时，有些知名代币会有logo，如USDT、USDC等，大部分则没有logo。这个图标，是没有官方申请渠道的。通常来说，如果您的代币logo在CMC/CG/浏览器已经被收录，那么PancakeSwap等去中心化交易所就有可能会抓取你的logo
