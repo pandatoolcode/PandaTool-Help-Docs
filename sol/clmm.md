@@ -76,6 +76,12 @@ icon: scale-balanced
 
 所有的信息输入完成后，点击立即创建按钮，钱包确认并支付费用，即可完成CLMM加池操作
 
+{% hint style="warning" %}
+**注意：**&#x6C60;子一旦创建完成，就不支持继续创建了。而且**撤了池子，也无法再二次创建**。所以创建之前，先保证价格没有错误。
+{% endhint %}
+
+
+
 <figure><img src="../.gitbook/assets/6 立即创建.png" alt=""><figcaption></figcaption></figure>
 
 ### 5.Solana Swap交易

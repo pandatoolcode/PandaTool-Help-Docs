@@ -9,7 +9,7 @@ icon: wallet
 
 本篇文章将教大家，如何在钱包里搜索并添加代币
 
-### 1、TP钱包
+### 1、TokenPocket钱包（TP钱包）
 
 首先，我们需要打开对应的钱包地址和对应的链，然后点&#x51FB;**+**&#x6309;钮，输入**合约地址**，就能看到了
 
@@ -44,5 +44,11 @@ OKX Web3钱包添加代币的流程与TP差不多，直接在钱包页面点击�
 <figure><img src="../.gitbook/assets/手机小狐狸.jpg" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/手机小狐狸-导入代表.jpg" alt=""><figcaption></figcaption></figure>
+
+### 5、币安Web3钱包
+
+币安Web3钱包，正常情况下可以通过合约地址搜索到代币。如果搜索不到，可以通过主动添加代币来完成。如下图所示操作：
+
+<figure><img src="../.gitbook/assets/图1_副本.jpg" alt=""><figcaption></figcaption></figure>
 
 如果您还有其他问题，可以加入我们的电报群咨询志愿者：[https://t.me/pandatool](https://t.me/pandatool)
