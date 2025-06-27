@@ -16,6 +16,8 @@ icon: house-flood-water-circle-arrow-right
 * ✅**流动性资金池概念解读：**[https://academy.pandatool.org/kn/1056](https://academy.pandatool.org/kn/1056)
 * ✅**流动性池资金运作逻辑：**[https://academy.pandatool.org/zh\_CN/kn/805](https://academy.pandatool.org/zh_CN/kn/805)
 
+<figure><img src="../.gitbook/assets/BSC加池教程.jpg" alt=""><figcaption></figcaption></figure>
+
 ## **二、创建资金池注意事项**
 
 ### **1、给路由合约加白名单**

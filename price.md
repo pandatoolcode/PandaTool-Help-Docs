@@ -5,7 +5,7 @@ icon: square-dollar
 
 # 服务费用
 
-## 币安链BSC
+## BSC币安链
 
 * [x] 标准代币：0.05BNB
 * [x] 分红本币：0.06BNB
@@ -17,14 +17,16 @@ icon: square-dollar
 * [x] 持币复利+推荐奖励：0.15BNB
 * [x] Mint+底池燃烧：0.16BNB
 * [x] LP挖矿+推荐奖励：0.2BNB
+* [x] 创建资金池：0.03BNB
+* [x] 创建资金池并买入：0.02BNB/每个地址
 
 ## Solana链
 
-* [x] 创建代币：0.1sol（新年限时优惠）
-* [x] PUMP发币：0.05sol
-* [x] PUMP捆绑买入：0.05sol/每个地址
-* [x] PUMP捆绑卖出：0.01sol/每个地址
-* [x] 更新资料：0.07sol（新年限时优惠）
+* [x] 创建代币：0.1sol
+* [x] PumpFun发币：0.05sol
+* [x] PumpFun捆绑买入：0.05sol/每个地址
+* [x] PumpFun捆绑卖出：0.01sol/每个地址
+* [x] 更新资料：0.07sol
 * [x] 创建市场ID：0.55sol\~3sol
 * [x] 查询市场ID：免费
 * [x] 批量转账：0.01sol/每次
@@ -41,7 +43,7 @@ icon: square-dollar
 * [x] 批量归集代币：0.0001sol/每个地址
 * [x] Raydium市值管理：0.003sol/每笔交易
 * [x] 新地址买入：0.00011/每个地址
-* [x] PUMP市值管理：0.002sol/每笔交易
+* [x] PumpFun市值管理：0.002sol/每笔交易
 * [x] Solana预售：0.3sol+0.005/Mint
 
 ## BSC创建预售
@@ -107,7 +109,7 @@ icon: square-dollar
 * [x] LP分红+推荐奖励：30core
 * [x] LP挖矿+推荐奖励：40core
 
-## 波场链TRON
+## TRON波场链
 
 * [x] 代币发行：600TRX
 * [x] 批量转账：每次20TRX
@@ -132,9 +134,10 @@ icon: square-dollar
 ## Sol市值管理
 
 * [x] Raydium市值管理：0.003sol/每笔交易
-* [x] PUMP市值管理：0.002sol/每笔交易
+* [x] PumpFun市值管理：0.002sol/每笔交易
 * [x] Raydium防夹刷量：0.004sol/每笔(含买+卖)
-* [x] PUMP防夹刷量：0.00201/每笔(含买+卖)
+* [x] PumpFun防夹刷量：0.00201sol/每笔(含买+卖)
+* [x] 新地址刷单：0.00011sol/每个地址
 
 ## 波场市值管理
 
