@@ -108,6 +108,8 @@ PancakeSwap、Uniswap都有V2和V3两个协议，其实很好区分
 
 <figure><img src="../.gitbook/assets/9立即加池.png" alt=""><figcaption></figcaption></figure>
 
+<figure><img src="../.gitbook/assets/10加池提示.png" alt=""><figcaption></figcaption></figure>
+
 钱包确认后等待几秒钟，即可完成创建资金池的操作
 
 ## **四、疑问解答**
