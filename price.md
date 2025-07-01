@@ -23,6 +23,8 @@ icon: square-dollar
 ## Solana链
 
 * [x] 创建代币：0.1sol
+* [x] 创建税率代币(Token2022)：0.1sol
+* [x] 提取Token2022手续费：0.05sol/次
 * [x] PumpFun发币：0.05sol
 * [x] PumpFun捆绑买入：0.05sol/每个地址
 * [x] PumpFun捆绑卖出：0.01sol/每个地址

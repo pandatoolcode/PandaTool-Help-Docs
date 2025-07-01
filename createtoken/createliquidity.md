@@ -67,7 +67,7 @@ PancakeSwap、Uniswap都有V2和V3两个协议，其实很好区分
 
 连接钱包后，我们需要选择加池类型和代币
 
-<figure><img src="../.gitbook/assets/3选择代币.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3选择代币 (2).png" alt=""><figcaption></figcaption></figure>
 
 * **加池类型：**&#x9ED8;认用V2，稳定池加V3
 * **底池代币：**&#x4EA4;易对价值代币，如USDT、BNB等

@@ -24,9 +24,11 @@
 * [合约开源教程](createtoken/verify-and-publish.md)
 * [代币合约定制](createtoken/stakebuyback.md)
 
-## Sol链发币 <a href="#sol" id="sol"></a>
+## Solana链发币 <a href="#sol" id="sol"></a>
 
 * [Solana一键发币教程](sol/stardand.md)
+* [Solana创建税率代币(Token2022)教程](sol/create2022.md)
+* [Solana提取手续费教程](sol/taxclaim.md)
 * [PumpFun发币与捆绑买入教程](sol/createpump.md)
 * [PumpFun一键捆绑卖出教程](sol/sellpump.md)
 * [Solana创建预售、私募教程](sol/createmint.md)

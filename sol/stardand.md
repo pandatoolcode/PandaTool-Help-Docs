@@ -8,17 +8,27 @@ icon: axe-battle
 ## 前提条件
 
 * 发币之前，务必使用安装好幻影钱包插件，安装教程➔ [https://help.pandatool.org/sol/phantom](https://help.pandatool.org/sol/phantom)
-* 钱包内最少准备0.12个Sol
-* 请打开VPN/加速器，以防止网络错误
+* 钱包内最少准备0.14个Sol
+* 请打开加速器，以防止网络错误
 * 手机发币也使用Phantom钱包或欧易web3钱包，不要用TP钱包，TP不能传logo
 
 {% embed url="https://www.youtube.com/watch?v=XXDG1K2G2Zg" %}
 
-## Sol发币教程
+## Solana发币教程
+
+步骤1：打开官网并连接钱包
+
+步骤2：填写代币参数（必填和选填部分）
+
+步骤3：确认参数无误
+
+步骤4：点击创建
+
+步骤5：钱包确认并支付费用
 
 ### 1、连接幻影钱包Phantom
 
-首先，我们打开发币链接：[https://solana.pandatool.org/](https://solana.pandatool.org/)，点击右上角“选择钱包”
+首先，我们打开发币链接：[https://solana.pandatool.org/zh/create](https://solana.pandatool.org/zh/create)，点击右上角“选择钱包”
 
 <figure><img src="../.gitbook/assets/选择钱包 (5).png" alt=""><figcaption></figcaption></figure>
 
@@ -71,7 +81,7 @@ icon: axe-battle
 
 <figure><img src="../.gitbook/assets/付款页面.jpg" alt=""><figcaption></figcaption></figure>
 
-等待几秒钟之后，会弹出一个页面提示你代币创建成功。（注意：代币是否创建成功以扣费为准，只要扣费了就肯定成功，只要没成功就肯定没扣费）
+等待几秒钟之后，会弹出一个页面提示你代币创建成功。同时会出现代币合约地址，你可以复制（注意：代币是否创建成功以扣费为准，只要扣费了就肯定成功，只要没成功就肯定没扣费）
 
 <figure><img src="../.gitbook/assets/photo_2024-04-10_20-32-33.jpg" alt=""><figcaption></figcaption></figure>
 
@@ -83,29 +93,28 @@ icon: axe-battle
 
 此时，代币就算是基本创建完成了，大家可以根据需求去做池子，然后就能交易了。
 
-* Raydium加池教程：[https://help.pandatool.org/sol/raydium](https://help.pandatool.org/sol/raydium)
-* Orca加池教程：[https://help.pandatool.org/sol/orca](https://help.pandatool.org/sol/orca)
-* Meteora加池教程：[https://help.pandatool.org/sol/meteora](https://help.pandatool.org/sol/meteora)
+* Raydium创建资金池教程：[https://help.pandatool.org/sol/createpool](https://help.pandatool.org/sol/createpool)
+* 创建稳定池CLMM教程：[https://help.pandatool.org/sol/clmm](https://help.pandatool.org/sol/clmm)
 
 ## 疑问解答
 
-#### 1、Sol发币需要开源吗？
+**1、Solana发币需要开源吗？**
 
 * **答：**&#x4E0D;需要，Sol没有开源的说法，发行完成就可以了
 
-#### 2、Sol发币需要多少钱？
+**2、Solana发币需要多少钱？**
 
-* **答：**&#x53D1;币费用是0.2sol，如果再加上一些gas费，估计0.21sol左右
+* **答：**&#x53D1;币费用是0.1sol，如果再加上一些gas费，估计0.13sol左右
 
-#### 3、为什么发币之后钱包显示未知代币？
+**3、为什么发币之后钱包显示未知代币？**
 
 * **答：**&#x50;hantom钱包有时候抓取信息过慢，或者钱包本身有缓存，需要一段时间才能显示logo和代币名称等信息
 
-#### 4、手机应该怎么发币？
+**4、手机应该怎么发币？**
 
 * **答：**&#x624B;机可以使用欧易web3钱包或者Phantom钱包app进行操作，不支持TP钱包哦
 
-#### 5、为什么浏览器没有显示我的推特和电报？
+**5、为什么浏览器没有显示我的推特和电报？**
 
 * **答：**&#x73;olana浏览器在近期做了更新升级，已经不在外面显示推特和电报了，需要在metadate查询
 
