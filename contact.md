@@ -10,11 +10,9 @@ icon: comment-arrow-up
 * Website: [https://pandatool.org/](https://pandatool.org/)
 * Telegram: [https://t.me/pandatool](https://t.me/pandatool)
 * Twitter: [https://twitter.com/PandaTool](https://twitter.com/PandaTool)
-* Youtuble：[https://www.youtube.com/@Panda\_Tool/videos](https://www.youtube.com/@Panda\_Tool/videos)
-* Bilibili：[https://space.bilibili.com/3493104485140862](https://space.bilibili.com/3493104485140862)
+* Youtuble：[https://www.youtube.com/@Panda\_Tool/videos](https://www.youtube.com/@Panda_Tool/videos)
 * Github合约库：[https://github.com/pandatoolcode](https://github.com/pandatoolcode)
 * 币安链官网收录：[https://dappbay.bnbchain.org/detail/pandatool](https://dappbay.bnbchain.org/detail/pandatool)
-* 欧易Web3钱包集成：[https://www.okx.com/cn/web3/discover/search?name=pandatool](https://www.okx.com/cn/web3/discover/search?name=pandatool)
 * DappRadar收录：[https://dappradar.com/dapp/pandatool](https://dappradar.com/dapp/pandatool)
 
 如果您想与我们达成商业合作，或有其他想法、意见，请联系我们的邮箱：contactpandatool@gmail.com

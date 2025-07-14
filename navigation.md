@@ -1,6 +1,6 @@
 ---
-icon: location-arrow
 description: PandaTool工具大全导航
+icon: location-arrow
 ---
 
 # 工具导航
@@ -43,6 +43,12 @@ description: PandaTool工具大全导航
 
 [手机TP钱包发币](https://help.pandatool.org/createtoken/tp)：支持用手机版本的TP钱包发币，方便快捷易操作
 
+[流动性创建工具](https://www.pandatool.org/#/createliquidity?lang=zh-CN)：在币安链等Pancake、Uniswap创建流动性资金池
+
+[创建流动性并买入](https://www.pandatool.org/#/createliquiditybuy?lang=zh-CN)：加池的一瞬间通过多个地址捆绑买入代币
+
+[流动性管理工具](https://www.pandatool.org/#/LPmanage?lang=zh-CN)：添加流动性/池子、移除流动性/池子的管理工具
+
 ### 创建预售
 
 [标准预售工具](https://www.pandatool.org/#/presale/simpleMint)：转账即预售、链上可查、100%去中心化
@@ -58,6 +64,8 @@ description: PandaTool工具大全导航
 ### Solana一键发币
 
 [Solana发币官网](https://solana.pandatool.org/create)：全网最强的Solana一键发币平台，快速稳定有保障
+
+[Token2022发币工具](https://solana.pandatool.org/create2022)：创建Solana税率代币，Token2022一键发币
 
 [Solana兑换工具](https://solana.pandatool.org/)：Solana聚合Swap，支持Raydium、Orca等多个流动性
 

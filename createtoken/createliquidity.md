@@ -5,6 +5,10 @@ icon: house-flood-water-circle-arrow-right
 
 # 创建流动性资金池教程
 
+## **视频教程**
+
+{% embed url="https://www.youtube.com/watch?v=posbPoCQyYk" %}
+
 ## **一、资金池概念解读**
 
 流动性资金池，俗语称之为：底池、池子，英文简称LP，是区块链上用来进行兑换交易的代币池。通常来说，就是按照一定的比例将两种代币放到一起组成的池子。
@@ -24,7 +28,7 @@ icon: house-flood-water-circle-arrow-right
 
 如果代币有特殊的功能，如果手动开盘、持仓限制等，请先将PandaTool的路由合约加到白名单里面，才开始创建。
 
-* **PandaRouter路由合约地址：**`0x615Cd625a73B3475eA28F3603337163fDBd7282b`
+* **PandaRouter路由合约地址：**`0xa52B2899C3B33C8e16eFd8399d23E9b36d41F7Fd`
 
 ### **2、确保余额足够**
 

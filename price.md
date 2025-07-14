@@ -19,6 +19,7 @@ icon: square-dollar
 * [x] LP挖矿+推荐奖励：0.2BNB
 * [x] 创建资金池：0.03BNB
 * [x] 创建资金池并买入：0.02BNB/每个地址
+* [x] 移除/添加流动性池：0.01BNB/次
 
 ## Solana链
 

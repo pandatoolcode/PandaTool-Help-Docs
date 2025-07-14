@@ -19,6 +19,7 @@
 * [LP挖矿+推荐奖励](createtoken/lpmine.md)
 * [持币分红教程](createtoken/token-reared.md)
 * [创建流动性资金池教程](createtoken/createliquidity.md)
+* [增加/移除流动性资金池教程](createtoken/zeng-jia-yi-chu-liu-dong-xing-zi-jin-chi-jiao-cheng.md)
 * [加池开盘并捆绑买入教程](createtoken/createbuy.md)
 * [手机TP钱包发币教程](createtoken/tp.md)
 * [合约开源教程](createtoken/verify-and-publish.md)

@@ -5,6 +5,10 @@ icon: house-flood-water
 
 # 加池开盘并捆绑买入教程
 
+## **视频教程**
+
+{% embed url="https://www.youtube.com/watch?v=bA_8E-gNNxk" %}
+
 ## **一、加池捆绑买入概念解读**
 
 ### **1、加池捆绑买入是什么意思？**

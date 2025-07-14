@@ -77,7 +77,7 @@ icon: scale-balanced
 所有的信息输入完成后，点击立即创建按钮，钱包确认并支付费用，即可完成CLMM加池操作
 
 {% hint style="warning" %}
-**注意：**&#x6C60;子一旦创建完成，就不支持继续创建了。而且**撤了池子，也无法再二次创建**。所以创建之前，先保证价格没有错误。
+**注意：**&#x6C60;子一旦创建完成，就不支持继续添加了。而且**撤了池子，也无法再二次创建**。所以创建之前，先保证价格没有错误。
 {% endhint %}
 
 
@@ -88,9 +88,11 @@ icon: scale-balanced
 
 当我们创建好CLMM流动性资金池后，这个池子里只有一种代币，即基础代币。这种情况下，代币是无法卖出的，只能买入。如果你希望代币可以卖出，需要往池子里加入报价代币USDC/USDT才行。
 
-具体怎么加进去呢？我们通过Raydium兑换一笔就行
+具体怎么加进去呢？我们通过Solana Swp兑换一笔就可以了。
 
-打开Raydium的网页：[https://raydium.io/liquidity](https://raydium.io/liquidity) ，在上方输入USDT/USDC的数量，下面会自动按照你设置的交易价格匹配出代币数量
+进入Solana Swap官网：[https://solana.pandatool.org/](https://solana.pandatool.org/)
+
+<figure><img src="../.gitbook/assets/1111.png" alt=""><figcaption></figcaption></figure>
 
 此时点击兑换，并通过钱包确认完成交易后，即可将USDT/USDC加入到池子里。
 
@@ -110,12 +112,8 @@ icon: scale-balanced
 
 * **答：**&#x5982;果您的钱包内没有USDT或者USDC，却要创建该类型的池子，就可能转圈。稳定池可以不用加稳定币，但是钱包里必须要有才可以。1个就行，不用太多。
 
-**3、为什么别人的池子里有两种代币呢？**
+**4、为什么别人的池子里有两种代币呢？**
 
 * **答：**&#x6B63;如教程里所说，您需要通过Solana Swap完成交易后，就可以将另一种报价代币放入池子里
-
-**4、OKX Web3钱包显示的Raydium V3是不是CLMM池子？**
-
-* **答：**&#x662F;的，CLMM就是欧易显示的Raydium V3
 
 如果对于CLMM稳定池，您还有什么不明白的，可以进入我们的电报群，志愿者会给你详细的解答：[https://t.me/pandatool](https://t.me/pandatool)
