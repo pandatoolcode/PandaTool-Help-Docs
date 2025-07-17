@@ -28,7 +28,7 @@ icon: house-flood-water-circle-arrow-right
 
 如果代币有特殊的功能，如果手动开盘、持仓限制等，请先将PandaTool的路由合约加到白名单里面，才开始创建。
 
-* **PandaRouter路由合约地址：**`0xa52B2899C3B33C8e16eFd8399d23E9b36d41F7Fd`
+* **PandaRouter路由合约地址：**`0x6ADCc1B97d84a2F566b443a6215ea0b01D40EBA4`
 
 ### **2、确保余额足够**
 
@@ -121,6 +121,7 @@ PancakeSwap、Uniswap都有V2和V3两个协议，其实很好区分
 **1、为什么加池会失败？**
 
 * **答：**&#x4E24;个原因。首先确认一下自己钱包内的BNB/ETH数量是否足够，BSC链加池至少需要0.03个BNB。如果余额充足，那么再看下有没有**将路由地址加入白名单**。
+* 路由地址：`0x6ADCc1B97d84a2F566b443a6215ea0b01D40EBA4`
 
 **2、创建BNB交易对的池子，用户可以用USDT买币吗？**
 

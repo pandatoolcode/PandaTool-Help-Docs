@@ -21,6 +21,7 @@
 * [创建流动性资金池教程](createtoken/createliquidity.md)
 * [增加/移除流动性资金池教程](createtoken/lpmanage.md)
 * [加池开盘并捆绑买入教程](createtoken/createbuy.md)
+* [创建锁池/锁仓教程](createtoken/createlock.md)
 * [手机TP钱包发币教程](createtoken/tp.md)
 * [合约开源教程](createtoken/verify-and-publish.md)
 * [代币合约定制](createtoken/stakebuyback.md)
