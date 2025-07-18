@@ -76,9 +76,9 @@ icon: square-dollar
 
 ## Sui链
 
-* [x] 创建代币：19.5 SUI
+* [x] 创建代币：9.5 SUI
 * [x] 铸造/增发代币：1 SUI
-* [x] 更新代币资料：8 SUI
+* [x] 更新代币资料：5 SUI
 
 ## ARB链
 

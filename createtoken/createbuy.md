@@ -61,7 +61,7 @@ icon: house-flood-water
 
 此时我们进入到PandaTool加池并捆绑买入工具的网页：[https://www.pandatool.org/#/createliquiditybuy?lang=zh-CN](https://www.pandatool.org/#/createliquiditybuy?lang=zh-CN) 然后在右上角点击连接钱包
 
-<figure><img src="../.gitbook/assets/1连接钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1连接钱包 (2).png" alt=""><figcaption></figcaption></figure>
 
 此时会跳出Metamask或者OKX Web3钱包，点击确认，即可完成连接。钱包连接成功后，会在右上角看到你的钱包地址。
 
