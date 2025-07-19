@@ -18,7 +18,7 @@ icon: bridge-water
 
 如果您想了解该如何添加或者移除流动性池，可以阅读下面的教程：
 
-### **1、打开andaTool并连接钱包**
+### **1、打开PandaTool并连接钱包**
 
 首先，我们进入PandaTool的流动性控制台 [https://www.pandatool.org/#/LPmanage?lang=zh-CN](https://www.pandatool.org/#/LPmanage?lang=zh-CN)   ，然后右上角连接钱包，并选择对应的区块链
 
