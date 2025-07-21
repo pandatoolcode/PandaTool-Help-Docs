@@ -44,11 +44,11 @@ icon: square-dollar
 * [x] Solana移除流动性：0.03\~0.06sol/次
 * [x] Solana燃烧流动性：0.03\~0.06sol/次
 * [x] 批量生成钱包：免费
-* [x] 批量归集代币：0.0001sol/每个地址
-* [x] Raydium市值管理：0.003sol/每笔交易
-* [x] 新地址买入：0.00011/每个地址
-* [x] PumpFun市值管理：0.002sol/每笔交易
 * [x] Solana预售：0.3sol+0.005/Mint
+* [x] 批量归集代币：0.0001sol/每个地址
+* [x] Raydium市值管理：~~0.003sol/每笔交~~易 限时免费
+* [x] 新地址买入：~~0.00011/每个地址~~ 限时免费
+* [x] PumpFun市值管理：~~0.002sol/每笔交易~~ 限时免费
 
 ## BSC创建预售
 
@@ -128,20 +128,32 @@ icon: square-dollar
 * [x] Solana链：每次收取0.01sol
 * [x] Tron链：每次收取20TRX
 
-## 市值管理（支持BSC、ETH、Arb、Base）
+## 市值管理V1（按照会员收费）
 
 * [x] 一天：0.1BNB
 * [x] 一周：0.4BNB
 * [x] 一月：1BNB
 * [x] 永久：3BNB
 
+## 市值管理V2（支持BSC、ETH、Arb、Base）
+
+按照交交易笔数收费
+
+* [x] BSC 主网: 0.0005 BNB/笔
+* [x] Ethereum: 0.0001 ETH/笔
+* [x] Base: 0.0001 ETH/笔
+* [x] Arbitrum: 0.0001 ETH/笔
+* [x] Avalanche: 0.01 AVAX/笔
+* [x] Polygon: 0.1 POL/笔
+* [x] Optimism: 0.0001 ETH/笔
+
 ## Sol市值管理
 
-* [x] Raydium市值管理：0.003sol/每笔交易
-* [x] PumpFun市值管理：0.002sol/每笔交易
-* [x] Raydium防夹刷量：0.004sol/每笔(含买+卖)
-* [x] PumpFun防夹刷量：0.00201sol/每笔(含买+卖)
-* [x] 新地址刷单：0.00011sol/每个地址
+* [x] Raydium市值管理：~~0.003sol/每笔交易~~ 限时免费
+* [x] PumpFun市值管理：~~0.002sol/每笔交易~~ 限时免费
+* [x] Raydium防夹刷量：~~0.004sol/每笔(含买+卖)~~ 限时免费
+* [x] PumpFun防夹刷量：~~0.00201sol/每笔(含买+卖)~~ 限时免费
+* [x] 新地址刷单：0.00011sol/每个地址 限时免费
 
 ## 波场市值管理
 
