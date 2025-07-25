@@ -33,6 +33,7 @@
 * [Solana一键发币教程](sol/stardand.md)
 * [Solana创建税率代币(Token2022)教程](sol/create2022.md)
 * [Solana提取手续费教程](sol/taxclaim.md)
+* [BonkFun一键发币教程](sol/createbonk.md)
 * [PumpFun发币与捆绑买入教程](sol/createpump.md)
 * [PumpFun一键捆绑卖出教程](sol/sellpump.md)
 * [Solana创建预售、私募教程](sol/createmint.md)

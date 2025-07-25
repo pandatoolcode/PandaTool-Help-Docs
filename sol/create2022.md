@@ -21,6 +21,8 @@ icon: percent
 
 当然不是，Token2022是一种多扩展性功能代币标准，我们目前开发了暂停交易、超级权限、不可转账等多个功能。后续根据市场的需求，还是对其拓展功能进行持续开发
 
+{% embed url="https://youtu.be/kuRQ-0YBcQk" %}
+
 ## **创建税率代币(Token2022)教程**
 
 步骤1：打开PandaTool并链接钱包

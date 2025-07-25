@@ -10,7 +10,7 @@ icon: arrow-right-to-bracket
 接下来，将给大家演示，该如何使用PandaTool平台的批量归集工具
 
 {% hint style="info" %}
-批量归集工具与市值管理工具共用一个会员体系，需购买会员后方可使用
+批量归集工具免费使用
 {% endhint %}
 
 ### 一、连接钱包
@@ -21,11 +21,9 @@ icon: arrow-right-to-bracket
 
 将链切换到币安链，并连接钱包后，就能够看到整个批量归集的页面了。
 
-<figure><img src="../.gitbook/assets/2-连接成功.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/批量归集.png" alt=""><figcaption></figcaption></figure>
 
-需要注意的是，购买会员方可使用该工具。（如果之前购买了市值管理机器人的会员，就不需要重复购买了）
-
-<figure><img src="../.gitbook/assets/3-会员页面.png" alt=""><figcaption></figcaption></figure>
+需要注意的是，批量归集以前是需要购买会员才能使用，现在不需要了
 
 ### 二、配置归集参数
 
@@ -85,7 +83,7 @@ icon: arrow-right-to-bracket
 
 **2、归集需要收费吗？**
 
-* PandaTool的批量归集产品是内置在会员体系里面，**不收费**的，除了**gas**以外，您不会额外支出其他费用
+* PandaTool的批量归集产品是**不收费**的，除了**gas**以外，您不会额外支出其他费用
 
 **3、为什么归集后没有返回结果？**
 

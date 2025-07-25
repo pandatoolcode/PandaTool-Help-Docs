@@ -21,7 +21,9 @@ icon: shuffle
 * **Ethereum**：Uniswap V2、Uniswap V3
 * **Avalanche：**&#x55;niswap V2、Uniswap V3
 * **Polygon：**&#x55;niswap V2、Uniswap V3
-* **Arbitrum、Optimsim：**&#x55;niswap V2、Uniswap V3
+* **Arbitrum、Optimsim、Base：**&#x55;niswap V2、Uniswap V3
+
+{% embed url="https://www.youtube.com/watch?v=jJ7xz8HlmIY" %}
 
 ## **二、市值工具使用教程**
 

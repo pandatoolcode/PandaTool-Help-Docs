@@ -5,9 +5,9 @@ icon: capsules
 
 # PumpFun发币与捆绑买入教程
 
-pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链最成功、最流行、最赚钱的应用。为了方便大家在PumpFun上开盘并提前买入，我们上线了PUMP一键发币工具与捆绑买入工具，可以让大家在PUMP发币之后第一时间买入，从而避免被机器人套利。
+pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链最成功、最流行、最赚钱的应用。为了方便大家在PumpFun上开盘并提前买入，我们上线了PumpFun一键发币工具与捆绑买入工具，可以让大家在PumpFun发币之后第一时间买入，从而避免被机器人套利。
 
-* **一键发币：**&#x65B9;便大家在PUMP的发币操作
+* **一键发币：**&#x65B9;便大家在PumpFun的发币操作
 * **开盘买入：**&#x53D1;币的同时即可买入，避免机器人套利
 * **多地址：**&#x6700;多支持16个地址(连同发币地址一共17个)同时买入，可以分散持仓
 
@@ -20,7 +20,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 * 请打开VPN或加速器，以防止网络错误
 * 手机发币也使用Phantom钱包或欧易web3钱包，不要用TP钱包，TP不能传logo
 
-## PUMP发币教程
+## PumpFun发币教程
 
 ### 1、连接幻影钱包Phantom（老手忽略） <a href="#id-1-lian-jie-huan-ying-qian-bao-phantom" id="id-1-lian-jie-huan-ying-qian-bao-phantom"></a>
 
@@ -55,7 +55,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 {% hint style="info" %}
 <mark style="color:blue;">**数量：**</mark><mark style="color:blue;">默认为1000000000，无法修改</mark>
 
-<mark style="color:blue;">**精度：**</mark><mark style="color:blue;">默认为9，无法修改</mark>
+<mark style="color:blue;">**精度：**</mark><mark style="color:blue;">默认为6，无法修改</mark>
 {% endhint %}
 
 ### 3、选填代币参数 <a href="#id-1-lian-jie-huan-ying-qian-bao-phantom" id="id-1-lian-jie-huan-ying-qian-bao-phantom"></a>
@@ -121,7 +121,7 @@ pump.fun是Solana链上的一个MEME币发行平台，是近半年来Solana链�
 
 钱包确认后，代币就会在PumpFun上架交易了，整个捆绑开盘的流程就算是完成了。
 
-## PUMP开盘疑问解答
+## PumpFun开盘疑问解答
 
 **1、最多捆绑16个地址，包不包括发币地址？**
 
