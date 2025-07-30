@@ -51,6 +51,7 @@
 * [Solana更新代币资料](sol/upload.md)
 * [Solana批量空投教程](sol/batch-transfer.md)
 * [Solana批量归集教程](sol/gather.md)
+* [Solana靓号钱包地址生成教程](sol/vanityaddress.md)
 * [Solana销毁代币、烧池教程](sol/burn.md)
 * [Solana批量生成钱包地址](sol/createwallet.md)
 * [幻影钱包Phantom安装教程](sol/phantom.md)
