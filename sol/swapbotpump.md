@@ -9,11 +9,11 @@ PUMP市值管理机器人，简单来说就是一个支持pump.fun内盘自动�
 
 ### 注意事项
 
-1、 该机器人主要是交易PUMP内盘币，如果已经发射上了Raydium，请使用另一款机器人，并选择Raydium AMM
+1、 该机器人主要是交易PUMP内盘币，如果已经发射了，请使用另一款机器人，并选择Raydium AMM
 
 2、 机器人交易成功率为95%，如果失败次数较多，请适当增加Jito小费
 
-3、使用机器人有任何问题，可以联系：[https://t.me/xiaoba8](https://t.me/xiaoba8)
+3、使用机器人有任何建议或者想法，可以在我们的官方电报群咨询：[https://t.me/pandatool](https://t.me/pandatool)
 
 ### pump.fun市值管理使用教程
 
