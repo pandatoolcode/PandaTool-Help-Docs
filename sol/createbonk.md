@@ -3,7 +3,7 @@ description: 在LetsBonk平台创建代币
 icon: dog
 ---
 
-# BonkFun一键发币教程
+# BonkFun一键发币与捆绑买入教程
 
 BonkFun也叫LetsBonk，是继PumpFun之后，快速崛起的新型发射平台，其代币创建数量、交易数量已经远超PumpFun。凭借与 BONK 原生社群的紧密结合，BonkFun日常链上活动中高达 96.5% 属于有机交易，没有刻意操纵数据的痕迹，被认为更贴近社区真实需求
 
@@ -83,6 +83,51 @@ PandaTool开发的**BonkFun一键发币工具**，将帮助你在BonkFun实现�
 
 <figure><img src="../.gitbook/assets/5钱包确认 (1).png" alt=""><figcaption></figcaption></figure>
 
+如果你只是为了创建代币，那么到这一步就结束了。如果你想要捆绑买入，那我们可以继续下一步设置
+
+## BonkFun捆绑买入教程 <a href="#pumpfun-kun-bang-mai-ru-jiao-cheng" id="pumpfun-kun-bang-mai-ru-jiao-cheng"></a>
+
+### 什么是捆绑买入？ <a href="#shen-me-shi-kun-bang-mai-ru" id="shen-me-shi-kun-bang-mai-ru"></a>
+
+与PumpFun类似，BonkFun上也有很多狙击机器人，在你刚开盘时就以低价格买入大量代币，并在代币价格上涨时抛售获利出局。为了解决这个问题，我们上线了开盘并买入的捆绑功能。
+
+简单来说，当你在LetsBonk发币的时候，可以同步捆绑其他的地址，然后在发币的一瞬间，允许这些捆绑的地址立即买入代币。由于引入了Jito功能，可以确保这些地址的买入时间要远远早于机器人，就避免了被机器人套利的可能性。
+
+目前平台最多支持**7个地址**捆绑买入，每个地址捆绑收费0.05sol，**捆绑费由主钱包收取**
+
+{% hint style="warning" %}
+注意：主钱包的费用一定要足够。例如你捆绑**5个地址**，主钱包扣除买入的，至少得剩**0.3个SOL**用于支付捆绑费用
+{% endhint %}
+
+### 怎么捆绑买入？ <a href="#zen-me-kun-bang-mai-ru" id="zen-me-kun-bang-mai-ru"></a>
+
+我们将捆绑买入的按钮点开之后，会看到这样一个页面
+
+<figure><img src="../.gitbook/assets/6捆绑买入.png" alt=""><figcaption></figcaption></figure>
+
+* **Jito捆绑小费：**&#x4A;ito是Solana区块链上面的一个协议，核心功能之一就是交易捆绑，就是把多笔交易打包成一笔完成。这个小费，就是给Jito让他帮你完成捆绑交易的贿赂费。
+* **捆绑买入设置：**&#x901A;过私钥将打算捆绑买入的钱包地址导入，并设定好购买金额
+
+我们点击导入钱包，然后输入钱包私钥（私钥一行一个）
+
+<figure><img src="../.gitbook/assets/7导入私钥 (1).png" alt=""><figcaption></figcaption></figure>
+
+之后我们就能看到自己的钱包内sol，然后填入要购买的sol数量。
+
+{% hint style="success" %}
+**注意：**&#x6346;绑买入数量最小为**0.01sol**，如果低于这个数字，可能会导致发币失败
+
+**注意：**&#x5728;输入买入金额后，必须确保连接的钱包内有**足够的SOL**用于支付捆绑费用
+{% endhint %}
+
+<figure><img src="../.gitbook/assets/8最小买入.png" alt=""><figcaption></figcaption></figure>
+
+
+
+在所有信息确认无误后，点击立即创建按钮，等待10秒左右，钱包确认，即可发币成功
+
+<figure><img src="../.gitbook/assets/代币创建成功6.png" alt=""><figcaption></figcaption></figure>
+
 ## BonkFun发币疑问解答 <a href="#pump-kai-pan-yi-wen-jie-da" id="pump-kai-pan-yi-wen-jie-da"></a>
 
 **1、为什么点击`立即创建`后没有反应？**
@@ -116,5 +161,9 @@ PandaTool开发的**BonkFun一键发币工具**，将帮助你在BonkFun实现�
 **8、BonkFun发币满足什么条件才能上Raydium？**
 
 * **答：**&#x5F53;池子内打满85个SOL时，代币会自动发射到Raydiun
+
+**9、在PandaTool平台进行Bonk发币与捆绑交易，是怎么`收费`的？**
+
+* **答：**&#x42;onkFun发币费用是0.05sol，捆绑费用0.05sol，统一由主钱包收取
 
 如果您还有其他任何问题，都可以进入Telegram电报群找志愿者解答： [https://t.me/pandatool](https://t.me/pandatool)
