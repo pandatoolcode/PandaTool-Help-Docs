@@ -55,6 +55,7 @@
 * [Solana靓号钱包地址生成教程](sol/vanityaddress.md)
 * [Solana销毁代币、烧池教程](sol/burn.md)
 * [Solana批量生成钱包地址](sol/createwallet.md)
+* [Solana代币快照教程](sol/snapshottoken.md)
 * [幻影钱包Phantom安装教程](sol/phantom.md)
 * [Raydium CPMM加池子教程](sol/raydium/README.md)
   * [Raydium V2加池子教程](sol/raydium/raydium-v2.md)
