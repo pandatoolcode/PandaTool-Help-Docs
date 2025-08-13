@@ -30,7 +30,8 @@ icon: square-dollar
 * [x] PumpFun发币：0.05sol
 * [x] PumpFun捆绑买入：0.05sol/每个地址
 * [x] PumpFun捆绑卖出：0.01sol/每个地址
-* [x] BonkFun发币：0.05sol
+* [x] BonkFun发币：0.051sol
+* [x] BonkFun捆绑买入：0.05sol/每个地址
 * [x] 更新资料：0.07sol
 * [x] 创建市场ID：0.55sol\~3sol
 * [x] 查询市场ID：免费
@@ -153,8 +154,10 @@ icon: square-dollar
 
 * [x] Raydium市值管理：~~0.003sol/每笔交易~~ 限时免费
 * [x] PumpFun市值管理：~~0.002sol/每笔交易~~ 限时免费
+* [x] BonkFun市值管理：限时免费
 * [x] Raydium防夹刷量：~~0.004sol/每笔(含买+卖)~~ 限时免费
 * [x] PumpFun防夹刷量：~~0.00201sol/每笔(含买+卖)~~ 限时免费
+* [x] BonkFun防夹刷量：限时免费
 * [x] 新地址刷单：0.00011sol/每个地址 限时免费
 
 ## 波场市值管理
