@@ -61,7 +61,7 @@ Token源码
 
 <figure><img src="../.gitbook/assets/合约验证参数.png" alt=""><figcaption></figcaption></figure>
 
-参数填写完成之后，就是上传合约文件。我们将刚刚下载的合约文件传到来，如果没有下载，可以点击这里下载
+参数填写完成之后，就是上传合约文件。我们将刚刚下载的合约文件传上来，如果没有下载，可以点击这里下载
 
 {% file src="../.gitbook/assets/Token合约源码.sol" %}
 

@@ -29,6 +29,8 @@ PandaTool开发的**BonkFun一键发币工具**，将帮助你在BonkFun实现�
 
 4、立即创建
 
+{% embed url="https://www.youtube.com/watch?v=4FgTM9OjuZo" %}
+
 ## BonkFun发币教程 <a href="#qian-ti-tiao-jian" id="qian-ti-tiao-jian"></a>
 
 ### **1、打开PandaTool并连接钱包**
