@@ -65,6 +65,14 @@ icon: square-dollar
 
 * [x] 标准代币：0.03ETH
 
+## OK链X layer
+
+* [x] 标准代币：0.3OKB
+
+## Sei链
+
+* [x] 标准代币：50SEI
+
 ## Base链
 
 * [x] 标准代币：0.01ETH
@@ -90,9 +98,9 @@ icon: square-dollar
 * [x] 标准代币：0.03ETH
 * [x] 分红本币：0.04ETH
 
-## Blast链
+## ~~Blast链~~ （不再支持）
 
-* [x] 标准代币：0.03ETH
+* [x] ~~标准代币：0.03ETH~~
 
 ## Polygon马蹄链
 
@@ -102,12 +110,12 @@ icon: square-dollar
 
 * [x] 标准代币：9.5TON
 
-## OKT链
+## ~~OKT链~~（不再支持）
 
-* [x] 标准代币：0.5 OKT
-* [x] LP分红：1 OKT
-* [x] LP分红+推荐奖励：1 OKT
-* [x] LP挖矿+推荐奖励：2 OKT
+* [x] ~~标准代币：0.5 OKT~~
+* [x] ~~LP分红：1 OKT~~
+* [x] ~~LP分红+推荐奖励：1 OKT~~
+* [x] ~~LP挖矿+推荐奖励：2 OKT~~
 
 ## Core链
 
