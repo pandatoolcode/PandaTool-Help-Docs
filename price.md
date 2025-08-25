@@ -68,6 +68,9 @@ icon: square-dollar
 ## OK链X layer
 
 * [x] 标准代币：0.3OKB
+* [x] 创建预售：0.3OKB
+* [x] 创建资金池：
+* [x] 添加/移除资金池：
 
 ## Sei链
 
@@ -92,6 +95,9 @@ icon: square-dollar
 * [x] 创建代币：9.5 SUI
 * [x] 铸造/增发代币：1 SUI
 * [x] 更新代币资料：5 SUI
+* [x] 冻结/解冻代币：3SUI
+* [x] 全局冻结/解冻：5SUI
+* [x] 丢弃权限：免费
 
 ## ARB链
 
