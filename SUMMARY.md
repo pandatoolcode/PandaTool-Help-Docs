@@ -26,7 +26,6 @@
 * [手机TP钱包发币教程](createtoken/tp.md)
 * [代币批量交易/市值管理教程](createtoken/swapbot.md)
 * [合约开源教程](createtoken/verify-and-publish.md)
-* [代币快照教程](createtoken/dai-bi-kuai-zhao-jiao-cheng.md)
 * [代币合约定制](createtoken/stakebuyback.md)
 
 ## Solana链发币 <a href="#sol" id="sol"></a>
@@ -108,6 +107,7 @@
 
 * [批量转账教程](tools/batch-transfer.md)
 * [批量归集工具](tools/gather.md)
+* [代币快照教程](tools/snapshottoken.md)
 * [LP流动性修复](tools/lpfixtool.md)
 * [批量生成BSC钱包](tools/create-wallets.md)
 * [市值管理机器人](tools/operate.md)
