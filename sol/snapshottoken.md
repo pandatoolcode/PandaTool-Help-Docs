@@ -56,7 +56,7 @@ icon: list
 
 <figure><img src="../.gitbook/assets/4立即导出.png" alt=""><figcaption></figcaption></figure>
 
-之后，浏览器会提示您下载一个文档，这个就是您导出的快速数据
+之后，浏览器会提示您下载一个文档，这个就是您导出的快照数据
 
 <figure><img src="../.gitbook/assets/5导出数据.png" alt=""><figcaption></figcaption></figure>
 
@@ -76,9 +76,6 @@ icon: list
 
 **3、代币快照支持BSC链、ETH链吗？**
 
-* **答：**&#x6682;时还不支持，PandaTool会尽快开发
+* **答：**&#x652F;持的，可以在这里操作 [https://pandatool.org/#/contractCheck/snapshotToken?lang=zh-CN](https://pandatool.org/#/contractCheck/snapshotToken?lang=zh-CN)
 
 当然，如果您对代币快照这个工具还有哪些问题，可以直接在Telegram群里咨询志愿者：[https://t.me/pandatool](https://t.me/pandatool)
-
-
-
