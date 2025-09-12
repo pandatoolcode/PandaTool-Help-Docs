@@ -121,6 +121,7 @@
 * [公链配置参数](practical-information/parameter.md)
 * [测试币水龙头大全](practical-information/faucet.md)
 * [交易所路由Router合约](practical-information/jiao-yi-suo-lu-you-router.md)
+* [代币与LP链上解锁教程](practical-information/unlock.md)
 
 ## 常见问题 <a href="#question" id="question"></a>
 
