@@ -35,7 +35,7 @@ icon: scale-balanced
 
 首先，我们需要打开PandaTool的流动性创建工具：[https://solana.pandatool.org/zh/createpool](https://solana.pandatool.org/zh/createpool) ，然后在右上角连接钱包
 
-<figure><img src="../.gitbook/assets/1连接钱包 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1连接钱包 (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 此时会跳出Phantom钱包进行连接，点击之后会自动识别Phantom钱包插件，并在右上角出现你的钱包地址，这就说明钱包连接成功了
 

@@ -40,7 +40,7 @@ icon: lock
 
 首先，我们要打开锁仓页面：[https://www.pandatool.org/#/createLock?lang=zh-CN](https://www.pandatool.org/#/createLock?lang=zh-CN) ，右上角连接钱包
 
-<figure><img src="../.gitbook/assets/1连接钱包 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1连接钱包 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 连钱包需要注意两点：
 

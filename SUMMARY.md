@@ -73,6 +73,7 @@
 ## Sui链发币 <a href="#sui" id="sui"></a>
 
 * [Sui链一键发币教程](sui/stardand.md)
+* [Sui链代币创建稳定池教程](sui/pool.md)
 * [Sui代币权限管理教程](sui/control.md)
 * [Cetus创建集中流动性资金池教程](sui/cetus.md)
 * [Turbos创建CLMM流动性资金池教程](sui/turbos.md)

@@ -59,7 +59,7 @@ icon: percent
 
 这一步非常重要，有一些关键参数，必须说明，大家先看图
 
-<figure><img src="../.gitbook/assets/5代币参数.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5代币参数 (2).png" alt=""><figcaption></figcaption></figure>
 
 * **代币全称：**&#x4EE3;币的名称，如Solana、Ethereum、Bitcoin等，全称支持英文和中文
 * **代币简称：**&#x4EE3;币的符号，如SOL、ETH、BTC等，简称支持英文和中文
