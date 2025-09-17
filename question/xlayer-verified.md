@@ -3,7 +3,7 @@ description: 在OKLink浏览器为X Layer代币开源
 icon: lock-open
 ---
 
-# X Layer代币开源验证教程
+# X Layer代币怎么开源验证？
 
 很多人在PandaTool创建了代币后不知道怎么开源，今天这个教程，就是教大家为X Layer（OK链）代币进行开源验证。
 
@@ -37,12 +37,28 @@ icon: lock-open
 
 #### **3、输入合约源码并配置高级参数**
 
-接下来，我们需要详细的进行参数配置，同时填入合约源码
+接下来，我们需要详细的进行参数配置，同时填入合约源码（大家看好自己的机制，是什么机制的代币，就下载哪个合约）
 
-{% file src="../.gitbook/assets/合约源码.txt" %}
+{% file src="../.gitbook/assets/标准代币-合约源码.txt" %}
+
+{% file src="../.gitbook/assets/LP分红-合约源码.txt" %}
+
+{% file src="../.gitbook/assets/LP分红+推荐奖励-合约源码.txt" %}
+
+{% file src="../.gitbook/assets/黑洞分红-合约源码.txt" %}
+
+{% file src="../.gitbook/assets/314协议-合约源码.txt" %}
+
+{% file src="../.gitbook/assets/持币复利+推荐奖励-合约源码.txt" %}
+
+{% file src="../.gitbook/assets/Mint+持币暴力分红-合约源码.txt" %}
+
+{% file src="../.gitbook/assets/Mint+底池燃烧-合约源码.txt" %}
+
+{% file src="../.gitbook/assets/LP挖矿+推荐奖励-合约源码.txt" %}
 
 * **是否优化：**&#x662F;
-* **优化：**&#x32;00
+* **优化：**&#x32;00（注意：**`Mint+暴力分红`**&#x548C;**`黑洞分红`**，这两个合约的优化数字是**10**，其余200）
 * **是否基于 IR：**&#x5426;
 * **合约源码：**&#x4E0B;载上面的文件，并复制填入
 * **ABI 数据：**&#x4E0D;用管
@@ -91,12 +107,4 @@ icon: lock-open
 * **答：**&#x5F00;源是完全免费的，无需任何费用
 
 如果您是在PandaTool创建的代币，但是无法开源，或者遇到问题，可以在我们群里咨询志愿者：[https://t.me/pandatool](https://t.me/pandatool)
-
-
-
-
-
-
-
-
 

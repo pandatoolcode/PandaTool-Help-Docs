@@ -55,6 +55,24 @@ icon: square-dollar
 * [x] PumpFun市值管理：0.001sol/每笔交易&#x20;
 * [x] BonkFun市值管理：限时免费
 
+## OK链X layer
+
+* [x] 标准代币：0.2OKB
+* [x] 分红本币：0.25OKB
+* [x] LP分红：0.3OKB
+* [x] LP分红+推荐奖励：0.32OKB
+* [x] 黑洞分红：0.36OKB
+* [x] 314协议：0.38OKB
+* [x] Mint+持币暴力分红：0.4OKB
+* [x] 持币复利+推荐奖励：0.42OKB
+* [x] Mint+底池燃烧：0.45OKB
+* [x] LP挖矿+推荐奖励：0.6OKB
+* [x] 创建预售Mint：0.3\~0.5OKB
+* [x] 创建资金池：0.1OKB
+* [x] 添加/移除资金池：0.05OKB
+* [x] 创建锁：0.05OKB
+* [x] 解锁：免费
+
 ## BSC创建预售
 
 * [x] 标准预售：0.07BNB
@@ -64,15 +82,6 @@ icon: square-dollar
 ## 以太坊ETH
 
 * [x] 标准代币：0.03ETH
-
-## OK链X layer
-
-* [x] 标准代币：0.3OKB
-* [x] 创建预售：0.3OKB
-* [x] 创建资金池：0.1OKB
-* [x] 添加/移除资金池：0.05OKB
-* [x] 创建锁：0.1OKB
-* [x] 解锁：免费
 
 ## Sei链
 
@@ -150,13 +159,14 @@ icon: square-dollar
 * [x] Core链：每次收取0.5core
 * [x] Solana链：每次收取0.01sol
 * [x] Tron链：每次收取20TRX
+* [x] X Layer链：每次收取0.05OKB
 
 ## 市值管理V1（按照会员收费）
 
 * [x] 一天：0.1BNB
 * [x] 一周：0.1BNB
 * [x] 一月：0.1BNB
-* [x] 永久：0.1BNB
+* [x] 永久：3BNB
 
 ## 市值管理V2（支持BSC、ETH、Arb、Base）
 
@@ -176,7 +186,7 @@ icon: square-dollar
 * [x] PumpFun市值管理：0.001sol/每笔交易&#x20;
 * [x] BonkFun市值管理：限时免费
 * [x] Raydium防夹刷量：0.001sol/每笔(含买+卖)&#x20;
-* [x] PumpFun防夹刷量：0.00101sol/每笔(含买+卖)&#x20;
+* [x] PumpFun防夹刷量：0.001sol/每笔(含买+卖)&#x20;
 * [x] BonkFun防夹刷量：限时免费
 * [x] 新地址刷单：0.00011sol/每个地址 限时免费
 
