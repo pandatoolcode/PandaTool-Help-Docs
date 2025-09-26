@@ -13,8 +13,8 @@ Sui堪称是近2个月来的当红炸子鸡，TVL节节攀升、MEME层出不穷
 
 * 发币之前，务必使用安装好Suiet钱包或者SuiWallet插件：[Suiet钱包安装](suiet.md)、[Suiwallet钱包钱包](suiwallet.md)
 * 如果没有安装这两个钱包，欧易Web3钱包也是支持的
-* 钱包内最少准备20个SUI，如果数量不够，会导致发币失败
-* 手机发币建议使用欧易Web3钱包，不要用TP钱包，TP不能传logo
+* 钱包内最少准备10个SUI，如果数量不够，会导致发币失败
+* 手机发币建议使用Suiet钱包，不要用TP钱包，TP不能传logo。欧易钱包部分手机无法传logo。
 
 ## Sui发币教程 <a href="#sol-fa-bi-jiao-cheng" id="sol-fa-bi-jiao-cheng"></a>
 
