@@ -74,7 +74,11 @@ icon: person-swimming
 
 <figure><img src="../.gitbook/assets/5-Raydium V2加池 (1).png" alt=""><figcaption></figcaption></figure>
 
-确认好信息无误之后，我们点击**立即创建**按钮，此时会跳出钱包进行确认（如果提示您金额太大，可能是因为Sol余额不够导致的）
+确认好信息无误之后，我们点击**立即创建**按钮，此时会跳出钱包进行确认（如果提示您金额太大，可能是因为Sol余额不够或者USDT余额不够导致的）
+
+{% hint style="warning" %}
+**LP数量不足是什么意思？**&#x4C;P的数量是根据入池的数量及比例决定的，它你的**资金池凭证**。有了这个LP，你才可以撤出流动性。如果提示LP数量不足，则说明您加入池子里面的代币（发行的代币或者USDT等）太少了，需要增加代币。
+{% endhint %}
 
 <figure><img src="../.gitbook/assets/6-钱包确认 (2).png" alt=""><figcaption></figcaption></figure>
 
