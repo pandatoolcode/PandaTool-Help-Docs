@@ -85,6 +85,10 @@ icon: axe-battle
 
 <figure><img src="../.gitbook/assets/photo_2024-04-10_20-32-33.jpg" alt=""><figcaption></figcaption></figure>
 
+{% hint style="warning" %}
+**为什么提示完善资料？**&#x53EF;能是因为代币简介太长导致的，删除一些文字就可以了
+{% endhint %}
+
 然后我们通过Sol浏览器([https://solscan.io/](https://solscan.io/))查询，看到代币的logo和详细信息（代币简介一般不会在浏览器显示，会在Birdeye等平台显示）
 
 <figure><img src="../.gitbook/assets/浏览器显示.png" alt=""><figcaption></figcaption></figure>
@@ -106,22 +110,30 @@ icon: axe-battle
 
 * **答：**&#x53D1;币费用是0.1sol，如果再加上一些gas费，估计0.13sol左右
 
-**3、为什么发币之后钱包显示未知代币？**
+**3、发币提示要完善资料是什么意思？明明资料已经填完了**
+
+* **答：**&#x5982;果您的代币简介是直接复制的，可能没有被识别，修改一下就可以了。如果还不行，那就是简介太长了，删除一些即可。
+
+**4、为什么发币之后钱包显示未知代币？**
 
 * **答：**&#x50;hantom钱包有时候抓取信息过慢，或者钱包本身有缓存，需要一段时间才能显示logo和代币名称等信息
 
-**4、手机应该怎么发币？**
+**5、手机应该怎么发币？**
 
 * **答：**&#x624B;机可以使用欧易web3钱包或者Phantom钱包app进行操作，不支持TP钱包哦
 
-**5、为什么浏览器没有显示我的推特和电报？**
+**6、为什么浏览器没有显示我的推特和电报？**
 
 * **答：**&#x73;olana浏览器在近期做了更新升级，已经不在外面显示推特和电报了，需要在metadate查询
 
-**6、发币之后需要丢弃权限吗？怎么丢？**
+**7、发币之后需要丢弃权限吗？怎么丢？**
 
 * **答：**&#x5EFA;议大家发币之后将权限丢弃，可以在此处丢权限：[https://solana.pandatool.org/control](https://solana.pandatool.org/control)
 
-**7、其他问题**
+**8、代币在Phantom钱包提示未验证，该怎么办？**
+
+* **答：**&#x50;hantom的验证需要得到Jupiter的支持，在Jupiter验证后，Phantom的提示就消失了。Jupiter验证网页：[https://jup.ag/verify](https://jup.ag/verify)
+
+**9、其他问题**
 
 * 任何问题，都可以进入Telegram电报群找志愿者解答： [https://t.me/pandatool](https://t.me/pandatool)
