@@ -95,7 +95,11 @@ _**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多
 
 <figure><img src="../.gitbook/assets/6钱包确认.png" alt=""><figcaption></figcaption></figure>
 
-点击确定后，会提示你交易成功，并且在浏览器看到你的存款记录。（该记录主要是基于浏览器缓存出现的，一旦关闭，将自动清楚）
+点击确定后，会提示你交易成功
+
+<figure><img src="../.gitbook/assets/ScreenShot_2025-10-13_153030_516.png" alt=""><figcaption></figcaption></figure>
+
+并且在浏览器看到你的存款记录。（该记录主要是基于浏览器缓存出现的，一旦关闭，将自动清楚）
 
 <figure><img src="../.gitbook/assets/7存款成功.png" alt=""><figcaption></figcaption></figure>
 
@@ -105,7 +109,13 @@ _**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多
 
 <figure><img src="../.gitbook/assets/8提款.png" alt=""><figcaption></figcaption></figure>
 
-在取款页面输入凭证秘钥，以及接受代币的钱包，点击确认，即可完成
+在取款页面输入凭证秘钥，以及接受代币的钱包，之后会获取凭证信息
+
+<figure><img src="../.gitbook/assets/ScreenShot_2025-10-13_153212_073.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ScreenShot_2025-10-13_153408_509.png" alt=""><figcaption></figcaption></figure>
+
+之后点击确认区块，即可完成
 
 ### **混币工具使用问答**
 
@@ -135,6 +145,6 @@ _**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多
 
 **7、当前只支持BNB吗？**
 
-* 答：是的，当前混币器还处于公测解决，暂时现在币安链上使用。后面会拓展到其他公链，也会支持更多代币。BNB池子目前是使用比较频繁的。
+* 答：是的，当前混币器还处于公测阶段，暂时现在币安链上使用。后面会拓展到其他公链，也会支持更多代币。BNB池子目前是使用比较频繁的。
 
 当然，关于混币器如果您还有其他使用问题，可以进入我们的官方电报群了解：[https://t.me/pandatool](https://t.me/pandatool)
