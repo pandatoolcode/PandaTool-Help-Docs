@@ -109,13 +109,21 @@ _**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多
 
 <figure><img src="../.gitbook/assets/8提款.png" alt=""><figcaption></figcaption></figure>
 
-在取款页面输入凭证秘钥，以及接受代币的钱包，之后会获取凭证信息
+在取款页面输入凭证秘钥，以及接受代币的钱包，系统会获取凭证数据，并查找中继器
 
 <figure><img src="../.gitbook/assets/ScreenShot_2025-10-13_153212_073.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/ScreenShot_2025-10-13_153408_509.png" alt=""><figcaption></figcaption></figure>
+等待一会，就能看到您的提币信息，以及需要支付的相关费用
 
-之后点击确认区块，即可完成
+<figure><img src="../.gitbook/assets/9提款.png" alt=""><figcaption></figcaption></figure>
+
+
+
+点击**提款**按钮后，再等待1到3分钟，混币器会核对您的凭证，让你再次确认
+
+<figure><img src="../.gitbook/assets/10提款.png" alt=""><figcaption></figcaption></figure>
+
+再次确认后，中继器就会开始操作，大概十几秒钟，就能实现提款了。
 
 ### **混币工具使用问答**
 
@@ -129,7 +137,7 @@ _**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多
 
 **3、使用混币器需要收费吗？**
 
-* 答：是的，当您存款时，每笔存款会收取**0.01BNB**的费用（不管多少金额，都是这个费用）。当您取款时，需要给**中继器**缴纳提款金额1%的费用。
+* 答：是的，当您存款时，每笔存款会收取**0.01BNB**的费用（不管多少金额，都是这个费用）。当您取款时，需要给**中继器**缴纳提款金额0.1%（千分之一左右）的费用。
 
 **4、如何提高混币效果？**
 
