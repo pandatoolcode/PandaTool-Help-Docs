@@ -17,6 +17,10 @@ icon: robot
 
 根据以下步骤，您可以在可支持的任意一条链上，进行代币市值管理。现在，我们以BSC测试链为例：
 
+{% hint style="success" %}
+目前已经推出V2版本的市值机器人，按照交易次数收费，使用更加快捷：[https://evmswap.pandatool.org/](https://evmswap.pandatool.org/)
+{% endhint %}
+
 ## 一、准备阶段
 
 <figure><img src="../.gitbook/assets/市值管理1.png" alt=""><figcaption></figcaption></figure>
@@ -145,7 +149,7 @@ icon: robot
 
 **2、市值管理系统收费吗？**
 
-* 按照时间收费，1天0.1BNB，一个月1BNB，永久3BNB
+* 按照时间收费，一个0.1BNB，永久3BNB
 
 **3、最多可以导入多少钱包？**
 
