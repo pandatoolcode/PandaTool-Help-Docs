@@ -11,7 +11,7 @@ Tornado Cash 也叫龙卷风， 于 2020 年推出，是一个运行在币安链
 
 _**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多区块链、更多代币正在开发中。_
 
-<figure><img src="../.gitbook/assets/龙卷风混币.jpg" alt=""><figcaption></figcaption></figure>
+{% embed url="https://www.youtube.com/watch?v=aNdctXx9oek" %}
 
 ### **Tornado Cash如何实现混币？**
 
