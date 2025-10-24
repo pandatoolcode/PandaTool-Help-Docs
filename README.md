@@ -1,5 +1,4 @@
 ---
-icon: house-circle-check
 description: 业内领先的Web3.0多链工具平台
 ---
 
@@ -15,6 +14,7 @@ PandaTool是业内领先的Web3.0多链工具平台，旗下拥有小额跨链�
 * **Sui工具**：[https://sui.pandatool.org/](https://sui.pandatool.org/)
 * **波场工具**：[https://tron.pandatool.org/](https://tron.pandatool.org/)
 * **跨链工具：**[https://bridge.pandatool.org/](https://bridge.pandatool.org/)
+* **混币工具：**[https://tornado.pandatool.org/](https://tornado.pandatool.org/)
 
 ## **为什么选择PandaTool？**
 
