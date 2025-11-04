@@ -81,7 +81,7 @@ icon: square-dollar
 
 ## 以太坊ETH
 
-* [x] 标准代币：0.03ETH
+* [x] 标准代币：0.02ETH
 
 ## Sei链
 
@@ -89,10 +89,10 @@ icon: square-dollar
 
 ## Base链
 
-* [x] 标准代币：0.01ETH
-* [x] 分红本币：0.015ETH
-* [x] LP分红：0.02ETH
-* [x] LP分红+推荐奖励：0.022ETH
+* [x] 标准代币：0.02ETH
+* [x] 分红本币：0.03ETH
+* [x] LP分红：0.04ETH
+* [x] LP分红+推荐奖励：0.042ETH
 * [x] 314协议：0.028ETH
 * [x] Mint+暴力分红：0.035ETH
 * [x] Mint+底池燃烧：0.036ETH
@@ -153,9 +153,9 @@ icon: square-dollar
 ## 批量转账
 
 * [x] Bsc链：每次收取0.005BNB
-* [x] Base链：每次收取0.0001ETH
-* [x] Arbitrum链：每次收取0.0001ETH
-* [x] ETH链：每次收取0.0001ETH
+* [x] Base链：每次收取0.001ETH
+* [x] Arbitrum链：每次收取0.001ETH
+* [x] ETH链：每次收取0.001ETH
 * [x] Core链：每次收取0.5core
 * [x] Solana链：每次收取0.01sol
 * [x] Tron链：每次收取20TRX
