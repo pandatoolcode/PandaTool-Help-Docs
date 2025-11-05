@@ -108,9 +108,10 @@
 
 ## 操作工具 <a href="#tools" id="tools"></a>
 
-* [混币工具使用教程](tools/tornado.md)
-* [批量转账教程](tools/batch-transfer.md)
-* [批量归集工具](tools/gather.md)
+* [Four.meme内盘发币教程](tools/four.md)
+* [龙卷风混币工具使用教程](tools/tornado.md)
+* [代币批量转账教程](tools/batch-transfer.md)
+* [代币批量归集工具](tools/gather.md)
 * [代币快照教程](tools/snapshottoken.md)
 * [LP流动性修复](tools/lpfixtool.md)
 * [批量生成BSC钱包](tools/create-wallets.md)

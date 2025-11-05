@@ -1,5 +1,6 @@
 ---
 description: 业内领先的Web3.0多链工具平台
+icon: house-circle-check
 ---
 
 # PandaTool一键发币
