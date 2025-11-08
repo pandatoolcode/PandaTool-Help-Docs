@@ -1,6 +1,6 @@
 ---
 description: 转入黑洞获得分红
-icon: square-6
+icon: square-7
 ---
 
 # 黑洞分红教程
@@ -13,7 +13,7 @@ icon: square-6
 
 黑洞分红指的是，用户将持有的代币转入黑洞地址后，才能获得分红资格。具体分红哪种代币，可以在创建合约的时候填写，主流币合约地址参照：[主流币合约地址](https://help.pandatool.org/practical-information/smart-contract)
 
-**黑洞地址：**&#x30;x000000000000000000000000000000000000dEaD
+**黑洞地址：**_0x000000000000000000000000000000000000dEaD_
 
 ### 2、连接钱包（老手忽略该操作） <a href="#id-2-lian-jie-qian-bao-lao-shou-hu-lve-gai-cao-zuo" id="id-2-lian-jie-qian-bao-lao-shou-hu-lve-gai-cao-zuo"></a>
 

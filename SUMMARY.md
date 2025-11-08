@@ -7,15 +7,16 @@
 
 ## EVM代币创建 <a href="#createtoken" id="createtoken"></a>
 
-* [标准代币](createtoken/stardand.md)
-* [分红本币合约创建教程](createtoken/holdreflection.md)
+* [标准代币创建教程](createtoken/stardand.md)
+* [分红本币创建教程](createtoken/holdreflection.md)
+* [多功能代币创建教程](createtoken/simplecontrol.md)
 * [314协议发币教程](createtoken/314.md)
-* [LP分红代币](createtoken/lpreflection.md)
+* [LP分红代币创建教程](createtoken/lpreflection.md)
 * [LP分红+推荐奖励](createtoken/lpwithinviter.md)
 * [黑洞分红教程](createtoken/blackhole.md)
 * [持币复利+推荐奖励](createtoken/holdwithinviter.md)
-* [Mint+底池燃烧](createtoken/lpburn.md)
-* [Mint+持币暴力分红](createtoken/holdothers.md)
+* [底池燃烧](createtoken/lpburn.md)
+* [持币暴力分红](createtoken/holdothers.md)
 * [LP挖矿+推荐奖励](createtoken/lpmine.md)
 * [持币分红教程](createtoken/token-reared.md)
 * [创建流动性资金池教程](createtoken/createliquidity.md)

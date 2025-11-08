@@ -1,6 +1,6 @@
 ---
 description: 持币自动生息、代币资产累积、打造去中心化银行
-icon: square-7
+icon: square-8
 ---
 
 # 持币复利+推荐奖励

@@ -3,7 +3,7 @@ description: 干净合约、方便上手、无税无功能、Ave检测全绿
 icon: square-1
 ---
 
-# 标准代币
+# 标准代币创建教程
 
 BSC链代币创建教程视频
 
@@ -31,8 +31,9 @@ BSC链代币创建教程视频
 * **代币符号：**&#x50;anda（代币简称，支持中文、英文以及中英混合文字）
 * **发行量：**&#x31;0000（代币数量）
 * **精度：**&#x31;8（小数点后的位数）
+* **收币地址：**&#x521B;建代币后接受代币的地址（代币给到谁）
 
-<figure><img src="../.gitbook/assets/标准代币.png" alt=""><figcaption><p>标准代币</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/发币页面.png" alt=""><figcaption></figcaption></figure>
 
 ## 4、创建合约
 
@@ -105,7 +106,7 @@ BSC链代币创建教程视频
 
 代币授权完成后，就是创建资金池了。点击“立即加池”按钮，跳出钱包进行确认
 
-![](https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FE0nEZBS7LZZrNXaJY62g%252F10%25E5%258A%25A0%25E6%25B1%25A0%25E6%258F%2590%25E7%25A4%25BA.png%3Falt%3Dmedia%26token%3Dcffe5b72-d29f-4e7b-acd0-311e2794d90b\&width=768\&dpr=4\&quality=100\&sign=997908b5\&sv=2)
+<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FE0nEZBS7LZZrNXaJY62g%252F10%25E5%258A%25A0%25E6%25B1%25A0%25E6%258F%2590%25E7%25A4%25BA.png%3Falt%3Dmedia%26token%3Dcffe5b72-d29f-4e7b-acd0-311e2794d90b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=997908b5&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FguRrJDgzgmpDwW7YPUAc%252F9%25E7%25AB%258B%25E5%258D%25B3%25E5%258A%25A0%25E6%25B1%25A0.png%3Falt%3Dmedia%26token%3D20531d92-8579-4058-bee5-c1d71ed4fd9b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cc14d5c9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 

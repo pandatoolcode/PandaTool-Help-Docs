@@ -31,7 +31,7 @@ Token2022代币的税率不是实时到账的，它是累计存储在某个地�
 
 首先，我们需要进入提税工具的网页：[https://solana.pandatool.org/zh/taxClai](https://solana.pandatool.org/zh/taxClaim) 右上角连接钱包
 
-<figure><img src="../.gitbook/assets/1链接钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1链接钱包 (1).png" alt=""><figcaption></figcaption></figure>
 
 此时会跳出Phantom钱包，点击进行连接。成功连接后，右上角会出现钱包地址，操作页面也会自动识别出钱包地址
 
