@@ -4,6 +4,7 @@
 * [联系我们](contact.md)
 * [工具导航](navigation.md)
 * [服务费用](price.md)
+* [新人发币必读](guide.md)
 
 ## EVM代币创建 <a href="#createtoken" id="createtoken"></a>
 
