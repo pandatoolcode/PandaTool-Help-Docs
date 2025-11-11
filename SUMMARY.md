@@ -14,7 +14,7 @@
 * [314协议发币教程](createtoken/314.md)
 * [LP分红代币创建教程](createtoken/lpreflection.md)
 * [LP分红+推荐奖励](createtoken/lpwithinviter.md)
-* [黑洞分红教程](createtoken/blackhole.md)
+* [黑洞分红代币创建教程](createtoken/blackhole.md)
 * [持币复利+推荐奖励](createtoken/holdwithinviter.md)
 * [底池燃烧](createtoken/lpburn.md)
 * [持币暴力分红](createtoken/holdothers.md)
