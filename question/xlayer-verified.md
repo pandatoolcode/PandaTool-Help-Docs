@@ -29,7 +29,7 @@ icon: lock-open
 
 * **合约地址：**&#x4EE3;币的合约地址
 * **编译器类型：**&#x53;olidity(SingleFile)
-* **编译器版本：**&#x76;0.8.18+commit.87f61d96
+* **编译器版本：**&#x76;0.8.24+commit.87f61d96
 
 <figure><img src="../.gitbook/assets/2 (8).png" alt=""><figcaption></figcaption></figure>
 
@@ -40,6 +40,8 @@ icon: lock-open
 接下来，我们需要详细的进行参数配置，同时填入合约源码（大家看好自己的机制，是什么机制的代币，就下载哪个合约）
 
 {% file src="../.gitbook/assets/标准代币-合约源码.txt" %}
+
+{% file src="../.gitbook/assets/分红本币-合约源码.txt" %}
 
 {% file src="../.gitbook/assets/LP分红-合约源码.txt" %}
 
@@ -58,7 +60,7 @@ icon: lock-open
 {% file src="../.gitbook/assets/LP挖矿+推荐奖励-合约源码.txt" %}
 
 * **是否优化：**&#x662F;
-* **优化：**&#x32;00（注意：**`Mint+暴力分红`**&#x548C;**`黑洞分红`**，这两个合约的优化数字是**10**，其余200）
+* **优化：**&#x32;00（注意：`持币分红`&#x548C;**`黑洞分红`**，这两个合约的优化数字是**10**，其余200）
 * **是否基于 IR：**&#x5426;
 * **合约源码：**&#x4E0B;载上面的文件，并复制填入
 * **ABI 数据：**&#x4E0D;用管

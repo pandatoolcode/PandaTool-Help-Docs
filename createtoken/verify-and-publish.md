@@ -31,7 +31,7 @@ icon: osi
 根据刚刚创建页面中的合约参数, 选择开源信息
 
 * `Compiler Type` 选择单一文件 `Single file`
-* 编译器版本选择 `0.8.18`
+* 编译器版本选择 `V0.8.24`
 * 开源协议选择 `MIT`
 
 <figure><img src="../.gitbook/assets/开源参数2.png" alt=""><figcaption></figcaption></figure>
