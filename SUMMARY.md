@@ -111,6 +111,7 @@
 ## 操作工具 <a href="#tools" id="tools"></a>
 
 * [Four.meme内盘发币教程](tools/createfour.md)
+* [Four市值管理/批量交易工具](tools/fourmarket.md)
 * [龙卷风混币工具使用教程](tools/tornado.md)
 * [代币批量转账教程](tools/batch-transfer.md)
 * [代币批量归集工具](tools/gather.md)

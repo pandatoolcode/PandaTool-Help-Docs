@@ -22,6 +22,9 @@ icon: square-dollar
 * [x] 创建资金池并买入：0.02BNB/每个地址
 * [x] 移除/添加流动性池：0.01BNB/次
 * [x] 锁池/锁币：0.01BNB/次（解锁免费）
+* [x] Four.meme发币：0.04BNB
+* [x] Four.meme捆绑买入：0.01BNB/每个地址
+* [x] Four.meme市值管理：买单免费，卖单收取卖出**金额的1%**
 
 ## Solana链
 
@@ -198,6 +201,7 @@ icon: square-dollar
 * [x] Avalanche: 0.01 AVAX/笔
 * [x] Polygon: 0.1 POL/笔
 * [x] Optimism: 0.0001 ETH/笔
+* [x] Four.meme：买单免费，卖单收取卖出金额1%
 
 ## Sol市值管理
 
