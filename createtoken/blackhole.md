@@ -7,7 +7,9 @@ icon: square-7
 
 注1：请提前下载好小狐狸钱包插件或欧易Web3钱包插件，小狐狸MetaMask安装教程：[https://help.pandatool.org/practical-information/metamask](https://help.pandatool.org/practical-information/metamask)
 
-注2：黑洞分红代币可能存在被机器人/夹子恶意套利的风险，如不能接受，可发行标准币
+{% hint style="warning" %}
+**检测风险提醒**：该类型的代币创建后安全检测可能**存在风险**，如果您特别在意检测结果，可以选择创建标准代币，标准币没有任何风险。如果您最终决定创建此类型的代币，则说明您**可以接受代币检测风险**
+{% endhint %}
 
 ### 1、功能解释 <a href="#id-1-gong-neng-jie-shi" id="id-1-gong-neng-jie-shi"></a>
 
