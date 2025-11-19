@@ -30,7 +30,7 @@ PandaTool提供的稳定池创建工具，是基于Cetus的clmm集中流动性�
 
 第一步，我们先打开PandaTool的工具页面:[https://sui.pandatool.org/createpool](https://sui.pandatool.org/createpool)，然后右上角连接钱包
 
-<div><figure><img src="../.gitbook/assets/1连接钱包.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2连接钱包.png" alt=""><figcaption></figcaption></figure></div>
+<div><figure><img src="../.gitbook/assets/1连接钱包.png" alt=""><figcaption></figcaption></figure> <figure><img src="../.gitbook/assets/2连接钱包 (1).png" alt=""><figcaption></figcaption></figure></div>
 
 具体看您电脑安装了哪些钱包插件，就选择什么插件进行连接。钱包连接成功后，右上角会出现您的钱包地址
 

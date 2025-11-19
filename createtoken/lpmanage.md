@@ -22,7 +22,7 @@ icon: bridge-water
 
 首先，我们进入PandaTool的流动性控制台 [https://www.pandatool.org/#/LPmanage?lang=zh-CN](https://www.pandatool.org/#/LPmanage?lang=zh-CN)   ，然后右上角连接钱包，并选择对应的区块链
 
-<figure><img src="../.gitbook/assets/2连接钱包 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2连接钱包 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
