@@ -3,7 +3,7 @@ description: Tornado Cash龙卷风混币器使用教程
 icon: mixer
 ---
 
-# 混币工具使用教程
+# 龙卷风混币工具使用教程
 
 Tornado Cash 也叫龙卷风， 于 2020 年推出，是一个运行在币安链、以太坊等区块链上的加密货&#x5E01;**“混币器”**，核心目的是帮助用户隐藏加密货币交易的来源和去向，提高交易隐私，避免被追踪。
 
@@ -99,7 +99,7 @@ _**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多
 
 <figure><img src="../.gitbook/assets/ScreenShot_2025-10-13_153030_516.png" alt=""><figcaption></figcaption></figure>
 
-并且在浏览器看到你的存款记录。（该记录主要是基于浏览器缓存出现的，一旦关闭，将自动清楚）
+并且在浏览器看到你的存款记录。（该记录主要是基于浏览器缓存出现的，一旦关闭，将自动清除）
 
 <figure><img src="../.gitbook/assets/7存款成功.png" alt=""><figcaption></figcaption></figure>
 

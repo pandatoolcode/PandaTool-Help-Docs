@@ -3,7 +3,7 @@ description: 在BSC/ETH链创建稳定币流动性池
 icon: scale-balanced
 ---
 
-# 创建稳定币流动池
+# 创建稳定币流动池教程
 
 ### 一、什么是稳定币池？ <a href="#shen-me-shi-wen-ding-chi" id="shen-me-shi-wen-ding-chi"></a>
 
@@ -103,6 +103,8 @@ Sui稳定池创建：[https://help.pandatool.org/sui/pool](https://help.pandatoo
 
 创建成功后，我们就能去交易了
 
+
+
 ### 三、相关问答 <a href="#shen-me-shi-wen-ding-chi" id="shen-me-shi-wen-ding-chi"></a>
 
 **1、为什么查不到代币？**
@@ -121,9 +123,13 @@ Sui稳定池创建：[https://help.pandatool.org/sui/pool](https://help.pandatoo
 
 * 答：不行了，稳定池的目的是为了让价格稳定。一旦加了其他池子，价格就变了，到时候容易乱
 
-5、我可以在后期修改价格吗？
+**5、我可以在后期修改价格吗？**
 
-* 答：无法修改，价格一旦创建就固定了，不能调整。如果
+* 答：无法修改，价格一旦创建就固定了，不能调整。
+
+**6、池子开始交易后，可以在钱包里显示价格吗？**
+
+* 答：不一定，钱包对于代币价格的显示有一定要求。每个钱包，对每个类型的代币，显示的逻辑都不一样，这方面具体要咨询钱包才可以
 
 如果您对于创建稳定币流动池还有其他问题，可以进入我们的Telegram群咨询，会有志愿者予以解答：[https://t.me/pandatool](https://t.me/pandatool)
 
