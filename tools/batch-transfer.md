@@ -3,7 +3,7 @@ description: BSC和BASE最好用的批量转账工具
 icon: arrow-right-from-bracket
 ---
 
-# 批量转账教程
+# 代币批量转账教程
 
 批量转账视频操作教程
 
@@ -16,9 +16,9 @@ PandaTool多链批量转账工具，支持ETH、BSC、Base、Arbitrum等多条EV
 ## 批量转账费用
 
 * Bsc链：每次收取0.005BNB
-* Base链：每次收取0.0001ETH
-* Arbitrum链：每次收取0.0001ETH
-* ETH链：每次收取0.0001ETH
+* Base链：每次收取0.001ETH
+* Arbitrum链：每次收取0.001ETH
+* ETH链：每次收取0.001ETH
 * Core链：每次收取0.5core
 
 ## 工具使用说明
@@ -63,3 +63,4 @@ PandaTool多链批量转账工具，支持ETH、BSC、Base、Arbitrum等多条EV
 
 5、支持大部分EVM公链，切换到哪个钱包，就自动在哪个链上转账
 
+如果您有任何关于批量转账相关的的问题，可以在电报群联系志愿者解答：[https://t.me/pandatool](https://t.me/pandatool)

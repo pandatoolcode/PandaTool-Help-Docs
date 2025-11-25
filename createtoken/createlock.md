@@ -144,8 +144,7 @@ LP授权之后，点击确认锁池，等待几秒钟，就可以完成了
 
 <figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FWryatRNMp8JdO9afKzhB%252F3%25E7%25A1%25AE%25E8%25AE%25A4%25E9%2594%2581%25E6%25B1%25A0.png%3Falt%3Dmedia%26token%3D41a5079a-72da-4c97-9928-e1486cd516e9&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4362947c&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
-锁池之后，我们去哪里看呢？可以在[锁仓控制台](https://www.pandatool.org/#/lockList?lang=zh-CN)里查询我们的锁信息。进入锁仓控制台 → [https://www.pandatool.org/#/lockList?lang=zh-CN](https://www.pandatool.org/#/lockList?lang=zh-CN)\
-
+锁池之后，我们去哪里看呢？可以在[锁仓控制台](https://www.pandatool.org/#/lockList?lang=zh-CN)里查询我们的锁信息。进入锁仓控制台 → [https://www.pandatool.org/#/lockList?lang=zh-CN](https://www.pandatool.org/#/lockList?lang=zh-CN)<br>
 
 <figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FQtM54U3DdMdOVyZ9vmMf%252F4%25E9%2594%2581%25E4%25BB%2593%25E6%258E%25A7%25E5%2588%25B6%25E5%258F%25B0.png%3Falt%3Dmedia%26token%3D267347e5-4df6-4696-b6bd-00de9a982578&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7eec453b&#x26;sv=2" alt=""><figcaption></figcaption></figure>
 
