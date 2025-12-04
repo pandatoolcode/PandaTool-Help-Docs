@@ -11,7 +11,15 @@ icon: wallet
 
 <figure><img src="../.gitbook/assets/批量生成sol钱包.jpg" alt=""><figcaption></figcaption></figure>
 
-## Sol批量生成钱包教程
+{% hint style="danger" %}
+我们不会存储私钥，请您自行保管，丢失后无法找回！！！
+
+我们不会存储私钥，请您自行保管，丢失后无法找回！！！
+
+我们不会存储私钥，请您自行保管，丢失后无法找回！！！
+{% endhint %}
+
+## Solana批量生成钱包教程
 
 首先，我们打开创建工具的页面：[https://solana.pandatool.org/createwallet](https://solana.pandatool.org/createwallet)输入框内填入要生成的前地址数量，点击生成钱包，即可完成操作
 
@@ -38,5 +46,9 @@ icon: wallet
 #### 2、如何保证安全性？
 
 * **答：**&#x94B1;包创建之前，请断开网络，以确保数据不会传输到网上。生成的钱包地址仅作为临时钱包使用，用完即丢，不要存入核心资产就行
+
+#### 3、关闭页面后没有保存私钥怎么办？
+
+* **答：**&#x79C1;钥一旦丢失将永远无法找回，请在创建后第一时间存储私钥
 
 如有不明白或者不清楚的地方，请加入官方电报群：[@PandaTool](https://t.me/PandaTool)

@@ -113,13 +113,14 @@
 
 * [Four.meme内盘发币教程](tools/createfour.md)
 * [Four市值管理/批量交易工具](tools/fourmarket.md)
+* [Four.meme一键卖出清仓教程](tools/sellfour.md)
 * [龙卷风混币工具使用教程](tools/tornado.md)
 * [代币批量转账教程](tools/batch-transfer.md)
 * [代币批量归集工具](tools/gather.md)
 * [代币批量空投教程](tools/multisendv2.md)
 * [代币快照教程](tools/snapshottoken.md)
 * [LP流动性修复](tools/lpfixtool.md)
-* [批量生成BSC钱包](tools/create-wallets.md)
+* [批量生成BSC/ETH钱包](tools/create-wallets.md)
 * [市值管理机器人](tools/operate.md)
 * [合约安全检测](tools/contract-check.md)
 

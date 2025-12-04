@@ -32,7 +32,7 @@ icon: camera-polaroid
 
 首先，我们打开PandaTool的代币快照工具：[https://pandatool.org/#/contractCheck/snapshotToken?lang=zh-CN](https://pandatool.org/#/contractCheck/snapshotToken?lang=zh-CN)
 
-<figure><img src="../.gitbook/assets/1找到工具.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1找到工具 (1).png" alt=""><figcaption></figcaption></figure>
 
 **2、选择链并输入代币**
 

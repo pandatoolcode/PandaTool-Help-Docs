@@ -23,7 +23,7 @@ icon: square-dollar
 * [x] 移除/添加流动性池：0.01BNB/次
 * [x] 锁池/锁币：0.01BNB/次（解锁免费）
 * [x] Four.meme发币：0.04BNB
-* [x] Four.meme捆绑买入：0.01BNB/每个地址
+* [x] Four.meme捆绑买入：0.0101BNB/每个地址
 * [x] Four.meme市值管理：买单免费，卖单收取卖出**金额的1%**
 
 ## Solana链
