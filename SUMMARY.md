@@ -83,7 +83,7 @@
 * [Cetus创建集中流动性资金池教程](sui/cetus.md)
 * [Turbos创建CLMM流动性资金池教程](sui/turbos.md)
 * [BlueMove创建AMM流动性资金池教程](sui/bluemove.md)
-* [Sui Wallet 钱包安装教程](sui/suiwallet.md)
+* [Slush钱包安装教程](sui/slush.md)
 * [Suiet钱包安装教程](sui/suiet.md)
 
 ## 波场链发币 <a href="#tron" id="tron"></a>

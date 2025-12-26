@@ -1,29 +1,29 @@
 ---
-description: 一篇文章教你学会安装Sui Wallet
+description: 一篇文章教你学会安装Slush
 icon: wallet
 ---
 
-# Sui Wallet 钱包安装教程
+# Slush钱包安装教程
 
-Sui Wallet是Sui官方推出的一款钱包，号称是：安全+易用。安全方面不好说，易用性有待商榷。大家要在Sui链上发币、交易、参与质押，这个钱包是应该要安装的。
+Slush钱包前身是Sui Wallet，是Sui官方推出的一款钱包，号称是：安全+易用。安全方面不好说，易用性有待商榷。大家要在Sui链上发币、交易、参与质押，这个钱包是应该要安装的。
 
-这个教程，主要是教大家如何安装Sui Wallet浏览器插件，并创建Sui钱包。
+这个教程，主要是教大家如何安装Slush浏览器插件，并创建Sui钱包。
 
 {% hint style="info" %}
 1.安装钱包必须要懂得科学上网
 
 2.钱包App必须在Apple Store或者Google Play下载
 
-3.建议大家使用[Suiet钱包](suiet.md)，SuiWallet有点不好用
+3.建议大家使用[Suiet钱包](suiet.md)，Slush有点不好用
 {% endhint %}
 
-## 一、安装Sui Wallet钱包插件
+## 一、安装Slush钱包插件
 
-不管是下载钱包插件，还是App，都需要通过官网或者谷歌Play下载，否则就有可能下载到假钱包。所以，我们先找到Sui Wallet的官网：[https://suiwallet.com/](https://suiwallet.com/)
+不管是下载钱包插件，还是App，都需要通过官网或者谷歌Play下载，否则就有可能下载到假钱包。所以，我们先找到Slush的官网：[https://slush.app/](https://slush.app/)
 
 <figure><img src="../.gitbook/assets/1 (3).png" alt=""><figcaption></figcaption></figure>
 
-然后点击“[Download Browser Extension](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)”这个按钮，就会跳转到Google应用商店的页面（或者直接进入链接：[https://chromewebstore.google.com/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil](https://chromewebstore.google.com/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)）
+然后点击“[Download Browser Extension](https://chrome.google.com/webstore/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)”这个按钮，就会跳转到Google应用商店的页面（或者直接进入链接：[https://chromewebstore.google.com/detail/slush-%E2%80%94-a-sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil](https://chromewebstore.google.com/detail/slush-%E2%80%94-a-sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)）
 
 <figure><img src="../.gitbook/assets/2 (3).png" alt=""><figcaption></figcaption></figure>
 
