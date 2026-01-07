@@ -9,6 +9,10 @@ icon: book-open
 
 基于这个需求，PandaTool开发出了低成本创建市场ID的工具，成本最低只需要0.55Sol左右。
 
+{% hint style="danger" %}
+请注意：Token 2022标准的代币**无法创建**OpenBook市场ID，该类型的代币，直接创建CPMM资金池即可
+{% endhint %}
+
 ## 什么是OpenBook？
 
 OpenBook 是Solana生态里一个开源的、无需许可的公共基础设施，其中央限价订单簿连接了 Solana DeFi 中许多最大的协议（包括Raydium、Orca、JUP等），提供了一个统一的流动性层，可以在整个生态系统中匹配买家和卖家，从而以光速实现链上价格发现与撮合交易。
