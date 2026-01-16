@@ -1,5 +1,5 @@
 ---
-description: 业内领先的Web3.0多链工具平台
+description: 全网最强一键发币平台
 icon: house-circle-check
 ---
 
