@@ -35,7 +35,7 @@ icon: scale-balanced
 
 ## 创建Solana稳定池的详细教程
 
-### 1、打开PandanTool并连接钱包
+### 1.打开PandanTool并连接钱包
 
 首先，我们需要打开PandaTool的流动性创建工具：[https://solana.pandatool.org/zh/createpool](https://solana.pandatool.org/zh/createpool) ，然后在右上角连接钱包
 
@@ -45,7 +45,7 @@ icon: scale-balanced
 
 <figure><img src="../.gitbook/assets/2 连接成功.png" alt=""><figcaption></figcaption></figure>
 
-### 2、选择CLMM池子
+### 2.选择CLMM池子
 
 值得注意的，PandaTool支持用户创建AMM V4池、CPMM池和CLMM池三种，我们在这里选择CLMM池
 
@@ -54,7 +54,7 @@ icon: scale-balanced
 之后，需要选择基础代币和报价代币
 
 * **基础代币：**&#x5C31;是你创建的代币
-* **报价代币：**&#x53E6;一个配对代币，用来确定价格，通常是USDT或USDC注意
+* **报价代币：**&#x53E6;一个配对代币，用来确定价格，通常是USDT或USDC
 
 {% hint style="warning" %}
 注意：不管加什么池子，钱包里必须要有对应的代币才可以。加USDT的池子，钱包里要有USDT。加USDC的池子，钱包里要有USDC。数量没有要求，只要有就可以。没有的话，会一直转圈。
@@ -64,7 +64,7 @@ icon: scale-balanced
 
 代币确定之后，我们点击查询余额，需要输入一些其他参数
 
-### 3、输入参数
+### 3.输入参数
 
 从上图可以看出，我们需要手动设置四个参数
 

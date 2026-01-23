@@ -62,10 +62,11 @@
 * [Solana批量生成钱包地址](sol/createwallet.md)
 * [Solana代币快照教程](sol/snapshottoken.md)
 * [幻影钱包Phantom安装教程](sol/phantom.md)
+* [Meteora DLMM稳定池创建教程](sol/meteora.md)
 * [Raydium CPMM加池子教程](sol/raydium/README.md)
   * [Raydium V2加池子教程](sol/raydium/raydium-v2.md)
   * [Orca加池子/撤池子教程](sol/raydium/orca.md)
-  * [Meteora加池子/撤池子教程](sol/raydium/meteora.md)
+  * [Meteora加池子/撤池子教程](sol/raydium/meteora-dlmm.md)
 
 ## TON链发币 <a href="#ton" id="ton"></a>
 
