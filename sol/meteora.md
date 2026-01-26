@@ -51,9 +51,9 @@ icon: meteor
 
 当我们选择好两种代币之后，系统会自动查询，确定该代币之前是否创建过流动性
 
-<figure><img src="../.gitbook/assets/3输入合约地址 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3输入合约地址.png" alt=""><figcaption></figcaption></figure>
 
-查询完成后，接下来是输入交易价格。假设我输入的价格是1，我选择的基础代币名称是PandaTool、报价代币是USDT，这就意味着，在我创建好流动性资金池后，我的代币PandaTool的价格将以USDT作为基准，即1PandaTool=1USDT。假设我填0.1，那么就意味着1PandaTool=0.1USDT，以此类推
+查询完成后，接下来是输入交易价格。假设我输入的价格是1，我选择的基础代币名称是PandaTool、报价代币是USDT，这就意味着，在我创建好流动性资金池后，我的代币PandaTool的价格将以USDT作为基准，即**1PandaTool=1USDT**。假设我填0.1，那么就意味着1PandaTool=0.1USDT，以此类推
 
 {% hint style="success" %}
 该价格是永久交易价格，以后不敢交易多少次、交易多少数量，价格都不会变。而且一旦创建后不可修改，价格永久稳定。
@@ -73,7 +73,9 @@ icon: meteor
 <img src="../.gitbook/assets/5 错误提示.png" alt="" data-size="original">
 {% endhint %}
 
-到这一步，你的资金池就算是创建完成了。此时你一定会疑惑：我还没往资金池里放代币呢，怎么就完成了呢？别着急，放代币的问题，我们在下一步完成。
+到这一步，你的资金池就算是创建完成了。
+
+此时你一定会疑惑：**我还没往资金池里放代币呢，怎么就完成了呢？**&#x522B;着急，放代币的问题，我们在下一步完成。
 
 #### 3、创建流动性仓位 <a href="#id-1-da-kai-pandantool-bing-lian-jie-qian-bao" id="id-1-da-kai-pandantool-bing-lian-jie-qian-bao"></a>
 
@@ -84,6 +86,35 @@ icon: meteor
 <figure><img src="../.gitbook/assets/8跳转提示.png" alt=""><figcaption></figcaption></figure>
 
 跳转之后，您就可以看到代币流动性的操作管理页面
+
+<figure><img src="../.gitbook/assets/9 添加流动性.png" alt=""><figcaption></figcaption></figure>
+
+在仓位页面，您可以看到当前池子的代币数量，以及要添加的代币数量、价格范围等信息。目前，池子内没有任何代币，所以数量为0。接下来，我将分别填入两种代币数量：、
+
+* PandaTool：100000枚
+* USDT：1枚
+
+注意，两种代币的数量**可以随意填**，无需遵照任何比例。比如我现在设置的价格是1，但是添加代币的数量无需按照1:1的比例添加，随意就行。
+
+确认好入池数量后，点击添加流动性按钮，此时会弹出钱包进行确认
+
+<figure><img src="../.gitbook/assets/10添加流动性2.png" alt=""><figcaption></figcaption></figure>
+
+{% hint style="warning" %}
+在添加流动性的时候，请确保钱包内有至少**0.5个SOL**，否则可能无法交易
+{% endhint %}
+
+等待几秒钟后，流动性仓位即可创建成功，此时就能看到代币的流动性了
+
+<figure><img src="../.gitbook/assets/11 创建成功.png" alt=""><figcaption></figcaption></figure>
+
+#### 4、交易代币 <a href="#id-1-da-kai-pandantool-bing-lian-jie-qian-bao" id="id-1-da-kai-pandantool-bing-lian-jie-qian-bao"></a>
+
+既然流动性创建成功了，下面就可以交易了，以确定价格是否稳定。还是在这个页面，点击交易按钮进入交易页面
+
+<figure><img src="../.gitbook/assets/12 交易代币.png" alt=""><figcaption></figcaption></figure>
+
+可以发现，0.1USDT购买0.0999个代币，价格基本稳定在1USDT，浮动在万分之一左右，可以忽略不计，稳定性很高。
 
 ### 创建DLMM稳定池疑问解答 <a href="#chuang-jian-wen-ding-chi-de-bu-zhou" id="chuang-jian-wen-ding-chi-de-bu-zhou"></a>
 
@@ -101,8 +132,10 @@ icon: meteor
 
 **4、为什么我创建失败了？**
 
-* 答：Meteora不支持带有税率的代币，如果您是带有转账税率的Token2022的代币，则创建会失败
+* 答：Meteora不支持带有税率的代币，如果您是带有转账税率的Token2022的代币，则创建会失败。此外，创建仓位的话，钱包内应有不少于0.5个SOL，否则可能因为余额不够导致失败。
 
+**5、创建DLMM稳定池，需要多少费用？**
 
+* 答：第一步创建资金池是不需要费用的，创建仓位需要将近0.4SOL的费用。
 
 如果您对创建Meteora DLMM资金池还有其他的问题，可以加入我们的Telegram交流群：[https://t.me/pandatool](https://t.me/pandatool)
