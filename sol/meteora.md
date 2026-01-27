@@ -114,7 +114,43 @@ icon: meteor
 
 <figure><img src="../.gitbook/assets/12 交易代币.png" alt=""><figcaption></figcaption></figure>
 
-可以发现，0.1USDT购买0.0999个代币，价格基本稳定在1USDT，浮动在万分之一左右，可以忽略不计，稳定性很高。
+可以发现，0.1USDT购买0.0999个代币，价格基本稳定在1USDT，浮动在万分之一左右，可以忽略不计，稳定性很高。兑换完成之后，可以看到池子里面的代币金额相应发生了变化
+
+<figure><img src="../.gitbook/assets/13兑换完成.png" alt=""><figcaption></figcaption></figure>
+
+#### 5、管理流动性 <a href="#id-1-da-kai-pandantool-bing-lian-jie-qian-bao" id="id-1-da-kai-pandantool-bing-lian-jie-qian-bao"></a>
+
+当我们成功创建流动性仓位以后，接下来可以进行多项操作管理，包括增加流动性、移除流动性、关闭流动性仓位以及领取奖励等，下面给大家一一说明
+
+**1）增加流动性**
+
+顾名思义，增加流动性就是往池子里添加代币，使得流动性更大、更充足。我们点击流动性的按钮，可以进入到流动性管理页面
+
+<figure><img src="../.gitbook/assets/14 流动性按钮.png" alt=""><figcaption></figcaption></figure>
+
+之后根据需要填写对应的代币添加数量，钱包确认后，即可增加流动性
+
+<figure><img src="../.gitbook/assets/15 增加流动性.png" alt=""><figcaption></figcaption></figure>
+
+**2）移除流动性**
+
+在同一个页面，点击移除流动性按钮，并选择要移除的比例，钱包确认后即可移除
+
+<figure><img src="../.gitbook/assets/16 移除流动性.png" alt=""><figcaption></figcaption></figure>
+
+**3）领取费用**
+
+这个领取的费用，指的是交易手续费。目前该手续费默认是0.01%，如果该资金池交易数量足够大的话，是可以领取到不少资金的。我们只需要点击领取按钮，会自动弹出钱包进行确认的
+
+<figure><img src="../.gitbook/assets/17领取奖励.png" alt=""><figcaption></figcaption></figure>
+
+**4）关闭流动性**
+
+所谓关闭流动性，指的是完成撤出并将整个仓位关掉。关闭之后，可以获得Meteora退还的0.05SOL左右的创建费用。
+
+具体如何操作呢？我们在移除流动性页面，选择移除100%流动性，然后选择对应的按钮，钱包确认后即可关闭
+
+<figure><img src="../.gitbook/assets/18关闭流动性.png" alt=""><figcaption></figcaption></figure>
 
 ### 创建DLMM稳定池疑问解答 <a href="#chuang-jian-wen-ding-chi-de-bu-zhou" id="chuang-jian-wen-ding-chi-de-bu-zhou"></a>
 
