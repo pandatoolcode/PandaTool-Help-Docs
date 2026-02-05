@@ -23,6 +23,7 @@
 * [创建流动性资金池教程](createtoken/createliquidity.md)
 * [创建稳定币流动池教程](createtoken/createv3.md)
 * [增加/移除流动性资金池教程](createtoken/lpmanage.md)
+* [IDO预售公募创建教程](createtoken/createido.md)
 * [加池开盘并捆绑买入教程](createtoken/createbuy.md)
 * [创建锁池或锁仓教程](createtoken/createlock.md)
 * [解锁池子或代币教程](createtoken/lockmanage.md)
