@@ -21,10 +21,14 @@ icon: square-dollar
 * [x] 创建资金池：0.03BNB
 * [x] 创建资金池并买入：0.02BNB/每个地址
 * [x] 移除/添加流动性池：0.01BNB/次
+* [x] 创建IDO：0.1BNB+2%预售金额
 * [x] 锁池/锁币：0.01BNB/次（解锁免费）
 * [x] Four.meme发币：0.04BNB
 * [x] Four.meme捆绑买入：0.0101BNB/每个地址
 * [x] Four.meme市值管理：买单免费，卖单收取卖出**金额的1%**
+* [x] 标准预售：0.07BNB
+* [x] 加池预售：0.08BNB
+* [x] 捐赠预售：0.09BNB
 
 ## Solana链
 
@@ -50,6 +54,8 @@ icon: square-dollar
 * [x] Solana添加流动性：0.03sol/次
 * [x] Solana移除流动性：0.03\~0.06sol/次
 * [x] Solana燃烧流动性：0.03\~0.06sol/次
+* [x] 创建CLMM流动性：0.231sol
+* [x] 创建Meteora仓位：0.24sol
 * [x] 批量生成钱包：免费
 * [x] 生成靓号钱包：免费
 * [x] ~~Solana预售：0.3sol+0.005/Mint~~ 工具已下线
@@ -73,16 +79,11 @@ icon: square-dollar
 * [x] 底池燃烧：0.45OKB
 * [x] LP挖矿+推荐奖励：0.6OKB
 * [x] 创建预售Mint：0.3\~0.5OKB
+* [x] 创建IDO：0.5okb+2%预售金额
 * [x] 创建资金池：0.1OKB
 * [x] 添加/移除资金池：0.05OKB
 * [x] 创建锁：0.05OKB
 * [x] 解锁：免费
-
-## BSC创建预售
-
-* [x] 标准预售：0.07BNB
-* [x] 加池预售：0.08BNB
-* [x] 捐赠预售：0.09BNB
 
 ## 以太坊ETH
 
@@ -97,6 +98,9 @@ icon: square-dollar
 * [x] 持币暴力分红：0.035ETH
 * [x] 底池燃烧：0.036ETH
 * [x] LP挖矿+推荐奖励：0.04ETH
+* [x] 创建资金池：0.01ETH
+* [x] 创建稳定池：0.015ETH
+* [x] 创建IDO：0.08ETH+2%预售金额
 * [x] 标准预售：0.016ETH
 * [x] 加池预售：0.018ETH
 * [x] 捐赠预售：0.02ETH
@@ -118,6 +122,7 @@ icon: square-dollar
 * [x] 持币暴力分红：0.035ETH
 * [x] 底池燃烧：0.036ETH
 * [x] LP挖矿+推荐奖励：0.04ETH
+* [x] 创建IDO：0.08ETH+2%预售金额
 * [x] 标准预售：0.016ETH
 * [x] 加池预售：0.018ETH
 * [x] 捐赠预售：0.02ETH
@@ -137,7 +142,7 @@ icon: square-dollar
 
 * [x] 标准代币：0.03ETH
 * [x] 分红本币：0.04ETH
-*
+* [x] 创建IDO：0.08ETH+2%预售金额
 
 ## ~~Blast链~~ （不再支持）
 
@@ -145,7 +150,8 @@ icon: square-dollar
 
 ## Polygon马蹄链
 
-* [x] 标准代币：20 POL
+* [x] 标准代币：100 POL
+* [x] 创建IDO：500POL+2%预售金额
 
 ## TON链
 
