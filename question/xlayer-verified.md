@@ -39,25 +39,23 @@ icon: lock-open
 
 接下来，我们需要详细的进行参数配置，同时填入合约源码（大家看好自己的机制，是什么机制的代币，就下载哪个合约）
 
-{% file src="../.gitbook/assets/标准代币-合约源码.txt" %}
+{% file src="../.gitbook/assets/标准代币.txt" %}
 
-{% file src="../.gitbook/assets/分红本币-合约源码.txt" %}
+{% file src="../.gitbook/assets/多功能代币.txt" %}
 
-{% file src="../.gitbook/assets/LP分红-合约源码.txt" %}
+{% file src="../.gitbook/assets/分红本币.txt" %}
 
-{% file src="../.gitbook/assets/LP分红+推荐奖励-合约源码.txt" %}
+{% file src="../.gitbook/assets/LP分红.txt" %}
 
-{% file src="../.gitbook/assets/黑洞分红-合约源码.txt" %}
+{% file src="../.gitbook/assets/LP分红+推荐奖励.txt" %}
 
-{% file src="../.gitbook/assets/314协议-合约源码.txt" %}
+{% file src="../.gitbook/assets/持币暴力分红.txt" %}
 
-{% file src="../.gitbook/assets/持币复利+推荐奖励-合约源码.txt" %}
+{% file src="../.gitbook/assets/持币复利+推荐奖励.txt" %}
 
-{% file src="../.gitbook/assets/Mint+持币暴力分红-合约源码.txt" %}
+{% file src="../.gitbook/assets/底池燃烧.txt" %}
 
-{% file src="../.gitbook/assets/Mint+底池燃烧-合约源码.txt" %}
-
-{% file src="../.gitbook/assets/LP挖矿+推荐奖励-合约源码.txt" %}
+{% file src="../.gitbook/assets/LP挖矿+推荐奖励.txt" %}
 
 * **是否优化：**&#x662F;
 * **优化：**&#x32;00（注意：`持币分红`&#x548C;**`黑洞分红`**，这两个合约的优化数字是**10**，其余200）

@@ -9,7 +9,7 @@ Tornado Cash 也叫龙卷风， 于 2020 年推出，是一个运行在币安链
 
 2022 年 8 月，美国财政部 OFAC 将其列入制裁名单，冻结相关地址，因为它被用于洗钱。 但 2024 年 11 月法院裁决 OFAC 越权，2025 年 3 月 21 日制裁被解除，现在**美国用户可以合法使用Tornado Cash**。
 
-_**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多区块链、更多代币正在开发中。_
+_**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币和**以太坊的**ETH混币**，更多区块链、更多代币正在开发中。_
 
 {% embed url="https://www.youtube.com/watch?v=aNdctXx9oek" %}
 
@@ -117,7 +117,13 @@ _**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多
 
 <figure><img src="../.gitbook/assets/9提款.png" alt=""><figcaption></figcaption></figure>
 
+{% hint style="danger" %}
+**如何一直转圈怎么办？可以尝试更换RPC节点解决**
 
+<img src="../.gitbook/assets/更改RPC1.png" alt="" data-size="original">
+
+<img src="../.gitbook/assets/更改RPC2.png" alt="" data-size="original">
+{% endhint %}
 
 点击**提款**按钮后，再等待1到3分钟，混币器会核对您的凭证，让你再次确认
 
@@ -154,5 +160,13 @@ _**注意：**&#x6DF7;币工具目前只支持币安链的**BNB混币**，更多
 **7、混币器支持哪些区块链和代币？**
 
 * 答：当前，混币器支持以太坊和币安智能链，大家可以根据需要存入ETH和BNB。当前，这两个代币的混币池是最大、最频繁的。更多的公链和混币池，我们也将持续更新和开发
+
+**8、输入凭证和地址后，提款按钮一直转圈，怎么办？**
+
+* 答：主要原因是您的网络与RPC节点不匹配导致的，在设置→更改您的以太坊RPC→选择节点，之后修改一下RPC节点即可
+
+<figure><img src="../.gitbook/assets/更改RPC1.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/更改RPC2.png" alt=""><figcaption></figcaption></figure>
 
 当然，关于混币器如果您还有其他使用问题，可以进入我们的官方电报群了解：[https://t.me/pandatool](https://t.me/pandatool)
