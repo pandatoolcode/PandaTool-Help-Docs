@@ -19,7 +19,7 @@ icon: uniform-martial-arts
 
 那用户为什么要参与IDO呢？主要就是为了可以低价拿到代币。之后等代币正式上线，再高点抛售，从而获取差价利润。
 
-<figure><img src="../.gitbook/assets/一键IDO.jpg" alt=""><figcaption></figcaption></figure>
+{% embed url="https://youtu.be/BlPxHdRZ2jc" %}
 
 ### 3.IDO和Mint预售有什么不同
 
@@ -108,7 +108,7 @@ IDO与Mint是完全不同的运作方式，主要体现在以下几个方面
 
 <figure><img src="../.gitbook/assets/8点击进入IDO.png" alt=""><figcaption></figcaption></figure>
 
-进入之后，我们在右上角连接钱包，然后就能进行参与
+进入之后，我们在右上角连接钱包，然后就能进行参与。案例链接：[https://idocrypto.vercel.app/?contract=0x6Cb6fdB11aeff78C601fa9978e036066667d6b32\&chainid=97](https://idocrypto.vercel.app/?contract=0x6Cb6fdB11aeff78C601fa9978e036066667d6b32\&chainid=97)
 
 <figure><img src="../.gitbook/assets/9 IDO预售网站连接钱包.png" alt=""><figcaption></figcaption></figure>
 
