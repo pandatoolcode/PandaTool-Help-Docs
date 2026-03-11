@@ -108,7 +108,7 @@ IDO与Mint是完全不同的运作方式，主要体现在以下几个方面
 
 <figure><img src="../.gitbook/assets/8点击进入IDO.png" alt=""><figcaption></figcaption></figure>
 
-进入之后，我们在右上角连接钱包，然后就能进行参与。案例链接：[https://idocrypto.vercel.app/?contract=0x6Cb6fdB11aeff78C601fa9978e036066667d6b32\&chainid=97](https://idocrypto.vercel.app/?contract=0x6Cb6fdB11aeff78C601fa9978e036066667d6b32\&chainid=97)
+进入之后，我们在右上角连接钱包，然后就能进行参与。案例链接：[https://unicrypto.vercel.app/ido?contract=0x6Cb6fdB11aeff78C601fa9978e036066667d6b32\&chainid=97](https://unicrypto.vercel.app/ido?contract=0x6Cb6fdB11aeff78C601fa9978e036066667d6b32\&chainid=97)
 
 <figure><img src="../.gitbook/assets/9 IDO预售网站连接钱包.png" alt=""><figcaption></figcaption></figure>
 
