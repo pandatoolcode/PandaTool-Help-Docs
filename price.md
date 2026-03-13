@@ -22,6 +22,7 @@ icon: square-dollar
 * [x] 创建资金池并买入：0.02BNB/每个地址
 * [x] 移除/添加流动性池：0.01BNB/次
 * [x] 创建IDO：0.1BNB+2%预售金额
+* [x] 创建质押挖矿：0.25BNB
 * [x] 锁池/锁币：0.01BNB/次（解锁免费）
 * [x] Four.meme发币：0.04BNB
 * [x] Four.meme捆绑买入：0.0101BNB/每个地址
@@ -34,6 +35,8 @@ icon: square-dollar
 
 * [x] 创建代币：0.1sol
 * [x] 创建税率代币(Token2022)：0.1sol
+* [x] 创建靓号代币：0.15sol
+* [x] 克隆代币：0.1sol
 * [x] 提取Token2022手续费：0.05sol/次
 * [x] PumpFun发币：0.05sol
 * [x] PumpFun捆绑买入：0.05sol/每个地址
