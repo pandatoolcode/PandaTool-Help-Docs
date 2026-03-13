@@ -82,7 +82,8 @@ icon: square-dollar
 * [x] 底池燃烧：0.45OKB
 * [x] LP挖矿+推荐奖励：0.6OKB
 * [x] 创建预售Mint：0.3\~0.5OKB
-* [x] 创建IDO：0.5okb+2%预售金额
+* [x] 创建IDO：0.5OKB+2%预售金额
+* [x] 创建质押挖矿：1OKB
 * [x] 创建资金池：0.1OKB
 * [x] 添加/移除资金池：0.05OKB
 * [x] 创建锁：0.05OKB
@@ -104,6 +105,7 @@ icon: square-dollar
 * [x] 创建资金池：0.01ETH
 * [x] 创建稳定池：0.015ETH
 * [x] 创建IDO：0.08ETH+2%预售金额
+* [x] 创建质押挖矿：0.12ETH
 * [x] 标准预售：0.016ETH
 * [x] 加池预售：0.018ETH
 * [x] 捐赠预售：0.02ETH
@@ -126,6 +128,7 @@ icon: square-dollar
 * [x] 底池燃烧：0.036ETH
 * [x] LP挖矿+推荐奖励：0.04ETH
 * [x] 创建IDO：0.08ETH+2%预售金额
+* [x] 创建质押挖矿：0.12ETH
 * [x] 标准预售：0.016ETH
 * [x] 加池预售：0.018ETH
 * [x] 捐赠预售：0.02ETH
@@ -146,6 +149,7 @@ icon: square-dollar
 * [x] 标准代币：0.03ETH
 * [x] 分红本币：0.04ETH
 * [x] 创建IDO：0.08ETH+2%预售金额
+* [x] 创建质押挖矿：0.12ETH
 
 ## ~~Blast链~~ （不再支持）
 
@@ -155,6 +159,7 @@ icon: square-dollar
 
 * [x] 标准代币：100 POL
 * [x] 创建IDO：500POL+2%预售金额
+* [x] 创建质押挖矿：1200POL
 
 ## TON链
 
