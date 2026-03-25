@@ -30,6 +30,7 @@ icon: square-dollar
 * [x] 标准预售：0.07BNB
 * [x] 加池预售：0.08BNB
 * [x] 捐赠预售：0.09BNB
+* [x] 一键官网：0.18BNB
 
 ## Solana链
 
