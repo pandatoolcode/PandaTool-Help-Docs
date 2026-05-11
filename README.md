@@ -7,21 +7,53 @@ icon: house-circle-check
 
 ## 基本信息
 
-PandaTool是业内领先的Web3.0多链工具平台，旗下拥有小额跨链工具、代币铸造工具、批量转账工具、批量归集工具、交易工具等产品。PandaTool提供可视化的界面，让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。即便不懂编程的小白用户，也能在这里体会到区块链的魅力。目前，PandaTool已经支持Ethereum、BSC、Solana、TRON、BASE、SUI、TON等十多个区块链，未来还将根据用户需求继续融合更多公链。开发更多的功能。
+PandaTool是全网最强一键发币平台、Web3.0多链工具箱，旗下拥有小额跨链工具、代币铸造工具、批量转账工具、DAPP创建工具、批量归集工具、做市工具等产品。
+
+我们致力于通过模块化、可视化的技术方案，消除区块链开发的底层复杂性。依托于全图形化的交互界面，PandaTool让用户能够快速创建、部署和管理自己的加密货币，而无需编写代码。
+
+目前，PandaTool已经支持Ethereum、BSC、Solana、BASE、TRON、BASE、SUI、TON等十多个区块链，未来还将根据用户需求继续融合更多公链，开发更多的功能。
 
 * **EVM工具**：[https://pandatool.org/](https://pandatool.org/) (支持BSC、ETH、Base等）
-* **Solana工具**：[https://solana.pandatool.org/](https://solana.pandatool.org/)
+* **Solana工具**：[https://solana.pandatool.org/create](https://solana.pandatool.org/create)
 * **TON工具**：[https://ton.pandatool.org/](https://ton.pandatool.org/)
 * **Sui工具**：[https://sui.pandatool.org/](https://sui.pandatool.org/)
 * **波场工具**：[https://tron.pandatool.org/](https://tron.pandatool.org/)
 * **跨链工具：**[https://bridge.pandatool.org/](https://bridge.pandatool.org/)
 * **混币工具：**[https://tornado.pandatool.org/](https://tornado.pandatool.org/)
 
-## **为什么选择PandaTool？**
+## **认识PandaTool**
 
-### 1、多链支持
+### 1、资产发行引擎
 
-PandaTool支持多个公链，包括以太坊、币安智能链BSC、Solana链、TRON波场链、SUI链、BASE链、Arb链、Polygon马蹄链等，使得用户可以在不同的公链上创建数字资产，并在PancakeSwap、UniSwap、SushiSwap、QuickSwap、Shadowswap上列出，进而增加了平台的灵活性和可用性。
+PandaTool支持行业内主流的多种代币经济模型，满足不同项目的冷启动以及代币发射需求：
+
+* **基础型代币：** ERC20/TRC20/BEP20等标准化协议，快速部署，适配主流交易所逻辑。
+* **分红/挖矿型：** 内置复杂的合约逻辑，如果持币分红、LP分红等，支持持有代币获得主流币分红或流动性激励，增强持币信心。
+* **通缩与回流机制：** 支持燃烧、回流流动性池等参数化设置，赋能代币经济学。
+* **复利/燃烧机制：**&#x652F;持持币复利、底池燃烧等特殊功能，增强代币的价值与意义。
+
+### 2、全链生态版图
+
+PandaTool 始终走在多链、多平台趋势的最前沿，目前已深度适配并支持以下生态系统：
+
+* **EVM 兼容生态：** Ethereum, BSC (BNB Chain), Base, Arbitrum, Polygon, Avalanche 等。
+* **非 EVM 创新生态：** Solana (高性能公链)、TON (Telegram 生态)、SUI (Move 语言生态)、TRON (波场) 等。
+* **DEX生态：**&#x50;ancakeSwap、Uniswap、SunSwap、Raydium、Metaora、Cetus等。
+* **钱包生态：**&#x4D;etamask、OKX Wallet、TokenPocket、TronLink、Pantom、Tonkeeper等。4
+* **Meme发射生态：**&#x50;umpFun、BonkFun、Four.meme等等
+
+### 3、高效运维套件
+
+针对项目方与重度用户的痛点，PandaTool提供高频工具集成：
+
+* **批量操作：** 批量转账（AirDrop）、批量归集工具，批量生成钱包等，极大提升运营效率。
+* **代币管理：** 代币铸造（Mint）、权限丢弃、锁仓/锁池、流动性创建/添加/移除管理。
+* **做市辅助：** 专业级市值管理工具，支持批量交易、买卖刷单等，助力项目方优化流动性深度与盘面表现。
+*
+
+### 4、高
+
+
 
 ### 2、多样化机制
 
