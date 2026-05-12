@@ -20,6 +20,7 @@ icon: square-dollar
 * [x] LP挖矿+推荐奖励：0.2BNB
 * [x] 创建资金池：0.03BNB
 * [x] 创建资金池并买入：0.02BNB/每个地址
+* [x] 创建稳定池：0.035BNB
 * [x] 移除/添加流动性池：0.01BNB/次
 * [x] 创建IDO：0.1BNB+2%预售金额
 * [x] 创建质押挖矿：0.25BNB
@@ -27,9 +28,9 @@ icon: square-dollar
 * [x] Four.meme发币：0.04BNB
 * [x] Four.meme捆绑买入：0.0101BNB/每个地址
 * [x] Four.meme市值管理：买单免费，卖单收取卖出**金额的1%**
-* [x] 标准预售：0.07BNB
-* [x] 加池预售：0.08BNB
-* [x] 捐赠预售：0.09BNB
+* [x] 标准Mint：0.07BNB
+* [x] 加池Mint：0.08BNB
+* [x] 捐赠Mint：0.09BNB
 * [x] 一键官网：0.18BNB
 
 ## Solana链
@@ -186,6 +187,8 @@ icon: square-dollar
 
 * [x] 代币发行：600TRX
 * [x] 批量转账：每次20TRX
+* [x] 创建流动性池：200TRX
+* [x] 添加/移除流动性：100TRX
 
 ## 批量转账
 

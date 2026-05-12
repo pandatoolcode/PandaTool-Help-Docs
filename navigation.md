@@ -19,6 +19,8 @@ icon: location-arrow
 
 **小额跨链工具：**[https://bridge.pandatool.org/](https://bridge.pandatool.org/)
 
+**混币工具：**[**https://tornado.pandatool.org/**](https://tornado.pandatool.org/)
+
 **交流群**: [https://t.me/pandatool](https://t.me/pandatool)
 
 ### 代币模板/机制

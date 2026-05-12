@@ -27,33 +27,43 @@ YouTub教程
 
 首先，在小狐狸钱包里选择自己要发行代币的链，并切换到所在链。例如我要在币安链发行代币，就切换到币安链上，如下图所示
 
-<figure><img src="../.gitbook/assets/小狐狸切换BNB (1).png" alt=""><figcaption><p>钱包链切换</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1钱包切换链.png" alt=""><figcaption></figcaption></figure>
 
 如果要在Base发币，就切换到Base链。要在以太坊发币，就切换到ETH链，这里就不演示了。
 
-链切换好之后，打开发币页面：[https://pandatool.org/#/coinrelease/holdReflection](https://pandatool.org/#/coinrelease/holdReflection)点击右上角连接钱包
+链切换好之后，打开发币页面：[https://www.pandatool.org/zh-CN/coinrelease/holdreflection](https://www.pandatool.org/zh-CN/coinrelease/holdreflection) 点击右上角连接钱包
 
-<figure><img src="../.gitbook/assets/连接钱包 (1).png" alt=""><figcaption><p>连接钱包</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2链接钱包 (1).png" alt=""><figcaption></figcaption></figure>
 
-之后会弹出小狐狸让你确认要连接的钱包地址
+钱包连接成功后，在发币页面的右上角，会看到你的`链名称`和`钱包地址`，这就算完成了
 
-<figure><img src="../.gitbook/assets/分红本币.png" alt=""><figcaption><p>选择地址</p></figcaption></figure>
-
-点击下一步并确认之后，就会连接成功了。在发币页面的右上角，会看到你的`链名称`和`钱包地址`，这就算完成了
-
-<figure><img src="../.gitbook/assets/分红本币钱包名称.png" alt=""><figcaption><p>钱包连接成功</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3连接成功.png" alt=""><figcaption></figcaption></figure>
 
 ## 3、参数说明
 
-成功连接钱包后，我们在发币页面填写相应的参数 [https://pandatool.org/#/coinrelease/holdReflection](https://pandatool.org/#/coinrelease/holdReflection)：
+成功连接钱包后，我们在发币页面填写相应的参数 [https://www.pandatool.org/zh-CN/coinrelease/holdrefothers](https://www.pandatool.org/zh-CN/coinrelease/holdrefothers)：
 
-<figure><img src="../.gitbook/assets/持币分红.png" alt=""><figcaption></figcaption></figure>
+### **1）基础信息**
+
+<figure><img src="../.gitbook/assets/4基础信息.png" alt=""><figcaption></figcaption></figure>
 
 * [x] **代币全称** : 代币的名称信息，如Ethereum（支持中文、英文以及中英混合文字）
 * [x] **代币符号** : 也就是代币简称，如ETH。通常就是`看K软件` `薄饼` `钱包`中显示的那个名称
 * [x] **发行量 :** 代币发行的总供应量,无法增发,固定发行,如果总量过多的话,需要降低精度
 * [x] **精度** : 代表币的小数位数如：0.000001代表精度为6。一般默认是18
 * [x] **收币地址：**&#x4EE3;币创建成功后，给到哪个地址（接收代币的地址）
+
+### **2）交易设置**
+
+<figure><img src="../.gitbook/assets/5交易设置 (1).png" alt=""><figcaption></figcaption></figure>
+
+* [x] **交易所 :** BSC链默认是PancakeSwap、ETH/Base默认是Uniswap
+* [x] **配对币种：**&#x7528;于做底池的代币，通常是BNB、ETH、USDT、USDC等主流价值币
+
+### **3）**&#x7A0E;率设置
+
+<figure><img src="../.gitbook/assets/6税率设置.png" alt=""><figcaption></figcaption></figure>
+
 * [x] **买入税率** (不需要的部分填0，总比例小于25%)
   * **营销税率** : 每笔买入都会扣除对应比例本币发送到你的`营销钱包`地址
   * **分红税率** : 每笔买入都会扣除对应比例的本币分给所有`持币地址`
@@ -66,10 +76,6 @@ YouTub教程
   * **回流税率** : 每笔卖入都会扣除对应比例代币送进`资金池`
 * [x] **营销钱包：**
   * 用来接收营销税率的钱包，接受的是本币
-* [x] **选择交易所：**
-  * 不同的链会有不同的交易平台（如ETH链有uniswap,BSC链有pancakeSwap 等）。选择什么交易所，就去那里添加流动性。搞错了会导致机制无法执行，请注意
-* [x] **选择底池代币** :
-  * 支持选择`BNB` `USDT`等池子，多样化选择。选择哪种底池代币，就必须做哪种池子，才能保证交易机制的顺利进行
 
 ## 4、注意事项
 

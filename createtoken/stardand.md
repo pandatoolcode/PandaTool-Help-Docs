@@ -19,33 +19,43 @@ BSC链代币创建教程视频
 
 ## 2、连接钱包
 
-使用浏览器或者钱包打开网址：[https://pandatool.org/#/coinrelease/stardand](https://pandatool.org/#/coinrelease/stardand)，点击右上角，将小狐狸钱包切换到币安主网（BSC）
+使用浏览器或者钱包打开网址：[https://www.pandatool.org/zh-CN/coinrelease/standard](https://www.pandatool.org/zh-CN/coinrelease/standard)，点击右上角，将小狐狸钱包切换到币安主网（BSC）
 
-<figure><img src="../.gitbook/assets/微信截图_20240117222904.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.连接钱包.png" alt=""><figcaption></figcaption></figure>
 
 ## 3、填写代币参数
 
 在打开的页面，依次填写代币信息。假设我们创建一个代币叫——“PandaTool”，应该进行如下填写：
 
-* **代币名称：**&#x50;andaTool（代币全称，支持中文、英文以及中英混合文字）
-* **代币符号：**&#x50;anda（代币简称，支持中文、英文以及中英混合文字）
+* **代币全称：**&#x50;andaTool（代币名称，支持中文、英文以及中英混合文字）
+* **代币简称：**&#x50;anda（代币符号，支持中文、英文以及中英混合文字）
 * **发行量：**&#x31;0000（代币数量）
 * **精度：**&#x31;8（小数点后的位数）
 * **收币地址：**&#x521B;建代币后接受代币的地址（代币给到谁）
 
-<figure><img src="../.gitbook/assets/发币页面.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2代币参数.png" alt=""><figcaption></figcaption></figure>
 
 ## 4、创建合约
 
-确认填写的参数无误后，点击“创建合约”。在打开的页面，将源代码和构造参数复制下来，以防万一：
+确认填写的参数无误后，点击“创建合约”。如果没有问题，会提示您“参数校验通过”，并给出预计生成的合约地址
 
-<figure><img src="../.gitbook/assets/开源参数.png" alt=""><figcaption><p>开源参数复制</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3创建合约.png" alt=""><figcaption></figcaption></figure>
 
-复制之后，再次点击“创建合约”。此时小狐狸钱包会要求你支gas费，点击确认，等待几十秒，合约就创建完成了。
+这个时候，您需要确认钱包内是否有足够的代币作为手续费，如BNB/ETH等等。如果手续费不足，可能会导致创建失败。
 
-此时，我们点击`控制台`，就能看到自己创建的合约了，代币也已经发送到创建者的钱包地址里。
+一切信息无误后，我们点击“确认创建”，此时会弹出钱包让您支付费用。钱包确认后，就可以了
 
-<figure><img src="../.gitbook/assets/进入控制台.png" alt=""><figcaption><p>进入控制台</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/钱包确认.png" alt=""><figcaption></figcaption></figure>
+
+此时，我们点击`控制台`，就能看到自己创建的合约了，代币也已经发送到收币钱包地址里了。
+
+<figure><img src="../.gitbook/assets/5进入控制台.png" alt=""><figcaption></figcaption></figure>
+
+如果现在不点击进入控制台，以后我该怎么找自己的合约呢？我们可以通过控制台列表进入：[https://www.pandatool.org/zh-CN/coinrelease/console](https://www.pandatool.org/zh-CN/coinrelease/console)
+
+<figure><img src="../.gitbook/assets/6控制台列表.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/7控制台.png" alt=""><figcaption></figcaption></figure>
 
 ## 5、添加流动性
 
@@ -53,69 +63,66 @@ BSC链代币创建教程视频
 
 ### **1）进入PandaTool并连接钱包**
 
-我们进入到PandaTool创建资金池工具的网页：[https://www.pandatool.org/#/createliquidity?lang=zh-CN](https://www.pandatool.org/#/createliquidity?lang=zh-CN) 然后在右上角点击连接钱包
+我们进入到PandaTool创建资金池工具的页面：  [https://www.pandatool.org/zh-CN/liquidity/createv2](https://www.pandatool.org/zh-CN/liquidity/createv2)  然后和发币一样，右上角选择钱包与区块链。
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FPbbxvTJpKvA77TCQ9Tqg%252F1.%25E8%25BF%259E%25E6%258E%25A5%25E9%2592%25B1%25E5%258C%2585.png%3Falt%3Dmedia%26token%3D8dd6bd7f-1a0a-48c6-9946-129526d05c60&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=86bf2953&#x26;sv=2" alt=""><figcaption></figcaption></figure>
-
-此时会跳出Metamask或者OKX Web3钱包，点击确认，即可完成连接。钱包连接成功后，会在右上角看到你的钱包地址。
-
-如果你希望在BSC链创建资金池，就将区块链切换到BSC。如果是希望在以太坊上创建资金池，就将区块链切换到ETH即可
-
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252F1w5qQjQSljaqv4Dbi0Tk%252F2.%25E8%25BF%259E%25E6%258E%25A5%25E6%2588%2590%25E5%258A%259F.png%3Falt%3Dmedia%26token%3Daa876443-0773-451e-90d8-e8643228e373&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=26ac03ef&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8流动性选择钱包.png" alt=""><figcaption></figcaption></figure>
 
 ### **2）选择代币** <a href="#id-2-xuan-ze-dai-bi" id="id-2-xuan-ze-dai-bi"></a>
 
-连接钱包后，我们需要选择加池类型和代币
+连接钱包后，我们需要选择交易所与代币
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FZT8rDfyfi6Jtfuj2gjiu%252F3%25E9%2580%2589%25E6%258B%25A9%25E4%25BB%25A3%25E5%25B8%2581.png%3Falt%3Dmedia%26token%3Dcb02c7a2-e16f-4009-b50e-0f9111029d9e&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=763a79b3&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9选择交易所与代币.png" alt=""><figcaption></figcaption></figure>
 
-* **加池类型：**&#x9ED8;认用V2，稳定池加V3
-* **底池代币：**&#x4EA4;易对价值代币，如USDT、BNB等
-* **代币地址：**&#x60A8;创建的代币合约地址
+* **交易所：**&#x42;SC链就算PancakeV2、ETH/BASE链就是UniswapV2
+* **底池代币：**&#x5C31;是价值代币，像BNB、ETH、USDT、USDC这种
+* **加池代币地址：**&#x60A8;创建的代币合约地址
 
-填写好之后，点&#x51FB;**`查询代币`** ，正常来说会提示你：**代币正常，请填写加池数量**
+填写好之后，点&#x51FB;**`查询代币`** ，正常来说会提示你：**代币正常**
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FOGrX5fvZTzORDK0dCJoc%252F4%25E5%258A%25A0%25E6%25B1%25A0%25E6%2595%25B0%25E9%2587%258F.png%3Falt%3Dmedia%26token%3D5b86d10f-a099-423c-9c5a-3b10cbd5db74&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cc26fa49&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10查询代币.png" alt=""><figcaption></figcaption></figure>
 
 ### **3）填写加池数量** <a href="#id-3-tian-xie-jia-chi-shu-liang" id="id-3-tian-xie-jia-chi-shu-liang"></a>
 
 确定好两种代币后，接下来就是填写代币数量了（加池数量不能超过自己钱包里的数量）
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FhSAXnwjXJmMKZk7CpF4M%252F5%25E5%258A%25A0%25E6%25B1%25A0%25E6%2595%25B0%25E9%2587%258F2.png%3Falt%3Dmedia%26token%3D1c72c1bb-7067-430b-962d-e29629f038be&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=dd7453e&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11填写加池数量.png" alt=""><figcaption></figcaption></figure>
 
-* **Panda：**&#x6211;创建的代币，填写10000枚，表示将10000个Panda代币放入资金池中
+* **PD：**&#x6211;创建的代币，填写1000000枚，表示将1000000个PD代币放入资金池中
 * **USDT：**&#x6211;选择的价值嗲比，填写10000，表示将10000个USDT放入资金池中
 
-**预估价格：**&#x50;anda代币的初始价格是1USDT（用10000除以10000得到价格是1）。如果Panda放1000个，USDT放10000个，那么预估初始价格就是10U，以此类推
+**预估价格：**&#x50;D代币的初始价格是1USDT（用1000000除以1000000得到价格是1）。如果PD放1000个，USDT放10000个，那么预估初始价格就是10U，以此类推
 
 ### **4）代币授权** <a href="#id-4-dai-bi-shou-quan" id="id-4-dai-bi-shou-quan"></a>
 
 当我们确定好加池的代币和数量之后，就需要钱包授权了。也就是说，你要将代币授权给路由合约，然后路由合约会帮助你完成加池操作。
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FGeMSQ6p44y64PFQG5fqt%252F6%25E4%25BB%25A3%25E5%25B8%2581%25E6%258E%2588%25E6%259D%2583.png%3Falt%3Dmedia%26token%3Db5b2fa56-45ea-4bc1-9248-9e70c1e52ed6&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=69773d02&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12代币授权.png" alt=""><figcaption></figcaption></figure>
 
 我们需要分别对两种代币进行授权（如果是BNB或者ETH，则无需授权），此时会跳出钱包进行确认
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252Fl3i0OVoKNWffqozv82tY%252F7%25E6%258E%2588%25E6%259D%2583%25E6%258F%2590%25E7%25A4%25BA.png%3Falt%3Dmedia%26token%3D5ec2687f-4bb1-44a1-9871-ae8c80242a8c&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=a2195cc2&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/13授权钱包确认.png" alt=""><figcaption></figcaption></figure>
 
 当两种代币都授权成功后，会看到以下提示
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FLKkMqMVD4wCBNKM9nM1w%252F8%25E5%25B7%25B2%25E6%258E%2588%25E6%259D%2583.png%3Falt%3Dmedia%26token%3D8d3da2d0-d36c-4996-8dbd-22f886141257&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=e7da7db8&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/14授权成功.png" alt=""><figcaption></figcaption></figure>
 
 ### **5）创建资金池** <a href="#id-5-chuang-jian-zi-jin-chi" id="id-5-chuang-jian-zi-jin-chi"></a>
 
-代币授权完成后，就是创建资金池了。点击“立即加池”按钮，跳出钱包进行确认
+代币授权完成后，就是创建资金池了。确认信息无误后，点击“立即加池”按钮，跳出钱包进行确认
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FE0nEZBS7LZZrNXaJY62g%252F10%25E5%258A%25A0%25E6%25B1%25A0%25E6%258F%2590%25E7%25A4%25BA.png%3Falt%3Dmedia%26token%3Dcffe5b72-d29f-4e7b-acd0-311e2794d90b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=997908b5&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/15立即加池.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FguRrJDgzgmpDwW7YPUAc%252F9%25E7%25AB%258B%25E5%258D%25B3%25E5%258A%25A0%25E6%25B1%25A0.png%3Falt%3Dmedia%26token%3D20531d92-8579-4058-bee5-c1d71ed4fd9b&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=cc14d5c9&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+钱包确认后等待几秒钟，即可完成创建资金池的操作，然后会提示你进入管理后台
 
-钱包确认后等待几秒钟，即可完成创建资金池的操作
+<figure><img src="../.gitbook/assets/17加池成功.png" alt=""><figcaption></figcaption></figure>
+
+当然，如果你没有来得及点击按钮，后期也可以通过流动性控制台来查看创建的资金池：[https://www.pandatool.org/zh-CN/liquidity/lpmanage](https://www.pandatool.org/zh-CN/liquidity/lpmanage)
 
 ## 注意事项
 
 * 代币创建完成后，默认是开源的，无需手动开源。
 * 代币名称支持中文、英文以及中英混合文字
+* 代币创建成功后，不可修改代币名称、数量等参数
 * 如果您要在测试网添加USDT交易对，请使用PandaTool官方发布的测试USDT做资金池，合约地址：0x66e972502a34a625828c544a1914e8d8cc2a9de5
 
 如果您有任何关于发币的问题，均可以在Telegram群里咨询我们的志愿者：[https://t.me/pandatool](https://t.me/pandatool)

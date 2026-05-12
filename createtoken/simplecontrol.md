@@ -29,7 +29,7 @@ icon: square-3
 
 成功连接钱包后，我们在发币页面填写相应的参数 [https://pandatool.org/#/coinrelease/simpleControl?lang=zh-CN](https://pandatool.org/#/coinrelease/simpleControl?lang=zh-CN)：
 
-<figure><img src="../.gitbook/assets/2代币参数.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2代币参数 (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **代币全称** : 代币的名称信息，如Ethereum（支持中文、英文以及中英混合文字）
 * [x] **代币符号** : 也就是代币简称，如ETH。通常就是`看K软件` `薄饼` `钱包`中显示的那个名称

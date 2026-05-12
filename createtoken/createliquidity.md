@@ -60,7 +60,7 @@ PancakeSwap、Uniswap都有V2和V3两个协议，其实很好区分
 
 此时我们进入到PandaTool创建资金池工具的网页：[https://www.pandatool.org/#/createliquidity?lang=zh-CN](https://www.pandatool.org/#/createliquidity?lang=zh-CN)  然后在右上角点击连接钱包
 
-<figure><img src="../.gitbook/assets/1.连接钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1.连接钱包 (1).png" alt=""><figcaption></figcaption></figure>
 
 此时会跳出Metamask或者OKX Web3钱包，点击确认，即可完成连接。钱包连接成功后，会在右上角看到你的钱包地址。
 
