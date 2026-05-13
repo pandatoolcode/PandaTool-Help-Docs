@@ -29,34 +29,46 @@ LP分红指的是，用户在去中心化交易所（如薄饼swap）添加流�
 
 首先，在小狐狸钱包里选择自己要发行代币的链，并切换到所在链。例如我要在币安链发行代币，就切换到币安链上，如下图所示
 
-<figure><img src="../.gitbook/assets/小狐狸切换BNB.png" alt=""><figcaption><p>选择链</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1钱包切换链.png" alt=""><figcaption></figcaption></figure>
 
 如果要在Base发币，就切换到Base链。要在以太坊发币，就切换到ETH链，这里就不演示了。
 
-链切换好之后，打开发币页面：[https://pandatool.org/#/coinrelease/LPReflection](https://pandatool.org/#/coinrelease/LPReflection)点击右上角连接钱包
+链切换好之后，打开发币页面：[https://www.pandatool.org/zh-CN/coinrelease/lpreflection](https://www.pandatool.org/zh-CN/coinrelease/lpreflection)  点击右上角连接钱包
 
-<figure><img src="../.gitbook/assets/钱包连接.png" alt=""><figcaption><p>选择钱包</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2链接钱包 (3).png" alt=""><figcaption></figcaption></figure>
 
-之后会弹出小狐狸让你确认要连接的钱包地址
+之后会弹出小狐狸让你确认要连接的钱包地址，点击下一步并确认之后，就会连接成功了。在发币页面的右上角，会看到你的`链名称`和`钱包地址`，这就算完成了
 
-<figure><img src="../.gitbook/assets/LP分红链钱包.png" alt=""><figcaption><p>选择钱包地址</p></figcaption></figure>
-
-点击下一步并确认之后，就会连接成功了。在发币页面的右上角，会看到你的`链名称`和`钱包地址`，这就算完成了
-
-<figure><img src="../.gitbook/assets/lp分红链名称.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3连接成功.png" alt=""><figcaption></figcaption></figure>
 
 ## 3、参数说明
 
-成功连接钱包后，我们在发币页面填写相应的参数[https://pandatool.org/#/coinrelease/LPReflection](https://pandatool.org/#/coinrelease/LPReflection)：
+成功连接钱包后，我们在发币页面填写相应的参数 [https://www.pandatool.org/zh-CN/coinrelease/lpreflection](https://www.pandatool.org/zh-CN/coinrelease/lpreflection)：
 
-<figure><img src="../.gitbook/assets/LP分红.png" alt=""><figcaption></figcaption></figure>
+### **1）基础信息**
+
+<figure><img src="../.gitbook/assets/1基础信息 (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **代币全称** : 代币的名称信息，如Ethereum（支持中文、英文以及中英混合文字）
-* [x] **代币符号** : 也就是代币简称，如ETH。通常就是`看K软件` `薄饼` `钱包`中显示的那个名称
+* [x] **代币简称** : 也就是代币符号，如ETH。通常就是`看K软件` `薄饼` `钱包`中显示的那个名称
 * [x] **发行量 :** 代币发行的总供应量,无法增发,固定发行,如果总量过多的话,需要降低精度
 * [x] **精度** : 代表币的小数位数如：0.000001代表精度为6。一般默认是18
 * [x] **收币地址：**&#x4EE3;币创建成功后接受代币的地址（该地址默认是白名单）
+
+### **2）交易设置**
+
+<figure><img src="../.gitbook/assets/2交易设置.png" alt=""><figcaption></figcaption></figure>
+
+* [x] **选择交易所：**
+  * 不同的链会有不同的交易平台（如ETH链有uniswap,BSC链有pancakeSwap 等）。选择什么交易所，就去那里添加流动性。搞错了会导致机制无法执行，请注意
+* [x] **配对币种** :
+  * 支持选择`BNB` `USDT`等池子，多样化选择
 * [x] **分红代币** : 自行选择要分红的代币，将该代币合约地址填入即可。注意，**选择的分红代币必须在有BNB的交易对**，可以正常买卖的。如果该代币流动性过低或者没有BNB交易对，很可能无法分红。因此，一般建议选择流动性好的主流币。
+
+### **3）税率设置**
+
+<figure><img src="../.gitbook/assets/2-5税率设置.png" alt=""><figcaption></figcaption></figure>
+
 * [x] **买入税率** (不需要的部分不能填空，必须填0/总比例小于25%):
   * **营销税率** : 每笔买入都会扣除对应比例代币送进`合约地址`,在**触发阈值**时会自动**卖出**换成`USDT`(这取决于池子类型，底池是什么币营销钱包就进什么) 发送到你的营销钱包地址
   * **分红税率** : 每笔买入都会扣除对应比例代币送进`合约地址`,在**触发阈值**时会自动**卖出**成`USDT`(取决于你的分红代币)发放给持有LP的用户
@@ -66,16 +78,12 @@ LP分红指的是，用户在去中心化交易所（如薄饼swap）添加流�
   * 这部分跟买入税率解释一样
 * [x] **营销钱包：**
   * 用来接收营销税率以及回流LP的钱包，默认白名单；如果底池是USDT池子，就获得USDT。如果底池是BNB池子，就获得BNB
-* [x] **选择交易所：**
-  * 不同的链会有不同的交易平台（如ETH链有uniswap,BSC链有pancakeSwap 等）。选择什么交易所，就去那里添加流动性。搞错了会导致机制无法执行，请注意
-* [x] **选择底池代币** :
-  * 支持选择`BNB` `USDT`等池子，多样化选择
 
-## 4、开关说明
+## 4、高级功能
 
-下面是对代币功能开关的说明与解释：
+填写完所有代币基础参数以及税率后，就需要选择高级功能了
 
-<figure><img src="../.gitbook/assets/lp分红开关.png" alt=""><figcaption><p>交易开关</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/3高级功能.png" alt=""><figcaption></figcaption></figure>
 
 * [x] **手动开启交易**
   * **选它** : 需要在控制台打开交易开关,才能够交易（与加池子）,并且打开后无法重新关闭
@@ -84,13 +92,12 @@ LP分红指的是，用户在去中心化交易所（如薄饼swap）添加流�
 * [x] **杀区块**
   * **选它** : 用于防止机器人抢跑买入,杀3区块意思就是前3区块(bsc大概9秒)买入的地址自动拉黑
   * **不选** : 无法使用该功能，后期也不能再开启该功能
-* [x] **税率开关**
-  * **选它** : 创建代币后手动调整税率, 买卖税率各小于25%
+* [x] **可修改税率**
+  * **选它** : 创建代币后手动调整修改税率, 买卖税率各小于25%
   * **不选** : 创建代币后无法再修改滑点，后期也不能再开启该功能
 * [x] **自动空投**
   * **选它** : 每笔交易都会自动向随机地址空投小额代币,以增加持币效果,最多可空投5个地址
   * **不选** : 无法使用该功能
-  * 该功能开启后**不可关闭**
   * 只有非白名单地址**交易**才能触发空投，转账不空投
 * [x] **黑名单功能**
   * **选它** : 能够`添加`和`解除`黑名单。被拉入黑名单的地址将无法卖出代币，也不能转账，该功能慎用
@@ -101,9 +108,9 @@ LP分红指的是，用户在去中心化交易所（如薄饼swap）添加流�
 
 ## 5、控制台使用说明
 
-当我们成功发行代币后，可进入控制台，对代币的各项功能进行管理。我们打开[https://pandatool.org/#/coinrelease/console](https://pandatool.org/#/coinrelease/console)修改下列功能：
+当我们成功发行代币后，可进入控制台，对代币的各项功能进行管理。我们打开[https://www.pandatool.org/zh-CN/coinrelease/console](https://www.pandatool.org/zh-CN/coinrelease/console)  修改下列功能：
 
-<figure><img src="../.gitbook/assets/控制台 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4权限与流动性控制.png" alt=""><figcaption></figcaption></figure>
 
 * [x] **权限控制**
   * **转让所有权** : 将合约权限转让给其他人（转移权限之前，**记得复制控制台链接**。新的权限地址必须通过控制台链接，才能进入控制台操作）
@@ -112,23 +119,30 @@ LP分红指的是，用户在去中心化交易所（如薄饼swap）添加流�
   * **设置加池税率**: 用户加池子默认不收手续费，可以手动设置最高小于25%的手续费。注意，_**如果选择BNB底池，则需用WBNB加池子，方可没有手续费**_**（**&#x52A0;池子的税率会给&#x5230;**`合约地址`）**
   * **设置撤池税率** : 用户撤池子默认不收手续费，可以手动设置**最高100%**&#x7684;手续费。注意，_**如果选择BNB底池，则需用wBNB撤池子，方可没有手续费。**_**（**&#x64A4;池子的税率&#x4F1A;**`直接销毁`）**
   * **方向问题：**&#x4E0D;管是USDT池子还是BNB池子，不管是加池子还是撤池子，**方向都要正确**，即：BNB/USDT在前面或上面，代币在后面或者下面。如果方向不正确，税率可能不生效
-* [x] **交易控制**
-  * **允许用户添加流动性：**&#x5F00;启后，非白名单地址可以加池，但不能撤池
+  * **允许用户添加流动性：**&#x5F00;启后，非白名单地址可以加池，但不能撤池。开启前，除项目方，任何地址均不可以加池
   * **开启交易** : 打开后，非白名单用户才能交易、加池子撤池子，开启后不能关闭
+
+<figure><img src="../.gitbook/assets/5交易控制‘’.png" alt=""><figcaption></figcaption></figure>
+
+* [x] **交易控制**
   * **修改持币上限：**&#x63D0;高或降低持币数量限制
-  * **关闭持币限制：**&#x653E;弃使用该功能，即所有地址没有限制
+  * **禁用持币限制：**&#x653E;弃使用该功能，即所有地址没有限制
   * **设置持币白名单：**&#x8BBE;置后，该白名单地址没有持币限制，白名单也可以移除
-  * **设置黑名单：**&#x53EF;以批量添加或者移除黑名单，黑名单地址能进不能出（无法转账或卖币）
-  * **杀开盘抢跑机器人：**&#x4E3B;要是修改抢跑区块，适用于未开盘项目
+  * **设置杀抢跑区块：**&#x4E3B;要是修改抢跑区块数，以用来杀机器人，适用于未开盘项目
   * **设置空投数量：**&#x6BCF;笔交易空投地址数，最大为5
+  * **禁用空投：**&#x70B9;击确认后，空投功能关闭，代币转账或交易均不会空投
+  * **设置黑名单：**&#x53EF;以批量添加或者移除黑名单，黑名单地址能进不能出（无法转账或卖币）
+
+<figure><img src="../.gitbook/assets/6税率控制.png" alt=""><figcaption></figcaption></figure>
+
 * [x] **税率控制**
   * **修改税率**：可分别修改回流、营销、分红、销毁税率，相加小于25%
-  * **设置税率白名单：**&#x767D;名单交易没有税率；可以开盘前进行交易/加撤池，且交易不会产生空投
   * **修改营销钱包：**&#x66F4;改合约的营销钱包地址，该地址默认白名单
-* [x] **分红控制**
-  * **提取合约分红代币** : 将合约地址内遗留的未分发的分红代币提出
+  * **设置税率白名单：**&#x767D;名单交易没有税率；可以开盘前进行交易/加撤池，且交易不会产生空投
+  * 禁用修改税率：该功能点击后，将无法再修改税率
   * **设置分红黑名单** : 设置后该地址将无法获得LP分红，但可以撤池子
-  * **设置分红阈值：**&#x5F53;分红钱包内的分红代币数量超过该值时, 开始分红, 默认为0.1个分红代币, 设置的过高可能会导致长时间无分红, **强烈建议新用户不要修改此选项**
+* [x] **代币控制**
+  * **提取合约内代币** : 将合约地址内遗留的未分发的分红代币提出
 
 ## 6、注意事项
 
@@ -146,7 +160,7 @@ LP分红指的是，用户在去中心化交易所（如薄饼swap）添加流�
 * [x] **权限转移后，新地址怎么进入控制台？**
   * 转移权限之前，需要先复制控制台链接（在控制台上方能看到`复制链接`的按钮）。当权限转移后，新的权限地址使用控制台链接，就可以进入控制台操作
 
-<figure><img src="../.gitbook/assets/LP分红复制控制台.png" alt=""><figcaption><p>复制控制台链接</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/7控制台链‘’.png" alt=""><figcaption></figcaption></figure>
 
 *   [x] **加/撤池子手续费问题**
 
@@ -163,4 +177,4 @@ LP分红指的是，用户在去中心化交易所（如薄饼swap）添加流�
     * 测试网薄饼：[https://pancakeswap.finance/swap?chain=bscTestnet](https://pancakeswap.finance/swap?chain=bscTestnet)
     * 测试网USDT：0x66e972502a34a625828c544a1914e8d8cc2a9de5
 
-如有不明白或者不清楚的地方，请加入官方电报群：[@PandaTool](https://t.me/PandaTool)
+针对LP分红代币合约，如有不明白或者不清楚的地方，请加入官方电报群：[@PandaTool](https://t.me/PandaTool)

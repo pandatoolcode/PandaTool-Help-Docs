@@ -33,7 +33,7 @@ icon: shuffle
 
 第一步，我们需要选择基础的信息，包括链、代币等：
 
-<figure><img src="../.gitbook/assets/1基础信息.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1基础信息 (2).png" alt=""><figcaption></figcaption></figure>
 
 * **选择链：**&#x9009;择您要交易的区块链，目标代币在哪条链，就选择哪条链
 * **交易所：**&#x9009;择您创建的资金池类型，主要是V2和V3的区别

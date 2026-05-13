@@ -34,21 +34,17 @@ LP分红+推荐奖励一键发币视频教程：
 
 首先，在小狐狸钱包里选择自己要发行代币的链，并切换到所在链。例如我要在币安链发行代币，就切换到币安链上，如下图所示
 
-<figure><img src="../.gitbook/assets/小狐狸切换BNB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1钱包切换链.png" alt=""><figcaption></figcaption></figure>
 
 如果要在Base发币，就切换到Base链。要在以太坊发币，就切换到ETH链，这里就不演示了。
 
-链切换好之后，打开发币页面：[https://www.pandatool.org/#/coinrelease/LPMine](https://www.pandatool.org/#/coinrelease/LPMine)点击右上角连接钱包
+链切换好之后，打开发币页面：[https://www.pandatool.org/zh-CN/coinrelease/lpmine](https://www.pandatool.org/zh-CN/coinrelease/lpmine) 点击右上角连接钱包
 
-<figure><img src="../.gitbook/assets/钱包连接.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2链接钱包 (3).png" alt=""><figcaption></figcaption></figure>
 
-之后会弹出小狐狸让你确认要连接的钱包地址
+之后会弹出小狐狸让你确认要连接的钱包地址，点击下一步并确认之后，就会连接成功了。在发币页面的右上角，会看到你的`链名称`和`钱包地址`，这就算完成了
 
-<figure><img src="../.gitbook/assets/LP挖矿.png" alt=""><figcaption></figcaption></figure>
-
-点击下一步并确认之后，就会连接成功了。在发币页面的右上角，会看到你的`链名称`和`钱包地址`，这就算完成了
-
-<figure><img src="../.gitbook/assets/LP挖矿链名称.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3连接成功.png" alt=""><figcaption></figcaption></figure>
 
 ## 3、参数说明
 

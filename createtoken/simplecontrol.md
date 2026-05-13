@@ -19,27 +19,33 @@ icon: square-3
 
 首先，在小狐狸钱包里选择自己要发行代币的链，并切换到所在链。例如我要在币安链发行代币，就切换到币安链上，如下图所示
 
+<figure><img src="../.gitbook/assets/1钱包切换链.png" alt=""><figcaption></figcaption></figure>
+
 如果要在Base发币，就切换到Base链。要在以太坊发币，就切换到ETH链，这里就不演示了。
 
-链切换好之后，打开发币页面：[http://pandatool.org/#/coinrelease/blackHole](http://pandatool.org/#/coinrelease/blackHole)  点击右上角连接钱包，弹出小狐狸确认就可以了
+链切换好之后，打开发币页面：[https://www.pandatool.org/zh-CN/coinrelease/simplecontrol](https://www.pandatool.org/zh-CN/coinrelease/simplecontrol)  点击右上角连接钱包，弹出小狐狸确认就可以了
 
-<figure><img src="../.gitbook/assets/1链接钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1连接钱包 (5).png" alt=""><figcaption></figcaption></figure>
 
-## 3、参数说明
+## 3、基础参数
 
-成功连接钱包后，我们在发币页面填写相应的参数 [https://pandatool.org/#/coinrelease/simpleControl?lang=zh-CN](https://pandatool.org/#/coinrelease/simpleControl?lang=zh-CN)：
+成功连接钱包后，我们在发币页面填写相应的参数 [https://www.pandatool.org/zh-CN/coinrelease/simplecontrol](https://www.pandatool.org/zh-CN/coinrelease/simplecontrol)：
 
-<figure><img src="../.gitbook/assets/2代币参数 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2基础信息.png" alt=""><figcaption></figcaption></figure>
 
 * [x] **代币全称** : 代币的名称信息，如Ethereum（支持中文、英文以及中英混合文字）
-* [x] **代币符号** : 也就是代币简称，如ETH。通常就是`看K软件` `薄饼` `钱包`中显示的那个名称
+* [x] **代币简称** : 也就是代币符号，如ETH。通常就是`看K软件` `薄饼` `钱包`中显示的那个名称
 * [x] **发行量 :** 代币发行的总供应量,无法增发,固定发行,如果总量过多的话,需要降低精度
-* [x] **精度** : 代表币的小数位数如：0.000001代表精度为6。一般默认是18
+* [x] **精度** : 代表币的小数位数，如：0.000001代表精度为6。一般默认是18
 * [x] **收币地址：**&#x4EE3;币创建成功后，给到哪个地址（接收代币的地址）
 
-## 4、功能开关
+## 4、高级功能
 
-<figure><img src="../.gitbook/assets/3功能开关.png" alt=""><figcaption></figcaption></figure>
+接下来是高级功能的选择
+
+<figure><img src="../.gitbook/assets/3高级功能 (2).png" alt=""><figcaption></figcaption></figure>
+
+
 
 * [x] **增发代币**
   * **选它** : 可通过控制台对代币总量进行增发/铸造
@@ -57,18 +63,19 @@ icon: square-3
 
 ## 5、控制台使用说明 <a href="#id-5-kong-zhi-tai-shi-yong-shuo-ming" id="id-5-kong-zhi-tai-shi-yong-shuo-ming"></a>
 
-当我们成功发行代币后，可进入控制台，对代币的各项功能进行管理。我们打开[https://pandatool.org/#/coinrelease/console](https://pandatool.org/#/coinrelease/console)修改下列功能：
+当我们成功发行代币后，可进入控制台，对代币的各项功能进行管理。我们打开控制台：[https://www.pandatool.org/zh-CN/coinrelease/console](https://www.pandatool.org/zh-CN/coinrelease/console)  修改下列功能：
 
-<figure><img src="../.gitbook/assets/4代币控制台.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/控制台 (9).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **权限控制**
   * **转让所有权** : 将合约权限转让给其他人（转移权限之前，记得复制控制台链接。新的权限地址必须通过控制台链接，才能进入控制台操作）
-  * **放弃所有权** : 将合约权限丢至黑洞，永远不能拿回。权限丢弃后，将无法使用任何功能
+  * **丢弃权限** : 将合约权限丢至黑洞，永远不能拿回。权限丢弃后，将无法使用任何功能
 * [x] **交易控制**
   * **暂停交易** : 打开后，所有非白名单地址无法转账、无法买卖代币
   * **修改持币限制：**&#x63D0;高或降低持币数量限制
   * **关闭持币限制：**&#x653E;弃使用该功能，钱包持币没有任何限制
-  * **设置黑名单：**&#x53EF;以批量添加或者移除黑名单
+* [x] **名单管理**
+  * **设置黑名单：**&#x53EF;以批量添加或者移除黑名单，被加入黑名单的地址无法转账和卖出代币
   * **设置全局白名单：**&#x8BBE;置后，该地址没有持币上限、不受交易暂停的限制
 * [x] **代币控制**
   * **增发代币：**&#x53EF;以手动对代币进行增发

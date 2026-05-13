@@ -34,69 +34,87 @@ icon: square-8
 
 首先，在小狐狸钱包里选择自己要发行代币的链，并切换到所在链。例如我要在币安链发行代币，就切换到币安链上，如下图所示
 
-<figure><img src="../.gitbook/assets/小狐狸切换BNB.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1钱包切换链.png" alt=""><figcaption></figcaption></figure>
 
 如果要在Base发币，就切换到Base链。要在以太坊发币，就切换到ETH链，这里就不演示了。
 
-链切换好之后，打开发币页面：[https://www.pandatool.org/#/coinrelease/holdWithInviter](https://www.pandatool.org/#/coinrelease/holdWithInviter)点击右上角连接钱包
+链切换好之后，打开发币页面：[https://www.pandatool.org/zh-CN/coinrelease/holderinterest](https://www.pandatool.org/zh-CN/coinrelease/holderinterest) 点击右上角连接钱包
 
-<figure><img src="../.gitbook/assets/钱包连接.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2链接钱包 (3).png" alt=""><figcaption></figcaption></figure>
 
-之后会弹出小狐狸让你确认要连接的钱包地址
+之后会弹出小狐狸让你确认要连接的钱包地址,点击下一步并确认之后，就会连接成功了。在发币页面的右上角，会看到你的`链名称`和`钱包地址`，这就算完成了
 
-<figure><img src="../.gitbook/assets/持币复利.png" alt=""><figcaption></figcaption></figure>
-
-点击下一步并确认之后，就会连接成功了。在发币页面的右上角，会看到你的`链名称`和`钱包地址`，这就算完成了
-
-<figure><img src="../.gitbook/assets/持币复利链名称.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3连接成功.png" alt=""><figcaption></figcaption></figure>
 
 ### 3、参数说明
 
-连接钱包成功后，我们通过PandaTool可视化页面开启创建，打开[https://pandatool.org/#/coinrelease/holdWithInviter](https://pandatool.org/#/coinrelease/holdWithInviter)，填写相应的参数：
+连接钱包成功后，我们通过PandaTool可视化页面开启创建，打开[https://www.pandatool.org/zh-CN/coinrelease/holderinterest](https://www.pandatool.org/zh-CN/coinrelease/holderinterest)，填写相应的参数：
 
-<figure><img src="../.gitbook/assets/合约创建.png" alt=""><figcaption></figcaption></figure>
+#### **1）基础信息**
+
+<figure><img src="../.gitbook/assets/1 (11).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **代币全称** : 代币的名称信息，如Ethereum（支持中文、英文以及中英混合文字）
 * [x] **代币符号** : 也就是代币简称，如ETH。通常就是`看K软件` `薄饼` `钱包`中显示的那个名称
 * [x] **发行量** : 代币发行的总供应量。如果总量过多的话,需要降低精度
 * [x] **精度** : 代表币的小数位数如：0.000001代表精度为6。一般默认是18
 * [x] **收币地址：**&#x4EE3;币创建成功后接受代币的地址（该地址默认是白名单）
+
+#### **2）复利设置**
+
+<figure><img src="../.gitbook/assets/2复利设置+选择交易所.png" alt=""><figcaption></figcaption></figure>
+
 * [x] **复利开始时间**
   * 设定复利开始日期，具体时间默认为凌晨零点。如果您选择10月1日，则开始日期是10月1日凌晨00：00分。如果您选择10月2日，则开始日期是10月2日凌晨00：00分
   * 复利开始与否，和是否交易没有关系。即便没有加池子没有交易，只要到了复利时间，就开始复利
-  *
 * [x] **复利率**
   * 在一定周期内，你的持币生息利率，和银行的活期存款率是一个意思
 * [x] **复利周期**
   * 多久复利一次的意思。假设你设定的复利周期是1天，复利率是1%，那么用户持有100个代币，在1天之后，可获得1个代币，总持仓数量就达到101枚。该周期只能以“天”作为时间单位，无法精确到小时/分钟
   * 复利的代币**每秒**都在增加，不是到了某个时间后突然增加的
+
+#### **3）交易设置** <a href="#id-2-jiao-yi-she-zhi" id="id-2-jiao-yi-she-zhi"></a>
+
+<img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252F0qc3HqqTAWazukyffsvp%252F5%25E4%25BA%25A4%25E6%2598%2593%25E8%25AE%25BE%25E7%25BD%25AE.png%3Falt%3Dmedia%26token%3D370ea4ff-6801-4f5f-afa6-d865d1aa1464&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=bc197303&#x26;sv=2" alt="" height="204" width="905">
+
+* **交易所 :** BSC链默认是PancakeSwap、ETH/Base默认是Uniswap
+* **配对币种：**&#x7528;于做底池的代币，通常是BNB、ETH、USDT、USDC等主流价值币
+
+#### **4）税率设置** <a href="#id-2-jiao-yi-she-zhi" id="id-2-jiao-yi-she-zhi"></a>
+
+<figure><img src="../.gitbook/assets/3税率设置.png" alt=""><figcaption></figcaption></figure>
+
 * [x] **买入税率** (不需要的部分填0/总比例小于25%)
   * **营销税率** : 每笔买入都会扣除对应比例代币送进`合约地址`,在**触发阈值**时会自动兑换成`USDT`(这取决于池子类型，底池是什么币营销钱包就进什么) 发送到你的营销钱包地址
   * **销毁税率** : 每笔买入都会扣除对应比例代币送进`黑洞地址`,达到销毁的目的
   * **回流税率** : 每笔买入都会扣除对应比例代币送进`合约地址`,在**触发阈值**时会自动加池子,使池子更厚
 * [x] **卖出税率** (不需要的部分不能填空，必须填0，总比例小于25%)
   * 这部分跟买入税率解释一样
-* [x] **推荐奖励**（比例总和需100%）
-  * **推荐税率** : 用于总推荐奖励的手续费。例如设置2%，意思是从每笔交易中扣除2%的代币用于分发所有上级的奖励
-  * **分红代数** : 可以有多少代的下级，目前最多可以设置16代
-  * **一代比例** : 直推的第一代交易时，上级可以获得多大比例的奖励。假如设置20%，那这个20%就是总推荐2%里面的20%，即总占总交易比例的0.4%。
-  * **二代比例：**&#x7B2C;二代下级交易时，作为上上级可以获得多大比例的奖励
-  * **三代比例：**&#x7B2C;三代下级交易时，作为上上上级可以获得多大比例的奖励
+* [x] **营销钱包**
+  * 用来接收营销税率的钱包，如果底池是USDT池子，就获得USDT。如果底池是BNB池子，就获得BNB
+* [x] **推荐税率**（比例总和需100%）
+  * 用于总推荐奖励的手续费。例如设置2%，意思是从每笔交易中扣除2%的代币用于分发所有上级的奖励
+
+#### **4）推荐奖励**
+
+设置邀请层级数，以及每一层级的推荐比例
+
+<figure><img src="../.gitbook/assets/3推荐奖励.png" alt=""><figcaption></figcaption></figure>
+
+* [x] 推荐奖励设置（比例总和需100%）
+  * **推荐代数** : 可以有多少代的下级，目前最多可以设置16代
+  * **第一代比例** : 直推的第一代交易时，上级可以获得多大比例的奖励。假如设置20%，那这个20%就是总推荐2%里面的20%，即总占总交易比例的0.4%。
+  * **第二代比例：**&#x7B2C;二代下级交易时，作为上上级可以获得多大比例的奖励
+  * **滴三代比例：**&#x7B2C;三代下级交易时，作为上上上级可以获得多大比例的奖励
   * **剩余每代：**&#x4EE5;上设置完成后，点击`核算比例`即可获得剩余每代的奖励比例
   * **注意事项：**&#x6240;有代数比例相加**100%**，才视为设置成功。如果不会计算，可直接点击`核算比例`，帮你自动核算成功。
   * 实际交易中，如果一个地址没有上级，或者上级数量不够，那么这部分的推荐奖励，会直接给到**营销钱包**
-* [x] **营销钱包**
-  * 用来接收营销税率的钱包，如果底池是USDT池子，就获得USDT。如果底池是BNB池子，就获得BNB
-* [x] **选择交易所**
-  * 不同的链会有不同的交易平台（如ETH链有UniSwap,BSC链有PancakeSwap 等）。选择什么交易所，就去那里添加流动性。搞错了会导致机制无法执行，请注意
-* [x] **选择底池代币**&#x20;
-  * 支持选择`BNB` `USDT`等池子，多样化选择
 
-## 4、开关说明
+## 4、高级功能
 
-下面是对该模式代币功能开关的说明与解释：
+下面是对持币复利模式代币，高级功能的说明与解释：
 
-<figure><img src="../.gitbook/assets/持币复利+推荐奖励-开关.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4高级功能 (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **手动开启交易**
   * **选它** : 需要在控制台打开交易开关,才能够交易,并且打开后无法重新关闭
@@ -104,51 +122,71 @@ icon: square-8
 * [x] **杀区块**
   * **选它** : 用于防止机器人抢跑买入,杀3区块意思就是前3区块(bsc大概9秒)买入的地址自动拉黑
   * **不选** : 无法使用该功能，后期也不能再开启该功能
-* [x] **税率开关**
+* [x] 可修改税率
   * **选它** : 创建代币后手动调整税率, 买卖税率必须要小于25%
   * **不选** : 创建代币后无法再修改滑点，后期也不能再开启该功能
-*   [x] **自动空投**
-
-
-
-    * **选它：**&#x6BCF;笔交易都会自动向随机地址空投小额代币,以增加持币效果,最多可空投5个地址
-    * **不选** : 无法使用该功能
-    * 该功能开启后**不可关闭**
-    * 只有**非白**名单地址**交易**才能触发空投，转账不空投
+* [x] **自动空投**
+  * **选它：**&#x6BCF;笔交易都会自动向随机地址空投小额代币,以增加持币效果,最多可空投5个地址
+  * **不选** : 无法使用该功能
+  * 该功能开启后**不可关闭**
+  * 只有**非白**名单地址**交易**才能触发空投，转账不空投
 * [x] **黑名单功能**
   * **选它** : 能够`添加`和`解除`黑名单。被拉入黑名单的地址将无法卖出代币，也不能转账，该功能慎用
   * **不选** : 无法设置和解除黑名单
 
 ## 5、控制台使用说明
 
-当我们成功发行代币后，可进入控制台，对代币的各项功能进行管理。我们打开[https://pandatool.org/#/coinrelease/console](https://pandatool.org/#/coinrelease/console)，修改下列功能：
+当我们成功发行代币后，可进入控制台，对代币的各项功能进行管理。我们打开控制台：[https://www.pandatool.org/zh-CN/coinrelease/console](https://www.pandatool.org/zh-CN/coinrelease/console)，找到自己发行的代币，修改下列功能：
 
-<figure><img src="../.gitbook/assets/控制台 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5权限控制 (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **权限控制**
   * **转让所有权** : 将合约权限转让给其他人（转移权限之前，记得复制控制台链接。新的权限地址必须通过控制台链接，才能进入控制台操作）
   * **放弃所有权** : 将合约权限丢至黑洞，永远不能拿回
+
+<figure><img src="../.gitbook/assets/6流动性控制 (1).png" alt=""><figcaption></figcaption></figure>
+
 * [x] **流动性控制**
   * **设置撤池税率** : 用户撤池子默认不收手续费，可以手动设置最高100%的手续费。注意，_**如果选择BNB底池，则需用wBNB撤池子，方可没有手续费。**_**（**&#x64A4;池子的税率&#x4F1A;**`直接销毁`）**
   * **方向问题：**&#x4E0D;管是USDT池子还是BNB池子，撤池子**方向都要正确**，即：BNB/USDT在前面或上面，代币在后面或者下面。如果方向不正确，税率可能不生效
-* [x] **交易控制**
   * **允许用户添加流动性** : 该功能打开之前，非白名单地址不能加池子。开启后，非白名单地址可以加池，但不能撤池
   * **开启交易** : 打开后，非白名单用户才能交易、加池子撤池子，开启后不能关闭
-  * **设置黑名单：**&#x53EF;以批量添加或者移除黑名单，被加入黑名单的地址无法卖出代币或者转账
+
+<figure><img src="../.gitbook/assets/7交易控制.png" alt=""><figcaption></figcaption></figure>
+
+* [x] **交易控制**
   * **杀开盘抢跑机器人：**&#x4E3B;要是修改抢跑区块，适用于未开盘项目
+  * **禁用空投：**&#x8BE5;按钮点击后，代币转账或交易将不会进行空投
+
+<figure><img src="../.gitbook/assets/8税率控制.png" alt=""><figcaption></figcaption></figure>
+
 * [x] **税率控制**
   * **修改税率**：可分别修改回流、营销、销毁税率，和推荐税率相加要小于25%
-  * **设置税率白名单：**&#x767D;名单交易没有税率；可以开盘前进行交易/加撤池，且交易**不会**产生空投
   * **修改营销钱包：**&#x66F4;改合约的营销钱包地址
+  * **禁用修改税率：**&#x8BE5;功能点击后，权限所有者将无法修改税率
+
+<figure><img src="../.gitbook/assets/9复利控制.png" alt=""><figcaption></figcaption></figure>
+
 * [x] **复利控制**
   * **修改复利开始时间:** 该功能只在复利开始前有效，且修改时间必须大于当前时间
   * **修改复利率 :** 修改用户持币生息的比例
   * **修改复利周期：**&#x4EE5;“天”为单位进行修改
-  * **修改终止供应量：**&#x4EE3;币数量达到某个金额后，将终止复利，以防止代币膨胀
+  * **修改结束供应量：**&#x4EE3;币数量达到某个金额后，将终止复利，以防止代币膨胀
   * **设置复利黑名单：**&#x88AB;加入黑名单的地址，将无法获得复利收益（如果被拉黑的地址的复利数据没有激活，那么它获得的复利金额就会归0，即通过链上计数删除）
+
+<figure><img src="../.gitbook/assets/10推荐奖励修改.png" alt=""><figcaption></figcaption></figure>
+
 * [x] **推荐奖励控制**
   * **修改推荐税率 :** 买卖同时修改，和其他税率相加最大要小于25%
   * **设置推荐奖励比例** : 操作方法和前面一样，如不会计算，可直接点击`核算比例`，自动计算
+
+<figure><img src="../.gitbook/assets/11提取合约代币与名单管理.png" alt=""><figcaption></figcaption></figure>
+
+* [x] **名单管理**
+  * **设置黑名单：**&#x53EF;以批量添加或者移除黑名单，被加入黑名单的地址无法卖出代币或者转账
+  * **设置税率白名单：**&#x767D;名单交易没有税率；可以开盘前进行交易/加撤池，且交易**不会**产生空投
+* [x] **代币控制**
+  * **提取合约分红代币** : 将合约地址内遗留的未分发的分红代币提出，提取的代币给到权限地址
 
 ## 6、注意事项
 
@@ -166,7 +204,7 @@ icon: square-8
 * [x] **权限转移后，新地址怎么进入控制台？**
   * 转移权限之前，需要先复制控制台链接（在控制台上方能看到`复制链接`的按钮）。当权限转移后，新的权限地址使用控制台链接，就可以进入控制台操作
 
-<figure><img src="../.gitbook/assets/持币复利复制地址.png" alt=""><figcaption><p>复制控制台地址</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/12复制链接.png" alt=""><figcaption></figcaption></figure>
 
 * [x] **测试网做池子**
   * 如果您是在测试网发币做池子，需严格按照以下参数操作
