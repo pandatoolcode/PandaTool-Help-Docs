@@ -161,11 +161,12 @@ BNB池子，必须用**wBNB**加池！
   * **允许用户添加流动性**：打开该功能后，非白名单地址可以加池子，但是不能撤
   * **开启交易** : 打开后，非白名单用户才能交易与撤池子，开启后不能关闭
 
-<figure><img src="../.gitbook/assets/交易设置 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9交易控制 (1).png" alt=""><figcaption></figcaption></figure>
 
 * [x] **交易控制**
   * **设置黑名单：**&#x53EF;以批量添加或者移除黑名单
   * **杀开盘抢跑机器人：**&#x4E3B;要是修改抢跑区块数量，适用于未开盘项目
+  * **禁用空投：**&#x8BE5;功能点击生效后，代币转账及交易将不会产生空投
 
 <figure><img src="../.gitbook/assets/10税率控制.png" alt=""><figcaption></figcaption></figure>
 
