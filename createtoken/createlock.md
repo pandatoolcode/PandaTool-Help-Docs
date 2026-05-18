@@ -9,7 +9,7 @@ icon: lock
 
 ### **1、什么是锁池？什么是锁仓？**
 
-* **锁仓：**&#x4E5F;叫锁币，就是将自己钱包里面的代币锁在某个地方不能动，以减少市场流通
+* **锁仓：**&#x4E5F;叫锁代币，就是将自己钱包里面的代币锁在某个地方不能动，以减少市场流通
 * **锁池：**&#x5C31;是项目方将流动性资金池的凭证代币LP锁在某个地方，从而无法撤池子跑路
 
 ### **2、什么是LP代币？** <a href="#id-4-shen-me-shi-lp-dai-bi" id="id-4-shen-me-shi-lp-dai-bi"></a>
@@ -38,9 +38,9 @@ icon: lock
 
 ### **1、连接钱包**
 
-首先，我们要打开锁仓页面：[https://www.pandatool.org/#/createLock?lang=zh-CN](https://www.pandatool.org/#/createLock?lang=zh-CN) ，右上角连接钱包
+首先，我们要打开锁仓页面：[https://www.pandatool.org/zh-CN/lock/create](https://www.pandatool.org/zh-CN/lock/create)，右上角连接钱包
 
-<figure><img src="../.gitbook/assets/1连接钱包 (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1链接钱包 (3).png" alt=""><figcaption></figcaption></figure>
 
 连钱包需要注意两点：
 
@@ -51,57 +51,67 @@ icon: lock
 
 连接钱包后，我们需要填写正确的代币信息和锁的信息
 
-<figure><img src="../.gitbook/assets/2锁仓信息.png" alt=""><figcaption></figcaption></figure>
+#### **1）代币信息**
 
-* **锁仓代币地址：**&#x586B;写要锁的代币合约地址（如果是填写池子地址，那就是锁池了）
-* **锁仓数量：**&#x6839;据查询的代币填写要锁的数量，要锁多少就填多少
-* **解锁日期：**&#x9009;择要解锁的日期（到期之前无法提前解锁，时间为您的本地时间）
-* **锁仓标题：**&#x8FD9;个标题随便写一个就是，就是为这个锁起个名字
-* **授权：**&#x5C06;代币授权给路由合约
+代币信息，主要是代币的合约地址
+
+<figure><img src="../.gitbook/assets/2代币信息.png" alt=""><figcaption></figcaption></figure>
+
+* **锁仓代币地址：**&#x586B;写要锁的代币合约地址，填写完成后点击查询代币，会提示代币正常
+
+<figure><img src="../.gitbook/assets/3代币查询正常.png" alt=""><figcaption></figcaption></figure>
+
+注意，一定要选择正确的链和合约地址，如果选择链错了或者代币合约地址填错了，那么查询就会失败
 
 {% hint style="success" %}
-锁仓代币地址可以填写池子地址（即：LP代币地址）。如果您填写**池子地址，就是锁池**。如果您填写**代币地址，就是锁币**。
+锁仓代币地址可以填写池子地址（即：LP代币地址）。如果您填写**池子地址，就是锁池**。如果您填写**代币地址，就是锁币**。LP地址可以在**流动性控制台**查询。
 {% endhint %}
 
-例如我填写的内容如下
+#### **2）锁仓参数**
 
-<figure><img src="../.gitbook/assets/3填写锁仓信息.png" alt=""><figcaption></figcaption></figure>
+接下来，我们继续填写锁仓参数
+
+<figure><img src="../.gitbook/assets/5锁仓参数.png" alt=""><figcaption></figcaption></figure>
+
+* **锁仓标题：**&#x8FD9;个标题随便写一个就是，就是为这个锁起个名字
+* **锁仓数量：**&#x6839;据查询的代币填写要锁的数量，要锁多少就填多少
+* **解锁日期：**&#x9009;择要解锁的日期（到期之前无法提前解锁，时间为您的本地时间）
+
+#### **3）授权**
+
+确定填写的信息无误之后，点击授权，钱包确认后会提示授权成功
+
+<figure><img src="../.gitbook/assets/6授权.png" alt=""><figcaption></figcaption></figure>
+
+* **授权：**&#x5C06;代币或者LP授权给路由合约
 
 {% hint style="danger" %}
 **注意：**&#x5E26;有最大持仓限制或者修改钱包余额的代币，是不支持锁的
 {% endhint %}
 
-### **3、授权代币**
-
-确定填写的信息无误之后，点击授权，钱包确认后会提示授权成功
-
-<figure><img src="../.gitbook/assets/5授权确认.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/6已授权.png" alt=""><figcaption></figcaption></figure>
-
-### **4、立即锁仓**
+### **3、立即锁仓**
 
 授权代币后，我们再核对一下填写的日期、数量是否无误。确认无误后，点击‘立即锁仓’的按钮，此时钱包会弹出确认
 
-<figure><img src="../.gitbook/assets/7立即锁仓.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7立即锁仓 (1).png" alt=""><figcaption></figcaption></figure>
 
 钱包确认后等待几秒钟，即可完成锁仓
 
-<figure><img src="../.gitbook/assets/8锁仓成功.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8锁仓成功 (1).png" alt=""><figcaption></figcaption></figure>
 
-### **5、查看锁仓信息**
+### **4、查看锁仓信息**
 
 锁仓之后，我们怎么查看自己的锁仓信息呢？时间到了，我要去哪里解锁呢？为此，PandaTool开发了锁仓控制台，可以让大家查询并解锁。
 
-我们点击进入锁仓控制台：[https://www.pandatool.org/#/lockList?lang=zh-CN](https://www.pandatool.org/#/lockList?lang=zh-CN) 就能看到所有的锁仓与锁币信息了
+我们点击进入锁仓控制台：[https://www.pandatool.org/zh-CN/lock/list](https://www.pandatool.org/zh-CN/lock/list) 就能看到所有的锁仓与锁币信息了
 
-<figure><img src="../.gitbook/assets/9锁仓信息.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9锁仓列表.png" alt=""><figcaption></figcaption></figure>
 
 时间到了之后，您就可以在这里进行解锁。
 
 如果您想将锁仓时间改成永远，该怎么做呢？正常情况下是不支持修改时间的，但是你也可以点&#x51FB;**`弃权`**&#x6309;钮，即可变成**永远锁仓**，那么就永久拿不回来了。&#x20;
 
-<figure><img src="../.gitbook/assets/10弃权.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10弃权 (1).png" alt=""><figcaption></figcaption></figure>
 
 ## **三、流动性锁池教程**
 
