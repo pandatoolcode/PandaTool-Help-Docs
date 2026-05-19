@@ -50,35 +50,35 @@ Sui稳定池创建：[https://help.pandatool.org/sui/pool](https://help.pandatoo
 
 #### **2、进入创建稳定池页面**
 
-代币有了之后，我们就进入到稳定币创建页面：[https://pandatool.org/#/createV3?lang=zh-CN](https://pandatool.org/#/createV3?lang=zh-CN)
+代币有了之后，我们就进入到稳定币创建页面：[https://www.pandatool.org/zh-CN/liquidity/createv3](https://www.pandatool.org/zh-CN/liquidity/createv3)
 
 除了通过链接进入，大家也可以在PandaTool的官网首页找到这个工具
 
-<figure><img src="../.gitbook/assets/1稳定池页面.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1找到工具 (2).png" alt=""><figcaption></figcaption></figure>
 
 进入之后呢，我们需要在右上角链接钱包，并选择好对应的区块链
 
-<figure><img src="../.gitbook/assets/2连接钱包.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2连接钱包 (3).png" alt=""><figcaption></figcaption></figure>
 
-#### **3、输入代币信息并查询**
+#### **3、**&#x9009;择交易所与代币
 
-接下来我们按照要求输入相关信息
+接下来我们按照要求选择相关信息
 
-<figure><img src="../.gitbook/assets/3代币信息.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3查询代币.png" alt=""><figcaption></figcaption></figure>
 
 * **选择交易所：**&#x5982;果是在BSC链，默认选择的就是Pancake V3
 * **选择底池代币：**&#x4E00;般来说就USDT
 * **加池代币地址：**&#x5C31;是输入您发行的代币的合约地址
 
-确认无误后，点击查询代币。如果没有任何问题，会提示您查询成功
+确认无误后，点击查询代币。如果没有任何问题，会提示您**代币正常**
 
-<figure><img src="../.gitbook/assets/4查询代币.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4代币查询正常.png" alt=""><figcaption></figcaption></figure>
 
 #### **4、确认交易价格与加池数量**
 
 当查询到代币之后，你就需要填写交易价格与数量了。
 
-<figure><img src="../.gitbook/assets/5填写价格与数量.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5交易价格与数量.png" alt=""><figcaption></figcaption></figure>
 
 * **交易价格：**&#x5373;代币需要稳定在某个价位。一旦确定，那么买入和卖出，都会按照该价格执行
 * **加池数量：**&#x60A8;要往池子里加入多少发行的代币，就填多少
@@ -91,19 +91,17 @@ Sui稳定池创建：[https://help.pandatool.org/sui/pool](https://help.pandatoo
 
 当你确定好价格和数量后，点击授权代币，授权过程会弹出钱包进行确认
 
-<figure><img src="../.gitbook/assets/6授权代币.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6授权代币 (1).png" alt=""><figcaption></figcaption></figure>
 
 授权完成后，会提示您已经授权。然后点击“立即加池”按钮
 
-<figure><img src="../.gitbook/assets/7立即加池.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7立即加池 (1).png" alt=""><figcaption></figcaption></figure>
 
 之后会让您进行二次确认，确认后会弹出钱包，确认即可
 
-<figure><img src="../.gitbook/assets/8加池.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8立即加池 (1).png" alt=""><figcaption></figcaption></figure>
 
-创建成功后，我们就能去交易了
-
-
+创建成功后，我们就能去交易了，交易价格会严格按照您创建的价格来实现。
 
 ### 三、相关问答 <a href="#shen-me-shi-wen-ding-chi" id="shen-me-shi-wen-ding-chi"></a>
 

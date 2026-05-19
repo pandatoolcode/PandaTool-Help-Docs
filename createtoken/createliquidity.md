@@ -119,6 +119,8 @@ PancakeSwap、Uniswap都有V2和V3两个协议，其实很好区分
 
 当然，如果你没有来得及点击按钮，后期也可以通过流动性控制台来查看创建的资金池：[https://www.pandatool.org/zh-CN/liquidity/lpmanage](https://www.pandatool.org/zh-CN/liquidity/lpmanage)
 
+<figure><img src="../.gitbook/assets/3控制台.png" alt=""><figcaption></figcaption></figure>
+
 ## **四、疑问解答**
 
 **1、为什么加池会失败？**
