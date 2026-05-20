@@ -124,21 +124,21 @@ icon: lock
 
 这种锁池方法，与锁仓/锁币是大同小异的，我们只需要在代币地址哪里，填入池子地址（也就是LP地址），其他流程一样，即可完成锁池
 
-<figure><img src="../.gitbook/assets/1填写池子信息.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11创建锁池.png" alt=""><figcaption></figcaption></figure>
 
-可以说，除了填写的地址从代币地址换成资金池地址外，其他都是一模一样的，操作起来很方便。那么，如何获得池子地址呢？可以在[流动性控制台](https://www.pandatool.org/#/LPmanage?lang=zh-CN)查询，并复制→[https://www.pandatool.org/#/LPmanage?lang=zh-CN](https://www.pandatool.org/#/LPmanage?lang=zh-CN)
+可以说，除了填写的地址从代币地址换成资金池地址外，其他都是一模一样的，操作起来很方便。那么，如何获得池子LP地址呢？可以在[流动性控制台](https://www.pandatool.org/#/LPmanage?lang=zh-CN)查询，并复制→[https://www.pandatool.org/zh-CN/liquidity/lpmanage](https://www.pandatool.org/zh-CN/liquidity/lpmanage)
 
-<figure><img src="../.gitbook/assets/2复制池子地址.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12LP地址.png" alt=""><figcaption></figcaption></figure>
 
 ### **2、第二种锁池：流动性控制台锁**
 
-如果您已经创建了流动性，可以在我们的[流动性控制台](https://www.pandatool.org/#/LPmanage?lang=zh-CN)查询到您的资金池，那么就可以直接点击锁池。我们进入流动性控制台→[https://www.pandatool.org/#/LPmanage?lang=zh-CN](https://www.pandatool.org/#/LPmanage?lang=zh-CN)
+如果您已经创建了流动性，可以在我们的[流动性控制台](https://www.pandatool.org/#/LPmanage?lang=zh-CN)查询到您的资金池，那么就可以直接点击锁池。我们进入流动性控制台→[https://www.pandatool.org/zh-CN/liquidity/lpmanage](https://www.pandatool.org/zh-CN/liquidity/lpmanage)
 
-<figure><img src="../.gitbook/assets/3流动性控制台.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9锁池.png" alt=""><figcaption></figcaption></figure>
 
 点击锁池按钮，然后输入相关的信息
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252F1D66h3GEswzG0OIj8Gnt%252F2%25E9%2594%2581%25E6%25B1%25A0%25E8%25AF%25A6%25E6%2583%2585.png%3Falt%3Dmedia%26token%3D5fd0c0a2-a7bf-41f7-9046-c11cafb6798d&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=971378fc&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10锁池.png" alt=""><figcaption></figcaption></figure>
 
 * **锁池百分比**：这个百分比指的是您占有的池子比例的百分比，而非所有流动性的百分比
 * **锁池数量：**&#x7531;百分比自动计算出LP的数量
@@ -152,11 +152,11 @@ icon: lock
 
 LP授权之后，点击确认锁池，等待几秒钟，就可以完成了
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FWryatRNMp8JdO9afKzhB%252F3%25E7%25A1%25AE%25E8%25AE%25A4%25E9%2594%2581%25E6%25B1%25A0.png%3Falt%3Dmedia%26token%3D41a5079a-72da-4c97-9928-e1486cd516e9&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=4362947c&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11锁池成功.png" alt=""><figcaption></figcaption></figure>
 
-锁池之后，我们去哪里看呢？可以在[锁仓控制台](https://www.pandatool.org/#/lockList?lang=zh-CN)里查询我们的锁信息。进入锁仓控制台 → [https://www.pandatool.org/#/lockList?lang=zh-CN](https://www.pandatool.org/#/lockList?lang=zh-CN)<br>
+锁池之后，我们去哪里看呢？可以在[锁仓控制台](https://www.pandatool.org/#/lockList?lang=zh-CN)里查询我们的锁信息。进入锁仓控制台列表 → [https://www.pandatool.org/zh-CN/lock/list](https://www.pandatool.org/zh-CN/lock/list)
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FQtM54U3DdMdOVyZ9vmMf%252F4%25E9%2594%2581%25E4%25BB%2593%25E6%258E%25A7%25E5%2588%25B6%25E5%258F%25B0.png%3Falt%3Dmedia%26token%3D267347e5-4df6-4696-b6bd-00de9a982578&#x26;width=768&#x26;dpr=4&#x26;quality=100&#x26;sign=7eec453b&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12锁池控制台.png" alt=""><figcaption></figcaption></figure>
 
 至此，整个锁池与锁仓的教程就到这里了。下面，就一些重点问题做一些解答
 

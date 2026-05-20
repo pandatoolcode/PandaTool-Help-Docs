@@ -59,53 +59,52 @@ icon: house-flood-water
 
 不管我们是创建代币、创建资金池，还是交易兑换、批量转账，第一步都是要**连接钱包**。连接钱包是所有DAPP必要的操作，希望大家都能养成这个习惯。不连接钱包，什么都做不了。
 
-此时我们进入到PandaTool加池并捆绑买入工具的网页：[https://www.pandatool.org/#/createliquiditybuy?lang=zh-CN](https://www.pandatool.org/#/createliquiditybuy?lang=zh-CN) 然后在右上角点击连接钱包
+此时我们进入到PandaTool加池并捆绑买入工具的网页：[https://www.pandatool.org/zh-CN/liquidity/createadd](https://www.pandatool.org/zh-CN/liquidity/createadd) 然后在右上角点击连接钱包
 
-<figure><img src="../.gitbook/assets/1连接钱包 (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1连接钱包 (6).png" alt=""><figcaption></figcaption></figure>
 
 此时会跳出Metamask或者OKX Web3钱包，点击确认，即可完成连接。钱包连接成功后，会在右上角看到你的钱包地址。
 
-<figure><img src="../.gitbook/assets/2连接成功.png" alt=""><figcaption></figcaption></figure>
-
 如果你希望在BSC链创建资金池，就将区块链切换到BSC。如果是希望在以太坊上创建资金池，就将区块链切换到ETH即可
+
+<figure><img src="../.gitbook/assets/2选择链.png" alt=""><figcaption></figcaption></figure>
 
 #### **2、选择代币** <a href="#id-2-xuan-ze-dai-bi" id="id-2-xuan-ze-dai-bi"></a>
 
-连接钱包后，我们需要选择加池类型、代币，以及导入私钥
+连接钱包后，我们需要选择导入主钱包私钥、选择代币以及加池数量等
 
-<figure><img src="../.gitbook/assets/3选择加池代币.png" alt=""><figcaption></figcaption></figure>
+1）导入私钥与代币
 
-* **加池类型：**&#x9ED8;认用V2，稳定池加V3
+<figure><img src="../.gitbook/assets/3私钥与地址.png" alt=""><figcaption></figcaption></figure>
+
+* **主钱包：**&#x5C31;是您要创建流动性的钱包，该钱包内必须有两种代币作为流动性提供
 * **底池代币：**&#x4EA4;易对价值代币，如USDT、BNB等
 * **代币地址：**&#x60A8;创建的代币合约地址
-* **创建钱包私钥：**&#x60A8;要加池的钱包私钥
 
 填写好之后，点&#x51FB;**`查询代币`** ，正常来说会提示你：**代币正常，请填写加池数量**
 
-<figure><img src="../.gitbook/assets/4加池钱包私钥.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4代币查询.png" alt=""><figcaption></figcaption></figure>
 
 ### **3、填写加池数量** <a href="#id-3-tian-xie-jia-chi-shu-liang" id="id-3-tian-xie-jia-chi-shu-liang"></a>
 
 确定好两种代币后，接下来就是填写代币数量了（加池数量不能超过自己钱包里的数量）
 
-<figure><img src="../.gitbook/assets/5加池数量.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5代币数量.png" alt=""><figcaption></figcaption></figure>
 
 * **Panda：**&#x6211;创建的代币，填写10000枚，表示将10000个Panda代币放入资金池中
-* **USDT：**&#x6211;选择的价值嗲比，填写10000，表示将10000个USDT放入资金池中
+* **BNB：**&#x6211;选择的价值代币，填写0.01，表示将0.01个BNB放入资金池中
 
-**预估价格：**&#x50;anda代币的初始价格是1USDT（用10000除以10000得到价格是1）。如果Panda放1000个，USDT放10000个，那么预估初始价格就是10U，以此类推
+**预估价格：**&#x50;anda代币的初始价格是0.0000001BNB（用0.01除以10000得到价格是1）。如果Panda放1000个，BNB放100个，那么预估初始价格就是0.1BNB，以此类推
 
 ### **4、导入捆绑地址私钥** <a href="#id-3-tian-xie-jia-chi-shu-liang" id="id-3-tian-xie-jia-chi-shu-liang"></a>
 
 为了实现捆绑买入的效果，必须要导入捆绑地址的私钥才可以完成。如果您无法确保自己的私钥不被泄露，请不要使用该功能。
 
-<figure><img src="../.gitbook/assets/6导入私钥.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/6导入私钥 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6手动导入私钥.png" alt=""><figcaption></figcaption></figure>
 
 您可以手动导入私钥，也可以批量导入私钥，目前捆绑买入支持最少25个地址。如下图
 
-<figure><img src="../.gitbook/assets/7导入私钥.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7批量导入私钥.png" alt=""><figcaption></figcaption></figure>
 
 导入私钥后，您要做的是填写买入金额。每个钱包最低买入0.005BNB的代币，低于这个金额将无法买入。
 
@@ -117,13 +116,9 @@ icon: house-flood-water
 
 一切准备就绪后，我们点击立即加池
 
-<figure><img src="../.gitbook/assets/8立即加池.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/9立即加池提示.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8立即加池 (2).png" alt=""><figcaption></figcaption></figure>
 
 等待几秒钟后，会提示您加池完成
-
-<figure><img src="../.gitbook/assets/10加池完成.png" alt=""><figcaption></figcaption></figure>
 
 ## **四、疑问解答** <a href="#san-chuang-jian-zi-jin-chi-liu-cheng" id="san-chuang-jian-zi-jin-chi-liu-cheng"></a>
 

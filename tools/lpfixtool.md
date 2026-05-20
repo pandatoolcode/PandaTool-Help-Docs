@@ -30,29 +30,25 @@ LP流动性修复视频操作教程：
 
 ### 一、操作流程
 
-1、打开工具 [https://pandatool.org/#/LPfixtool](https://pandatool.org/#/LPfixtool)
+1、打开工具 [https://www.pandatool.org/zh-CN/liquidity/lpfix](https://www.pandatool.org/zh-CN/liquidity/lpfix)
 
-<figure><img src="../.gitbook/assets/LP修复.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1查池子.png" alt=""><figcaption></figcaption></figure>
 
-2、选择交易所Pancake，输入**资金池地址**。其中，资金池地址可以在控制台查询，如：
+2、选择交易所Pancake，输入**资金池地址，**&#x4E5F;就是LP地址。其中，资金池地址可以在控制台查询，如：
 
-<figure><img src="../.gitbook/assets/池子地址查询.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2池子地址.png" alt=""><figcaption></figcaption></figure>
 
 **3、点击“查询池子”，**&#x53EF;以看到池子中的代币数量
 
-<figure><img src="../.gitbook/assets/流动性查询.png" alt=""><figcaption></figcaption></figure>
-
-可以看到，目前池子里被人恶意转入了0.00000000000001个USDT，这也是你无法正常加池子的原因
+可以看到，目前池子里被人恶意转入了0.0000000000==0001个wBNB，这也是你无法正常加池子的原因
 
 **4、确定目标价格**
 
 根据你的开盘价格，分别输入你自己发行的代币的数量和底池代币的数量。例如，你要做的是USDT的池子，且开盘价定为0.001U，那么你需要在左边输入1000个代币，右边输入1个USDT。如果是BNB的池子，那就相应的使用wBNB（如果钱包没有wBNB，可以在薄饼兑换）。具体如图：
 
-<figure><img src="../.gitbook/assets/LP修复-目标价格确定 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/目标数量.png" alt=""><figcaption></figcaption></figure>
 
 注意，不管是1000个代币还是1U，都不是你要最终加池的数量，它只是用来确定你的代币价格比例，仅此而已。具体应该往池子里放多少币？需要点&#x51FB;_**核算加池数量**_，然后会给你一个数据，如：
-
-<figure><img src="../.gitbook/assets/核算加池数量.png" alt=""><figcaption></figcaption></figure>
 
 这个数据就是你修复需要使用的代币数据，接下来就是授权了
 
@@ -60,7 +56,7 @@ LP流动性修复视频操作教程：
 
 分别对你自己发行的代币和USDT进行授权（如果是BNB的池子，就需要授权wBNB），当两个代币分别授权完成之后，点&#x51FB;**“确认修复”**，即可完成修复。之后再去薄饼加池子，就可以正常加入了。
 
-<figure><img src="../.gitbook/assets/确认修复.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4授权.png" alt=""><figcaption></figcaption></figure>
 
 ### 二、注意事项
 
@@ -69,8 +65,6 @@ LP流动性修复视频操作教程：
 假设您的代币拥有交易开关功能，在未开启交易之前，需要将修复合约的地址添加到**税率白名单**里（通过控制台操作），之后才能完成修复，否则会修复失败。
 
 _修复合约地址：0xEbd1Ad0f26088FC150128e4d55Cb5dB738eB4159_
-
-
 
 <figure><img src="../.gitbook/assets/税率白名单.png" alt=""><figcaption><p>税率白名单</p></figcaption></figure>
 
