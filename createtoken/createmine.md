@@ -3,7 +3,7 @@ description: 新手可以创建质押挖矿的教程
 icon: gavel
 ---
 
-# 质押挖矿创建教程
+# 质押挖矿DAPP创建教程
 
 本教程主要是帮助用户在PandaTool平台创建质押挖矿官网，通过质押获得挖矿奖励的方式，来减少市场上的代币流通量，从而降低卖盘来提升代币价格，形成“用户买币→参与质押→价格上涨”的正向机制。
 
@@ -44,9 +44,9 @@ icon: gavel
 
 **第一步：打开PandaTool的IDO创建页面**
 
-首先，我们需要打开挖矿创建的工具页面：[https://pandatool.org/#/mine/createMine?lang=zh-CN](https://pandatool.org/#/mine/createMine?lang=zh-CN)  然后点击右上角连接钱包
+首先，我们需要打开挖矿创建的工具页面：[https://www.pandatool.org/zh-CN/mine/create](https://www.pandatool.org/zh-CN/mine/create)  然后点击右上角连接钱包
 
-<figure><img src="../.gitbook/assets/1连接钱包 (4).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1连接钱包 (8).png" alt=""><figcaption></figcaption></figure>
 
 之后会跳出小狐狸或者OKX钱包插件，连接上就可以。这一步其实没什么好说的，如果大家在PandaTool创建过代币，应该都会搞。
 
@@ -54,12 +54,15 @@ icon: gavel
 
 接下来，我们按照要求设置质押挖矿的参数信息。需要填写的内容比较多，我们一个个讲解
 
-<figure><img src="../.gitbook/assets/2挖矿信息.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2代币信息 (1).png" alt=""><figcaption></figcaption></figure>
 
-* **挖矿名称：**&#x968F;便起一个就行，无实际意义。支持中文、英文以及中英融合
 * **质押代币：**&#x586B;入该代币的合约地址。用户需要将这个代币质押到矿池合约里面。如果是LP挖矿，就填入LP的合约地址。（不知道LP地址的话，可以进群让志愿者查一下：[https://t.me/pandatool](https://t.me/pandatool)）
 * **奖励代币：**&#x586B;入奖励代币的合约地址，一般为USDT或者USDC的合约地址，也可以是其他任意代币合约
 * **查询代币：**&#x8F93;入好地址后，一定要点击**查询代币**按钮，确保代币没有问题
+
+<figure><img src="../.gitbook/assets/3挖矿参数.png" alt=""><figcaption></figcaption></figure>
+
+* **挖矿名称：**&#x968F;便起一个就行，无实际意义。支持中文、英文以及中英融合
 * **开始时间：**&#x5F00;始挖矿的具体时间（时区以您电脑/手机上显示的为准）
 * **挖矿天数：**&#x5177;体要挖矿挖多少天，可以自行设置
 * **每日奖励代币数量：**&#x6BCF;天挖矿会产出多少代币，这个数字后期可以修改（注意：奖励**每秒**都会产出）
@@ -71,6 +74,9 @@ icon: gavel
 > 假设有2个人质押，那**根据每个人的质押份额瓜分这1000奖励**：甲质押10枚，乙质押20枚。由于乙的质押数量是甲的2倍，乙的奖励也是甲的2倍，即乙每天获得666枚，甲每天获得333枚，。如果还有第三个人丙，那看丙质押多少，再确定每个人的份额比例进行分配
 
 * **锁仓时间：**&#x7528;户质押后，是否要锁仓？不锁仓，就填0。锁仓的话，就意味着暂时取不了，不能解押。要锁多少天，就填多少（1天就是24小时，意味着用户质押后，需24小时后才能解锁。）
+
+<figure><img src="../.gitbook/assets/4限制与设置.png" alt=""><figcaption></figcaption></figure>
+
 * **质押数量限制：**&#x53EF;以设置最小和最大质押数量，该数值后期也可以修改
 * **推荐奖励设置：**&#x6316;矿可以邀请下级来参与，一共可以邀请三代，每一代都可以单独设置推荐比例。（推荐奖励给的是奖励代币，下级在领取奖励的时候，会自动将一部分奖励按照比例给到上级 ）
 * **注意：**&#x53EA;有**先参与挖矿，才有资格推荐别人**，否则邀请链接是没有用处的。
@@ -78,7 +84,7 @@ icon: gavel
 
 以下就是我填写的挖矿详细信息了
 
-<figure><img src="../.gitbook/assets/3挖矿信息.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5挖矿参数.png" alt=""><figcaption></figcaption></figure>
 
 通过上述信息可以看到，我给挖矿随便起了一个名字叫挖矿1号，质押和奖励代币的合约地址已经输入好了，且点击了查询按钮，挖矿天数是100天，最小质押100枚，最大质押10000枚，奖励的代币是USDT，每天奖励1000枚、然后还设置了三级邀请奖励，第一级3%，第二级2%，第三级1%。
 
@@ -90,17 +96,15 @@ icon: gavel
 
 所有信息确认无误后，点击创建挖矿按钮
 
-<figure><img src="../.gitbook/assets/4创建挖矿.png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/5二次确认.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/6创建合约.png" alt=""><figcaption></figcaption></figure>
 
 此时会跳出钱包确认，并支付费用
 
-<figure><img src="../.gitbook/assets/6钱包确认 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7创建合约.png" alt=""><figcaption></figcaption></figure>
 
 等待几秒钟，就会提示创建成功，然后进入点击按钮，进入控制台就行
 
-<figure><img src="../.gitbook/assets/7进入控制台.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8创建成功.png" alt=""><figcaption></figcaption></figure>
 
 **第四步：存入奖励代币**
 
@@ -108,21 +112,19 @@ icon: gavel
 
 在控制台右边的`全局控制`板块，有一个`存入代币`的按钮，点击之后输入您要存入的奖励代币数量
 
-<figure><img src="../.gitbook/assets/9存入代币.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/9存入代币 (1).png" alt=""><figcaption></figcaption></figure>
 
 确定之后，会跳出钱包进行确认，确认完成即可将代币存入合约。注意，如果代币奖励不够发的，就需要你继续存入了。
 
-
-
 如果挖矿结束多了，还可以点击提取资金按钮，将多余的代币取出。
 
-<figure><img src="../.gitbook/assets/10提取资金.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/10提取资金 (1).png" alt=""><figcaption></figcaption></figure>
 
 具体能提多少，到时候就看挖矿合约里还剩多少了。
 
 代币存入之后，就已经具备挖矿的条件了，但用户在哪里参与呢？控制台有一个入口，我们点击进入，即可跳转到质押挖矿页面
 
-<figure><img src="../.gitbook/assets/11进入挖矿.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/11进入挖矿 (1).png" alt=""><figcaption></figcaption></figure>
 
 进入之后，用户在右上角连接钱包，输入质押数量，点击质押按钮，就能参与质押挖矿了。案例链接：[https://unicrypto.vercel.app/mine?contract=0xc2e7CE314F8e9dFc3E822E72799E955BAc22Be64\&chainid=97](https://unicrypto.vercel.app/mine?contract=0xc2e7CE314F8e9dFc3E822E72799E955BAc22Be64\&chainid=97)
 
@@ -140,13 +142,13 @@ icon: gavel
 
 我们在控制台找到挖矿参数控制，然后逐一进行修改
 
-<figure><img src="../.gitbook/assets/14挖矿参数修改.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/12挖矿参数控制.png" alt=""><figcaption></figcaption></figure>
 
-* 修改时间：这里修改的是挖矿的时间周期，比如30天、100天、300天等等
-* 修改质押限制：这里修改的是最小质押数量和最大质押数量限制
-* 修改推荐奖励：主要是修改每一层级的推荐奖励的比例
-* 修改每日奖励：是要修改每日挖矿产出的奖励代币数量
-* 修改锁仓时间：用户质押后应该要锁仓多久，这个时间可以改
+* **修改时间：**&#x8FD9;里修改的是挖矿的时间周期，比如30天、100天、300天等等
+* **修改质押限制：**&#x8FD9;里修改的是最小质押数量和最大质押数量限制
+* **修改推荐奖励：**&#x4E3B;要是修改每一层级的推荐奖励的比例
+* **修改每日奖励：**&#x662F;要修改每日挖矿产出的奖励代币数量
+* **修改锁仓时间：**&#x7528;户质押后应该要锁仓多久，这个时间可以改
 
 总的来说，控制台的权限还是非常大，基本上可以修改大多数挖矿的参数。
 
@@ -156,13 +158,11 @@ icon: gavel
 
 控制台右下方有一个页面信息控制，可以让您修改官网的文案以及图片
 
-<figure><img src="../.gitbook/assets/15修改官网信息.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/13页面信息控制 (1).png" alt=""><figcaption></figcaption></figure>
 
 **修改logo：**&#x53EF;以采用上传图片、填写图片url的方式。如果对logo不满意，也可以退回到默认选项
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252Fn5tIaN0Zpi5pmnsABzpn%252F16%2520logo%25202.png%3Falt%3Dmedia%26token%3D510e969d-9481-4bf5-b239-ecc8e76d8fef&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=3e64bd78&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/14上传logo.png" alt=""><figcaption></figcaption></figure>
 
 修改的logo主要体现在网站左上角和左下角的头像，位置如下图
 
@@ -170,7 +170,7 @@ icon: gavel
 
 **修改背景图：**&#x5C31;是修改整个网站的背景图片。首先，我们不建议大家修改这个选项，因为如果背景图不好看，整个网站就会变得非常丑。如果要用背景图，建议使用深色背景。如果最后还是觉得不好看，可以直接**退回默认**
 
-<figure><img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FGJQz85qHkfD8J58Dcb0u%252F17%2520%25E9%2580%2580%25E5%259B%259E%25E9%25BB%2598%25E8%25AE%25A4.png%3Falt%3Dmedia%26token%3D14d78526-19aa-45ff-8c1a-fa7d227b72bf&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=da954456&#x26;sv=2" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/15退回默认设置.png" alt=""><figcaption></figcaption></figure>
 
 **修改全局信息：**&#x8BE5;部分主要是4个方面
 
@@ -240,6 +240,3 @@ icon: gavel
 * 答：这个也是可以的，但需要联系我们的志愿者付费解决：[https://t.me/btc6560](https://t.me/btc6560)
 
 PandaTool在Telegram的官方交流群：[https://t.me/pandatool](https://t.me/pandatool)   如果您有任何其他问题，均可以随时咨询。
-
-
-

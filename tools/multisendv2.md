@@ -3,7 +3,7 @@ description: 一次性将代币转账至多个地址
 icon: inbox-out
 ---
 
-# 代币批量空投教程
+# 代币批量空投V2教程
 
 ### **什么是批量空投工具？**
 
@@ -33,7 +33,7 @@ icon: inbox-out
 
 #### **1、打开批量工具并连接钱包**
 
-首先，我们需要通过网址打开批量空投工具：[https://pandatool.org/#/multisendV2?lang=zh-CN](https://pandatool.org/#/multisendV2?lang=zh-CN) &#x20;
+首先，我们需要通过网址打开批量空投工具：[https://classic.pandatool.org/#/multisendV2?lang=zh-CN](https://classic.pandatool.org/#/multisendV2?lang=zh-CN)
 
 <figure><img src="../.gitbook/assets/1打开工具.png" alt=""><figcaption></figcaption></figure>
 
@@ -78,7 +78,7 @@ icon: inbox-out
 {% hint style="success" %}
 如何获得热门代币的持币数据？如果你想将代币空投给USDT、Doge这种热门代币的持有者，可以通过我们的快照工具获取这些代币的持仓地址，然后再空投即可。
 
-代币快照数据：[https://pandatool.org/#/contractCheck/snapshotToken?lang=zh-CN](https://pandatool.org/#/contractCheck/snapshotToken?lang=zh-CN)
+代币快照数据：[https://www.pandatool.org/zh-CN/tool/snapshot](https://www.pandatool.org/zh-CN/tool/snapshot)
 {% endhint %}
 
 #### **4、代币授权**

@@ -58,19 +58,19 @@ icon: foursquare
 
 ### **1、打开Four发币链接**
 
-第一步，我们需要进入PandaTool开发的Four发币工具页面：[https://pandatool.org/#/createfour?lang=zh-CN](https://pandatool.org/#/createfour?lang=zh-CN)
+第一步，我们需要进入PandaTool开发的Four发币工具页面：[https://www.pandatool.org/zh-CN/createfour](https://www.pandatool.org/zh-CN/createfour)
 
-<figure><img src="../.gitbook/assets/1four发币首页.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1发币.png" alt=""><figcaption></figcaption></figure>
 
 除了上述链接，大家也可以在PandaTool官网首页找到这一入口
 
-<figure><img src="../.gitbook/assets/2four入口.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2导航.png" alt=""><figcaption></figcaption></figure>
 
 ### **2、导入钱包私钥**
 
 进入到Four发币页面之后，我们首先要将发币钱包的私钥导入进来。私钥的作用，主要是帮助大家进行代币购买的。PandaTool支持创建者钱包在发币的同时以最低价格购买一笔，以此获得代币筹码
 
-<figure><img src="../.gitbook/assets/3输入私钥.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3导入私钥 (2).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="danger" %}
 请注意！该功能只是基于您的设备前端运行。PandaTool不会获取您的私钥，您的私钥只存储在您的电脑前端，不会上传至任何服务器！
@@ -80,23 +80,23 @@ icon: foursquare
 
 接下来，你可以填写代币的基本信息
 
+<figure><img src="../.gitbook/assets/4参数.png" alt=""><figcaption></figcaption></figure>
+
 * **代币全称：**&#x53EF;以是中文，英文或者中英结合
 * **代币简称：**&#x53EF;以是中文，英文或者中英结合
 * **logo：**&#x5C3A;寸小于5M
 * **简介：4**00字符以内
 * **标签：**&#x35;个标签，只能选择一个
 
-例如我填写的信息如下
-
-<figure><img src="../.gitbook/assets/4代币基本信息.png" alt=""><figcaption></figcaption></figure>
-
-### **4、选择参数**
+### **4、可选信息**
 
 接下来，有一些选填参数，可以填，也可以不填
 
+<figure><img src="../.gitbook/assets/5可选信息.png" alt=""><figcaption></figcaption></figure>
+
 * **官网：**&#x4EE3;币项目的官网
-* **电报：**&#x4EE3;币的Telegram官网交流群
 * **X/Twitter：**&#x4EE3;币项目的推特官网账号
+* **电报：**&#x4EE3;币的Telegram官网交流群
 * **开盘时间：**&#x4EE3;币的开始交易时间
 
 ### **5、填入购买数量**
@@ -111,13 +111,13 @@ Four的机制是：代币创建完成后，全部进入他们的内盘资金池�
 注意：购买数量不得超过18个BNB，不然无法买入（18是募资上限，不能超过这个数）
 {% endhint %}
 
-<figure><img src="../.gitbook/assets/5购买金额.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/16买入数量.png" alt=""><figcaption></figcaption></figure>
 
 ### **6、创建代币**
 
 在以上所有信息填写完成之后，就可以点击“立即创建”按钮
 
-<figure><img src="../.gitbook/assets/6立即创建 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7立即创建.png" alt=""><figcaption></figcaption></figure>
 
 等待几秒钟之后，就会提示你创建成功。这个时候去Four.meme，就能看到自己的代币情况了
 
@@ -131,13 +131,9 @@ Four的机制是：代币创建完成后，全部进入他们的内盘资金池�
 
 如果你希望哪个钱包参与购买，就在这个页面导入相对应的私钥即可
 
-<figure><img src="../.gitbook/assets/8批量导入私钥.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/8导入私钥.png" alt=""><figcaption></figcaption></figure>
 
-导入之后，填写每个钱包要购买的金额
-
-<figure><img src="../.gitbook/assets/9导入钱包.png" alt=""><figcaption></figcaption></figure>
-
-填写确认之后，点击立即创建，即可完成代币的创建和捆绑购买。
+导入之后，填写每个钱包要购买的金额，填写确认之后，点击立即创建，即可完成代币的创建和捆绑购买。
 
 {% hint style="danger" %}
 注意！每捆绑一个钱包，需要额外支付0.01BNB的费用，这个费用统一由创建钱包支付。所以，请保证创建者钱包内有足够的BNB用来支付捆绑费用。
@@ -172,4 +168,3 @@ Four的机制是：代币创建完成后，全部进入他们的内盘资金池�
 * **答：**&#x662F;的，所有代币合约尾号都是4444，与官网保持一致。
 
 如果您对Four.meme创建代币还有其他疑问，可以加入我们的官方Telegram交流群，会有专人给您解答：[**https://t.me/pandatool**](https://t.me/pandatool)
-

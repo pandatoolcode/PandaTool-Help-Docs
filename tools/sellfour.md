@@ -21,31 +21,31 @@ icon: sellcast
 
 #### **1、配置卖出参数**
 
-我们打开PandaTool开发的FourMeme一键卖出工具：[https://pandatool.org/#/sellfour?lang=zh-CN](https://pandatool.org/#/sellfour?lang=zh-CN)，或者在官网导航栏找到捆绑卖出的按钮
+我们打开PandaTool开发的FourMeme一键卖出工具：[https://www.pandatool.org/zh-CN/sellfour](https://www.pandatool.org/zh-CN/sellfour)，或者在官网导航栏找到捆绑卖出的按钮
 
-<figure><img src="../.gitbook/assets/1找到工具.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1导航.png" alt=""><figcaption></figcaption></figure>
 
 进入到Four一键捆绑卖出页面后，我们填写相关的参数
 
-<figure><img src="../.gitbook/assets/2参数填写.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2代币和钱包.png" alt=""><figcaption></figcaption></figure>
 
-* **卖出钱包私钥：**&#x586B;写主钱包的私钥，用于支付捆绑费用
 * **卖出代币地址：**&#x8F93;入Four代币合约地址，点&#x51FB;**`查询`**
-* **代币全称：**&#x6839;据合约地址自动识别
-* **代币简称：**&#x6839;据合约地址自动识别
-* **捆绑卖出地址：**&#x9700;导入捆绑钱包私钥
+* **卖出钱包私钥：**&#x586B;写主钱包的私钥，用于支付捆绑费用
+* **主钱包地址：**&#x5BFC;入钱包私钥后自动识别
 
-<figure><img src="../.gitbook/assets/3 导入私钥.png" alt=""><figcaption></figcaption></figure>
+之后，如果您有其他钱包需要捆绑，还需要继续导入私钥
+
+<figure><img src="../.gitbook/assets/3卖出钱包.png" alt=""><figcaption></figcaption></figure>
 
 ### **2、立即卖出**
 
-所有参数填写完成、钱包导入成功后，会如下图所示
+所有参数填写完成、钱包导入成功后，点击立即卖出按钮
 
-<figure><img src="../.gitbook/assets/4立即卖出.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4点击卖出.png" alt=""><figcaption></figcaption></figure>
 
-之后我们点击立即卖出按钮，系统就会自动执行。几秒钟后，就会提示执行完成。Four代币的余额也是直接显示为0，说明已经清仓
+系统就会自动执行。几秒钟后，就会提示执行完成。Four代币的余额也是直接显示为0，说明已经清仓
 
-<figure><img src="../.gitbook/assets/5卖出成功.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5捆绑卖出成功.png" alt=""><figcaption></figcaption></figure>
 
 至此，Four代币一键捆绑卖出的流程就全部结束了
 

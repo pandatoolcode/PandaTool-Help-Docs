@@ -19,7 +19,7 @@ icon: location-arrow
 
 **小额跨链工具：**[https://bridge.pandatool.org/](https://bridge.pandatool.org/)
 
-**混币工具：**[**https://tornado.pandatool.org/**](https://tornado.pandatool.org/)
+**混币工具：**[https://tornado.pandatool.org/](https://tornado.pandatool.org/)
 
 **交流群**: [https://t.me/pandatool](https://t.me/pandatool)
 
@@ -29,17 +29,21 @@ icon: location-arrow
 
 [分红本币](https://pandatool.org/#/coinrelease/holdReflection)：简单干净合约,无黑白名单,无权限,加池自动开盘,持币即可获益
 
+[多功能代币](https://www.pandatool.org/zh-CN/coinrelease/simplecontrol)：支持增发、暂停交易、黑名单等复杂功能
+
 [LP分红代币](https://pandatool.org/#/coinrelease/LPReflection)：加池参与分红、池子越来越厚，币价螺旋上涨
 
 [LP分红+推荐奖励](https://pandatool.org/#/coinrelease/LPwithInviter)：下级交易、上级奖励、持续裂变、壮大规模
+
+[黑洞分红](https://www.pandatool.org/zh-CN/coinrelease/blackhole)：销毁代币参与分红，从而减少代币流通以抬升币价
 
 [314协议](https://www.pandatool.org/#/coinrelease/314%E5%8D%8F%E8%AE%AE)：席卷全球创新314玩法、无需swap即可兑换、交易冷却防夹子
 
 [持币复利+推荐奖励](https://pandatool.org/#/coinrelease/holdWithInviter) ：持币自动生息、代币资产累积、打造去中心化银行
 
-[Mint+持币暴力分红](https://www.pandatool.org/#/coinrelease/HoldRefOthers) ：MINT公平发射,全民暴持币力分红,社区共创共赢
+[持币暴力分红](https://www.pandatool.org/#/coinrelease/HoldRefOthers) ：MINT公平发射,全民暴持币力分红,社区共创共赢
 
-[Mint+底池燃烧](https://www.pandatool.org/#/coinrelease/LPBurn) ：MINT公平发射，底池定时燃烧、价格被动上涨
+[底池燃烧](https://www.pandatool.org/#/coinrelease/LPBurn) ：MINT公平发射，底池定时燃烧、价格被动上涨
 
 [LP挖矿+推荐奖励](https://pandatool.org/#/coinrelease/LPMine)：加池挖矿、恒定产出、无前端无后端、完全去中心化运行
 
@@ -49,19 +53,29 @@ icon: location-arrow
 
 [创建流动性并买入](https://www.pandatool.org/#/createliquiditybuy?lang=zh-CN)：加池的一瞬间通过多个地址捆绑买入代币
 
+[创建稳定池](https://www.pandatool.org/zh-CN/liquidity/createv3)：可以使代币的价格长期维持在稳定的范围
+
 [流动性管理工具](https://www.pandatool.org/#/LPmanage?lang=zh-CN)：添加流动性/池子、移除流动性/池子的管理工具
 
-### 创建预售
+### 一键DAPP创建工具
 
-[标准预售工具](https://www.pandatool.org/#/presale/simpleMint)：转账即预售、链上可查、100%去中心化
+[一键官网](https://www.pandatool.org/zh-CN/website/create)：无代码创建代币品牌官网，可进行文案修改
 
-[加池预售工具](https://www.pandatool.org/#/presale/mintAddSale)：预售即加池、自动分发LP、人人都是做市商
+[一键IDO](https://www.pandatool.org/zh-CN/ido/create)：无代码创建IDO预售平台，支持上下级邀请奖励
 
-[捐赠预售工具](https://www.pandatool.org/#/presale/mintDonate)：公平做慈善、捐赠V神来炒作,打造新叙事预售名称
+[一键挖矿](https://www.pandatool.org/zh-CN/mine/create)：无代码创建质押挖矿DAPP，可以实现代币质押和LP质押
 
-[预售控制台](https://www.pandatool.org/#/presale/console)：修改预售价格、预售份额、实时查看预售数据
+### 创建Mint预售
 
-[创建预售教程](https://help.pandatool.org/presale/simplemint)：最完全的预售创建教程，看了就能学会
+[标准Mint工具](https://www.pandatool.org/#/presale/simpleMint)：转账即预售、链上可查、100%去中心化
+
+[加池Mint工具](https://www.pandatool.org/#/presale/mintAddSale)：预售即加池、自动分发LP、人人都是做市商
+
+[捐赠Mint工具](https://www.pandatool.org/#/presale/mintDonate)：公平做慈善、捐赠V神来炒作,打造新叙事预售名称
+
+[预售Mint控制台](https://www.pandatool.org/#/presale/console)：修改预售价格、预售份额、实时查看预售数据
+
+[创建Mint预售教程](https://help.pandatool.org/presale/simplemint)：最完全的预售创建教程，看了就能学会
 
 ### Solana一键发币
 
@@ -171,9 +185,23 @@ icon: location-arrow
 
 [市值管理工具](https://pandatool.org/#/market/management)：支持BSC、Base、ARB等
 
+[交易跟单工具](https://www.pandatool.org/zh-CN/market/follow)：可以跟单买单、卖单等
+
 [市值管理教程](https://help.pandatool.org/tools/operate)：仔细阅读教程，只支持Pancake V2和Uniswap V2
 
 Solana市值管理机器人请参考Solana板块
+
+### 实用工具
+
+[锁池/锁仓工具](https://www.pandatool.org/zh-CN/lock/create)：将代币或Lp锁在智能合约，到期前无法取出
+
+[代币快照工具](https://www.pandatool.org/zh-CN/tool/snapshot)：实时查询某个代币合约的持仓地址与数量，并导出
+
+[靓号生成工具](https://www.pandatool.org/zh-CN/batchtools/vanity)：生成带有个性化前缀和后缀的BSC地址、波场钱包地址等
+
+[合约检测工具](https://www.pandatool.org/zh-CN/tool/check)：基于AI模型，检测代币合约是否存在漏洞和风险，以防资产丢失
+
+[上传logo工具](https://www.pandatool.org/zh-CN/tool/logo)：支持将代币的logo上传至Ave、TP钱包、区块链浏览器、Pancake等平台
 
 ### LP流动性修复
 
