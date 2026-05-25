@@ -124,6 +124,7 @@
 * [代币批量空投V2教程](tools/multisendv2.md)
 * [代币批量转账/空投教程](tools/multisend.md)
 * [DEX批量交易与市值管理教程](tools/marketmaker.md)
+* [交易所跟单机器人教程](tools/follow.md)
 * [靓号地址生成器](tools/vanity-address.md)
 * [代币快照教程](tools/snapshottoken.md)
 * [代币logo提交](tools/logo.md)

@@ -44,7 +44,7 @@ icon: rotate
 
 <figure><img src="../.gitbook/assets/2代币价格正常.png" alt=""><figcaption></figcaption></figure>
 
-* 如果查询有问题，会提示您未找到对应的资金池，您需要核对选择的区块链或者交易所是否正确
+* 如果查询有问题，会提示您未找到对应的交易池。这个时候，您需要核对选择的区块链或者交易所是否正确
 
 <figure><img src="../.gitbook/assets/3未找到对应资金池.png" alt=""><figcaption></figcaption></figure>
 

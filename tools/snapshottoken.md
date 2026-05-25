@@ -30,29 +30,29 @@ icon: camera-polaroid
 
 **1、打开PandaTool**
 
-首先，我们打开PandaTool的代币快照工具：[https://pandatool.org/#/contractCheck/snapshotToken?lang=zh-CN](https://pandatool.org/#/contractCheck/snapshotToken?lang=zh-CN)
+首先，我们打开PandaTool的代币快照工具：[https://www.pandatool.org/zh-CN/tool/snapshot](https://www.pandatool.org/zh-CN/tool/snapshot)
 
-<figure><img src="../.gitbook/assets/1找到工具 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1代币快照.png" alt=""><figcaption></figcaption></figure>
 
 **2、选择链并输入代币**
 
-接下来，您需要输入要快照的代币合约地址，并且选择区块链。例如我要抓取/快照BSC链USDT的持币地址，我就选择BSC，并且输入USDT的合约地址：0x55d398326f99059fF775485246999027B3197955，然后点&#x51FB;**`搜索`**&#x6309;钮
+接下来，您需要输入要快照的代币合约地址，并且选择区块链。例如我要抓取/快照BSC链USDT的持币地址，我就选择BSC，并且输入USDT的合约地址：0x55d398326f99059fF775485246999027B3197955，然后点&#x51FB;**`快照`**&#x6309;钮
 
-<figure><img src="../.gitbook/assets/2链与地址 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2代币快照.png" alt=""><figcaption></figcaption></figure>
 
 **3、筛选快照数据**
 
 搜索之后，我们就能看到基本的代币数据了。接下来，要对这些数据进行筛选
 
-<figure><img src="../.gitbook/assets/3筛选.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3快照筛选.png" alt=""><figcaption></figcaption></figure>
 
-* **持仓地址筛选：**&#x54;OP100的意思，就是快照前100持币者的地址。TOP500就是前500的持仓地址，以此类推
-* **自定义最低代币持有量：**&#x7B5B;选出持有这个数量以上的地址。假设您填写100，意味着持币数量少于100的地址将**不会**被快照
+* **快速筛选：**&#x54;OP100的意思，就是快照前100持币者的地址。TOP500就是前500的持仓地址，以此类推
 
 **4、快照导出**
 
 当我们设定好筛选的数据后，再选择导出格式：
 
+* **最小持有量：**&#x7B5B;选出持有这个数量以上的地址。假设您填写100，意味着持币数量少于100的地址将**不会**被快照
 * **CSV：**&#x7C7B;似于Excel表格，可以在批量转账的时候用来上传识别地址。
 * **TXT：**&#x6587;本格式，便于查看与复制
 
@@ -60,7 +60,7 @@ icon: camera-polaroid
 
 确定好格式后，我们点击“立即快照”按钮
 
-<figure><img src="../.gitbook/assets/4导出.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4导出选择.png" alt=""><figcaption></figcaption></figure>
 
 之后，浏览器会提示您下载一个文档，这个就是您导出的快照数据
 

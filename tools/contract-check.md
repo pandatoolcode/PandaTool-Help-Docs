@@ -5,7 +5,7 @@ icon: shield-check
 
 # 合约安全检测
 
-PandaTool提供开放、无需许可、用户驱动的代币安全检测服务，致力于打造web3 的“安全基础设施”。一键体验：[https://pandatool.org/#/contractCheck/contractCheck](https://pandatool.org/#/contractCheck/contractCheck)
+PandaTool提供开放、无需许可、用户驱动的代币安全检测服务，致力于打造web3 的“安全基础设施”。一键体验：[https://www.pandatool.org/zh-CN/tool/check](https://www.pandatool.org/zh-CN/tool/check)
 
 ## 检测工具优势
 
@@ -21,17 +21,25 @@ PandaTool集成了GoPlus的代币检测技术，支持8条公链（BSC、ETH、A
 
 PandaTool合约检测工具累积检测项目超30项，包括白名单、黑名单、增发、买卖税率、代理合约、权限设置、交易冷却等等，让用户可以更直观的了解代币信息
 
+### 检测报告全
+
+PandaTool合约检测工具可以支持用户导出PDF检测报告，以作为代币的审计报告替代。既有权威性，又有价值性。
+
 ## 检测工具使用方法
 
-打开合约检测页面[https://pandatool.org/#/contractCheck/contractCheck](https://pandatool.org/#/contractCheck/contractCheck)
+打开合约检测页面[https://www.pandatool.org/zh-CN/tool/check](https://www.pandatool.org/zh-CN/tool/check)
 
-<figure><img src="../.gitbook/assets/1689759913874.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1 (12).png" alt=""><figcaption></figcaption></figure>
 
 第一步：选择要检测的合约代币所属链
 
-第三步：输入要检测的合约地址
+第二步：输入要检测的合约地址
 
-第四步：点击检测按钮，查询结果
+第三步：点击查询按钮，查询结果
+
+第四步：导出PDF（将合约检测结果导出成PDF检测报告）
+
+<figure><img src="../.gitbook/assets/2导出PDF.png" alt=""><figcaption></figcaption></figure>
 
 ## 合约检测结果分析
 
@@ -83,3 +91,12 @@ PandaTool合约检测工具累积检测项目超30项，包括白名单、黑名
 
 若存在取回所有权的逻辑，可能让项目方在放弃所有权后重新获取owner权限
 
+{% hint style="danger" %}
+**温馨提示**
+
+* 合约检测结果仅供参考，不构成投资建议。
+* 请结合其他渠道信息综合判断项目安全性。
+* 高风险合约可能存在资金损失风险，请谨慎投资。
+{% endhint %}
+
+如果您在使用PandaTool的合约检测工具的过程中，有任何问题，可以在我们的Telegram群里咨询：[https://t.me/pandatool](https://t.me/pandatool)
