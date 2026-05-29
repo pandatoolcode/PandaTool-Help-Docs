@@ -27,21 +27,19 @@ icon: axe-battle
 
 所有发币的教程第一步，就是连接钱包。我们首先打开波场一键发币的网址：[https://tron.pandatool.org/](https://tron.pandatool.org/) ，点击右上角链接钱包
 
-<figure><img src="../.gitbook/assets/1-连接钱包 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1链接钱包 (8).png" alt=""><figcaption></figcaption></figure>
 
 此时会跳出波宝钱包提示，按照提示点击连接就可以了
 
-<figure><img src="../.gitbook/assets/2-连接钱包 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/2选择tronlink.png" alt=""><figcaption></figcaption></figure>
 
 连接成功后，右上角会出现钱包地址，说明就可以进入下一步了
-
-<figure><img src="../.gitbook/assets/3-连接钱包.png" alt=""><figcaption></figcaption></figure>
 
 ### 2、填写代币参数
 
 今天我们教学的只有标准币，所有参数非常简单，就是4个：全称、简称、精度和供应量
 
-<figure><img src="../.gitbook/assets/4-参数填写 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3代币信息 (1).png" alt=""><figcaption></figcaption></figure>
 
 * **全称：**&#x4E0D;超过32个字符，建议纯英文（注意：**中文代币、符号代币、仿主流币、域名广告代币**可能会被屏蔽）
 * **简称：**&#x4E0D;超过16个字符，建议纯英文（注意：**中文代币、符号代币、仿主流币、域名广告代币**可能会被屏蔽）
@@ -50,19 +48,21 @@ icon: axe-battle
 
 例如，我要发行一个名为PandaTool的，简称叫：PT，那么就填写成下面这样
 
-<figure><img src="../.gitbook/assets/5-参数填写.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4代币资料.png" alt=""><figcaption></figcaption></figure>
 
 ### 3、钱包确认并支付费用
 
 确认填写的信息无误后，点击“立即创建”按钮，会弹出钱包让你签名确认
 
-<figure><img src="../.gitbook/assets/6-钱包签名确认.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/5创建合约 (2).png" alt=""><figcaption></figcaption></figure>
 
 在钱包确认页面，大家可以看到一笔TRX消耗。这个消耗，主要是用来进行燃烧获得能量的。发个币需要消耗大概56\~60万左右的能量，燃烧大概122个TRX可以获得这些能量。**如果钱包内能量充足，这笔TRX的费用就可以省去。**
 
+<figure><img src="../.gitbook/assets/6钱包签名.png" alt=""><figcaption></figcaption></figure>
+
 当我们点击签名后，等待几秒钟，发币就完成了
 
-<figure><img src="../.gitbook/assets/7-发币完成.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/7代币创建成功.png" alt=""><figcaption></figcaption></figure>
 
 在发币成功的页面，可以看到你的代币地址。至此，整个代币发行工作就算是完成一半了。
 

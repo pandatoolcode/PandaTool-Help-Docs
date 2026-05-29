@@ -73,6 +73,7 @@
 ## TON链发币 <a href="#ton" id="ton"></a>
 
 * [TON链一键发币教程](ton/stardand.md)
+* [TON代币权限管理教程](ton/jetton.md)
 * [STON.fi加池子(创建流动性)教程](ton/ston.md)
 * [DeDust加池子(创建流动性)教程](ton/dedust.md)
 * [Tonkeeper钱包安装教程](ton/tonkeeper.md)
