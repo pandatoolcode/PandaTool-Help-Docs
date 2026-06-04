@@ -125,7 +125,7 @@ icon: rotate
 * **买入：**&#x8BBE;置每笔买单的买入数量范围（如果数字一样，则为固定数量）
 * **卖出：**&#x8BBE;置每笔卖单的卖出数量范围（如果数字一样，则为固定数量）
 
-<img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FrWuBudOPZKINwYCXsrM8%252F13%25E4%25B9%25B0%25E5%258D%2596%25E6%2595%25B0%25E9%2587%258F%2520%25E8%258C%2583%25E5%259B%25B4.png%3Falt%3Dmedia%26token%3D7dc5ec25-1282-41ba-bbdb-856ec10d9164&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=bfef671a&#x26;sv=2" alt="" height="139" width="640">
+<figure><img src="../.gitbook/assets/9买卖金额.png" alt=""><figcaption></figcaption></figure>
 
 **停止方式（设置交易次数）**
 
@@ -134,7 +134,7 @@ icon: rotate
 * **间隔：**&#x6BCF;一笔交易的间隔时间，以秒为单位
 * **线程数：**&#x540C;一秒发起多少笔交易，线程越大，交易频率越高（最大为6）
 
-<img src="https://help.pandatool.org/~gitbook/image?url=https%3A%2F%2F1885923539-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FnmLBiMxr5iATgeZGW8in%252Fuploads%252FMnQnHyF2nTWxJiVIk2OR%252F14%25E4%25BA%25A4%25E6%2598%2593%25E5%2581%259C%25E6%25AD%25A2.png%3Falt%3Dmedia%26token%3D139ee1d0-173f-434d-8a28-96dae36237a6&#x26;width=768&#x26;dpr=3&#x26;quality=100&#x26;sign=8ae55946&#x26;sv=2" alt="" height="146" width="684">
+<figure><img src="../.gitbook/assets/11次数.png" alt=""><figcaption></figcaption></figure>
 
 设定完成后，我点击右边的开启交易按钮，即可**开始交易**
 

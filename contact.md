@@ -15,6 +15,9 @@ icon: comment-arrow-up
 * Github合约库：[https://github.com/pandatoolcode](https://github.com/pandatoolcode)
 * 币安链官网收录：[https://dappbay.bnbchain.org/detail/pandatool](https://dappbay.bnbchain.org/detail/pandatool)
 * DappRadar收录：[https://dappradar.com/dapp/pandatool](https://dappradar.com/dapp/pandatool)
+* Bitget Web3：[https://web3.bitget.com/en/dapp/pandatool-25724](https://web3.bitget.com/en/dapp/pandatool-25724)
+* MagicStoreWeb3: [https://magicsquare.io/store/projects/pandatool](https://magicsquare.io/store/projects/pandatool)
+* Rootdata：[https://cn.rootdata.com/projects/detail/PandaTool](https://cn.rootdata.com/projects/detail/PandaTool)
 
 商务合作与定制开发
 

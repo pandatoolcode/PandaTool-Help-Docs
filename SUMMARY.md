@@ -93,6 +93,7 @@
 ## 波场链发币 <a href="#tron" id="tron"></a>
 
 * [波场Tron一键发币教程](tron/stardand.md)
+* [波场Tron代币创建流动性教程](tron/createv2.md)
 * [波场代币合约验证和开源教程](tron/verify.md)
 * [波场代币信息录入教程](tron/record.md)
 * [波场Tron市值管理机器人使用教程](tron/trxbot.md)

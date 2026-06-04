@@ -19,6 +19,10 @@ icon: person-swimming
 * **加池前：**&#x53BB;掉入池的Sol之后，请确保钱包内额外有不少于0.6个sol
 * **加池前：**&#x8BF7;确保已经安装了Phantom或OKX Web3钱包插件/软件
 
+{% hint style="info" %}
+如果您要让代币价格稳定，请选择创建CLMM稳定币池，教程：[https://help.pandatool.org/sol/clmm](https://help.pandatool.org/sol/clmm)
+{% endhint %}
+
 ## Solana加池教程
 
 ### 1、连接钱包（老手忽略）

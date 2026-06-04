@@ -17,47 +17,73 @@ icon: right-from-bracket
 
 ### 一、连接波宝钱包
 
-我们打开波场批量转账工具的链接：[https://tron.pandatool.org/multisend](https://tron.pandatool.org/multisend) ，点击右上角连接钱包。（请先确保自己的浏览器已经安装了波宝钱包，如果没有，请查阅 → [TronLink波宝钱包安装教程](tronlink.md)）
-
-<figure><img src="../.gitbook/assets/1-连接钱包 (1) (1).png" alt=""><figcaption><p>链接钱包</p></figcaption></figure>
+我们打开波场批量转账工具的链接：[https://tron.pandatool.org/zh-CN/multisend](https://tron.pandatool.org/zh-CN/multisend) ，点击右上角连接钱包。（请先确保自己的浏览器已经安装了波宝钱包，如果没有，请查阅 → [TronLink波宝钱包安装教程](tronlink.md)）
 
 之后TronLink会跳出来让你确认，点击**连接**就可以了
 
-<figure><img src="../.gitbook/assets/2-钱包确认.png" alt=""><figcaption><p>点击连接</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/1链接钱包 (9).png" alt=""><figcaption></figcaption></figure>
 
 连接成功后，右上角会显示出你的钱包地址，此时就可以进入到下一步了
 
-<figure><img src="../.gitbook/assets/3-连接成功.png" alt=""><figcaption><p>批量转账地址</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/2钱包成功.png" alt=""><figcaption></figcaption></figure>
 
 ### 二、填写转账信息
 
-接下来，我们需要填写转账信息，包括：转账的代币、转账的地址以及每个地址的接收数量
+转账信息，主要包括转账代币地址、接受地址以及接受数量三个方面组成，我们分别来看
 
-<figure><img src="../.gitbook/assets/4-转账信息.png" alt=""><figcaption></figcaption></figure>
+#### **1、代币合约地址**
 
-例如，我要转账USDT给到10个钱包地址，每个钱包不固定数量，填写后就是下图的样子
+我们首先需要输入代币合约地址，你要转账什么就输入什么。注意，如果要转TRX，就不用填任何信息
 
-<figure><img src="../.gitbook/assets/5-转账信息确认.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/3代币合约地址.png" alt=""><figcaption></figcaption></figure>
 
-信息确认完成后，我们点击下一步。此时工具会告知你要转账的地址数以及要转账的代币总量，我们需要再次核对确认无误后，点击**查授权/授权**按钮
+如果您要转账TRX，直接留空，什么都不要填。如果你要转账自己的土狗币或者USDT等，就需要填入相对应的代币地址
 
-<figure><img src="../.gitbook/assets/6-核对关键信息 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/4合约地址.png" alt=""><figcaption></figcaption></figure>
 
-如果您是第一次操作，那么此时钱包会提示让你进行授权，我们点击确认即可（授权只发生在USDT这样的代币上，批量转账TRX是不需要授权的）
+#### **2、接收地址**
 
-<figure><img src="../.gitbook/assets/7-授权提示.png" alt=""><figcaption></figcaption></figure>
+接下来，就是填写要接受代币的钱包地址了。地址和数量以英文逗号隔开，每行一组，为保证转账效果，一次最好不要输入超过100个地址
 
-这里我们需要填写自己要授权的USDT数量，或者不用自定义，直接选择默认值也可以。但不管如何，都要保证填写的数量要大于此次转账的数量。
+<figure><img src="../.gitbook/assets/5一键金额.png" alt=""><figcaption></figcaption></figure>
 
-授权信息写好之后，我们点击下一步，此时会让你进行一个签名授权，并再次确认签名
+如上图可以看到，我输入了地址，但是没有输入数量，可以通过**一键金额**的方式，将数量直接填入、支持统一金额以及按照金额范围随机填写，非常方便
 
-<figure><img src="../.gitbook/assets/8-签名授权 (1).png" alt=""><figcaption><p>签名授权</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/6一键金额.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/9-确认授权 (1).png" alt=""><figcaption><p>确认授权</p></figcaption></figure>
+填好之后，就如下图所示。一定要注意，地址要和金额用**英文逗号**隔开
 
-授权确认完成后，日志会有相关提示，此时我们就可以点击**发送交易**了，之后会弹出钱包确认即可完成。
+<figure><img src="../.gitbook/assets/7填好地址.png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/11-签名.png" alt=""><figcaption></figcaption></figure>
+还有一种情况，假设你自己只是想增加代币的持仓地址数量，并没有真实的地址，也不需要。那么就可以通过**随机生成**这个按钮，自动生成地址和数量，然后进行一键空投即可
+
+<figure><img src="../.gitbook/assets/8随机生成.png" alt=""><figcaption></figcaption></figure>
+
+可以自动填写数量和金额范围
+
+<figure><img src="../.gitbook/assets/9随机生成.png" alt=""><figcaption></figcaption></figure>
+
+#### **3、代币授权**
+
+接下来，你能看到你要转账的所有地址以及详细信息。如果你的代币没有授权，就需要点击授权。
+
+<figure><img src="../.gitbook/assets/10代币授权.png" alt=""><figcaption></figcaption></figure>
+
+授权方式有两种：第一种，就是授权此次转账的额度。假设您这次转账6.17枚代币，就授权这么多。等到下次转账的时候，再授权。第二种就是授权无限额度，这样下次转账就无需授权了。
+
+两种方式都没问题，可以自由选择。授权完成后，会进行提示
+
+<figure><img src="../.gitbook/assets/11授权成功.png" alt=""><figcaption></figcaption></figure>
+
+#### **4、执行批量转账**
+
+确认撰写信息没有问题之后，就点击执行按钮，会弹出钱包，确认后即可完成
+
+<figure><img src="../.gitbook/assets/12执行批量转账.png" alt=""><figcaption></figcaption></figure>
+
+执行成功后，日志会有相应的记录和哈希
+
+<figure><img src="../.gitbook/assets/13执行转账.png" alt=""><figcaption></figcaption></figure>
 
 ### 三、疑问解答
 
@@ -73,4 +99,4 @@ icon: right-from-bracket
 
 * 答：批量给10个地址转账USDT大概消耗38.4万能量，燃烧82TRX
 
-如有大家还有不明白或者不清楚的地方，请加入官方电报Telegram群：[https://t.me/PandaTool](https://t.me/PandaTool)
+如有对于波场批量转账代币还有什么疑问的话，请加入官方电报Telegram群：[https://t.me/PandaTool](https://t.me/PandaTool)
